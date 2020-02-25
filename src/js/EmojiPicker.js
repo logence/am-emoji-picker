@@ -265,6 +265,7 @@ export default class EmojiPicker {
      */
     getText () {
         if(this.editor){
+            // ToDo: add getHtml method
             return this.editor.getText();
         }
 

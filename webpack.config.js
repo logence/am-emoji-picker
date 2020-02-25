@@ -1,5 +1,5 @@
-const path = require('path')
-const is_production = process.env.NODE_ENV === "production"
+const path = require('path');
+const is_production = process.env.NODE_ENV === "production";
 
 module.exports = {
     entry    : {
@@ -12,7 +12,7 @@ module.exports = {
         libraryTarget: "umd"
     },
     //uncomment the devtool key for development so that webpack will provide a map to your source
-    devtool  : is_production ? false : '#inline-source-map',
+    devtool  : is_production ? false : 'inline-source-map',
     module   : {
         rules : [
             {
@@ -39,4 +39,4 @@ module.exports = {
     externals: {
         "jquery": "jquery"
     }
-}
+};
