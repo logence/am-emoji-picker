@@ -4,44 +4,44 @@ export default {
     categories: [
         {
             title: "People",
-            icon : '<i class="fa fa-smile-o" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-smile" aria-hidden="true"></i>'
         },
         {
             title: "Nature",
-            icon : '<i class="fa fa-leaf" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-leaf" aria-hidden="true"></i>'
         },
         {
             title: "Foods",
-            icon : '<i class="fa fa-cutlery" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-utensils" aria-hidden="true"></i>'
         },
         {
             title: "Activity",
-            icon : '<i class="fa fa-futbol-o" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-futbol" aria-hidden="true"></i>'
         },
         {
             title: "Places",
-            icon : '<i class="fa fa-globe" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-globe" aria-hidden="true"></i>'
         },
         {
             title: "Symbols",
-            icon : '<i class="fa fa-lightbulb-o" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-lightbulb" aria-hidden="true"></i>'
         },
         {
             title: "Flags",
-            icon : '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
+            icon: '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
         }
     ],
 
     //By default we show an magnifying glass icon in the search container,
     //but if you're not using fontawesome you may want to include your own icon.
-    search_icon : '<i class="fa fa-search" aria-hidden="true"></i>',
+    search_icon: '<i class="fas fa-search" aria-hidden="true"></i>',
 
     //Show the colon syntax in the preview or don't. It may not make sense if you're
     //using a contenteditable element to confuse users with unfamiliar colon syntax
     show_colon_preview: true,
 
     //If you want your contenteditable to be a single-line input, set this to true
-    prevent_new_line : false,
+    prevent_new_line: false,
 
     //The text that will be displayed when no emoji is being hovered over.
     default_footer_message: "Please select an emoji from the list above",
@@ -81,9 +81,13 @@ export default {
     //Paths to the sprite sheets (see the sheets folder in this repo. You'll likely
     //need to override this setting.
     sheets: {
-        apple   : './sheets/sheet_apple_64_indexed_128.png',
-        google  : './sheets/sheet_google_64_indexed_128.png',
-        twitter : './sheets/sheet_twitter_64_indexed_128.png',
+        apple: './sheets/sheet_apple_64_indexed_128.png',
+        google: './sheets/sheet_google_64_indexed_128.png',
+        twitter: './sheets/sheet_twitter_64_indexed_128.png',
         emojione: './sheets/sheet_emojione_64_indexed_128.png'
-    }
+    },
+
+    //Emojis saving method default 'html'
+    //Available values 'img', 'utf'
+    saveAs: 'html'
 }

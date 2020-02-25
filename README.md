@@ -2,23 +2,23 @@
 
 I wanted a modern looking emoji picker that worked on all modern browsers (IE 9+), gave me the flexibility to control what happens when an emoji is clicked, came with support for contenteditable elements, and didn't deal with the horrible :colon: syntax we've forced on users that just want to see a smiley face!
 
-![alt tag](https://raw.githubusercontent.com/RobertMenke/rm-emoji-picker/master/examples/rm-emoji-picker.png)
+![alt tag](https://raw.githubusercontent.com/arm092/am-emoji-picker/master/examples/am-emoji-picker.png)
 
 # Installation
 
 The best way to install the library is through npm:
 
 ```bash
-npm install rm-emoji-picker
+npm install am-emoji-picker
 ```
 
 or
 
 ```bash
-yarn add rm-emoji-picker
+yarn add am-emoji-picker
 ```
 
-https://www.npmjs.com/package/rm-emoji-picker
+https://www.npmjs.com/package/am-emoji-picker
 
 # Usage
 
@@ -30,7 +30,7 @@ Include the css file located at `dist/emojipicker.css` in your html:
 
 Next, import and instantiate the emoji picker, which is a UMD module (thanks webpack!).
 ```javascript
-import EmojiPicker from "rm-emoji-picker";
+import EmojiPicker from "am-emoji-picker";
 
 //First construct an instance of EmojiPicker
 const picker = new EmojiPicker();
@@ -101,7 +101,7 @@ const picker = new EmojiPicker({
     default_footer_message: "Please select an emoji from the list above",
 
     //Can be "autoplace", "vertical", "horizontal", or a function that takes a tooltip as an argument.
-    //The tooltip is an instance of the class in this repo here: https://github.com/RobertMenke/Tooltip-js
+    //The tooltip is an instance of the class in this repo here: https://github.com/arm092/Tooltip-js
     positioning: "autoplace",
     
     //When the user hovers over the top row of icons, do you want them to be shown
@@ -139,42 +139,42 @@ const picker = new EmojiPicker({
     
     //By default we show an magnifying glass icon in the search container, 
     // but if you're not using fontawesome you may want to include your own icon.
-    search_icon : '<i class="fa fa-search" aria-hidden="true"></i>',
+    search_icon : '<i class="fas fa-search" aria-hidden="true"></i>',
     
     //Sets of categories and icons that denote sections at the top of the picker.
     // The category names are not arbitrary, they map to the names of categories in data.js. 
     // By default, I'm assuming you're using FontAwesome because, well, why wouldn't you?! 
     // If you want fewer categories, or different icons this is the place to configure that.
     categories: [
-        {
-            title: "People",
-            icon : '<i class="fa fa-smile-o" aria-hidden="true"></i>'
-        },
-        {
-            title: "Nature",
-            icon : '<i class="fa fa-leaf" aria-hidden="true"></i>'
-        },
-        {
-            title: "Foods",
-            icon : '<i class="fa fa-cutlery" aria-hidden="true"></i>'
-        },
-        {
-            title: "Activity",
-            icon : '<i class="fa fa-futbol-o" aria-hidden="true"></i>'
-        },
-        {
-            title: "Places",
-            icon : '<i class="fa fa-globe" aria-hidden="true"></i>'
-        },
-        {
-            title: "Symbols",
-            icon : '<i class="fa fa-lightbulb-o" aria-hidden="true"></i>'
-        },
-        {
-            title: "Flags",
-            icon : '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
-        }
-    ]
+            {
+                title: "People",
+                icon : '<i class="fas fa-smile" aria-hidden="true"></i>'
+            },
+            {
+                title: "Nature",
+                icon : '<i class="fas fa-leaf" aria-hidden="true"></i>'
+            },
+            {
+                title: "Foods",
+                icon : '<i class="fas fa-utensils" aria-hidden="true"></i>'
+            },
+            {
+                title: "Activity",
+                icon : '<i class="fas fa-futbol" aria-hidden="true"></i>'
+            },
+            {
+                title: "Places",
+                icon : '<i class="fas fa-globe" aria-hidden="true"></i>'
+            },
+            {
+                title: "Symbols",
+                icon : '<i class="fas fa-lightbulb" aria-hidden="true"></i>'
+            },
+            {
+                title: "Flags",
+                icon : '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
+            }
+        ]
 });
 ```
 
@@ -203,6 +203,6 @@ There are 5 objects that work together to create and manage the emoji picker:
 
 # Contributing
 
-To get the project up and running locally, follow the instructions here https://github.com/RobertMenke/rm-emoji-picker/wiki/Build-Instructions.
+To get the project up and running locally, follow the instructions here https://github.com/arm092/am-emoji-picker/wiki/Build-Instructions.
 
 Pull requests are welcome! The best way to get in touch with me is through a github issue.
