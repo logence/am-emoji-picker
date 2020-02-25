@@ -2,7 +2,7 @@
 
 I wanted a modern looking emoji picker that worked on all modern browsers (IE 9+), gave me the flexibility to control what happens when an emoji is clicked, came with support for contenteditable elements, and didn't deal with the horrible :colon: syntax we've forced on users that just want to see a smiley face!
 
-![alt tag](https://raw.githubusercontent.com/arm092/am-emoji-picker/master/examples/am-emoji-picker.png)
+![Emoji picker](https://raw.githubusercontent.com/arm092/am-emoji-picker/master/examples/am-emoji-picker.png)
 
 # Installation
 
