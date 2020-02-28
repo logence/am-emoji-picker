@@ -3,9 +3,9 @@ import EmojiPicker from "./../../dist/EmojiPicker";
 
 $(document).ready(() => {
 
-    const icon      = document.querySelector('.fa-smile');
+    const icon = document.querySelector('.fa-smile');
     const container = document.getElementById('container');
-    const input     = document.getElementById('text-input');
+    const input = document.getElementById('text-input');
 
     const picker = new EmojiPicker({
         sheets: {
@@ -14,7 +14,8 @@ $(document).ready(() => {
             twitter : './../sheets/sheet_twitter_64_indexed_128.png',
             emojione: './../sheets/sheet_emojione_64_indexed_128.png'
         },
-        positioning : "vertical"
+        defaultSheet: 'google',
+        positioning: "vertical"
     });
     picker.listenOn(icon, container, input);
 

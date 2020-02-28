@@ -28,7 +28,7 @@ export default {
         },
         {
             title: "Flags",
-            icon: '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
+            icon: '<i class="fas fa-flag-checkered" aria-hidden="true"></i>'
         }
     ],
 
@@ -51,29 +51,29 @@ export default {
     positioning: "autoplace",
 
     //Callback that occurs when an emoji gets selected. You get back Emoji, EmojiCategory, Node
-    callback       : undefined,
+    callback: undefined,
 
     //Called whenever the picker is open
-    onOpen : undefined,
+    onOpen: undefined,
 
     //Called when the picker has finished parsing and creating markup for each emoji. The callback will be passed
     //an array of EmojiCategory objects
-    onReady : undefined,
+    onReady: undefined,
 
     //When the user hovers over the top row of icons, do you want them to be shown
     //a tooltip indicating which category the icon represents?
-    show_icon_tooltips : true,
+    show_icon_tooltips: true,
 
     //Use sprite sheets to display image emojis rather than links to png files (faster).
     //If you want links to the png files see this repo here for examples (library I'm using):
     //https://github.com/iamcal/emoji-data
-    use_sheets : true,
+    use_sheets: true,
 
     //Events that bubble up from Emoji to EmojiPicker - DO NOT MUTATE
     //Normally I'd use pubsub here, but didn't feel like writing my own implementation
     //or bringing in another dependency for this simple use case.
     events: {
-        SELECTED        : "SELECTED",
+        SELECTED: "SELECTED",
         EMOJI_MOUSEENTER: "MOUSEENTER",
         EMOJI_MOUSELEAVE: "MOUSELEAVE"
     },
@@ -84,10 +84,9 @@ export default {
         apple: './sheets/sheet_apple_64_indexed_128.png',
         google: './sheets/sheet_google_64_indexed_128.png',
         twitter: './sheets/sheet_twitter_64_indexed_128.png',
-        emojione: './sheets/sheet_emojione_64_indexed_128.png'
+        facebook: './sheets/sheet_facebook_32_indexed_128.png',
+        messenger: './sheets/sheet_messenger_32_indexed_128.png',
     },
 
-    //Emojis saving method default 'html'
-    //Available values 'img', 'utf'
-    saveAs: 'html'
+    defaultSheet: 'apple',
 }

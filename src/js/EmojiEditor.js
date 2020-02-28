@@ -145,6 +145,19 @@ export default class EmojiEditor {
         }
 
         return Converters.withUnified().replace_colons(this._input.value);
+    }/**
+     * Gets the text from the input
+     *
+     * @returns {*}
+     */
+    getHtml() {
+        alert('html');
+        // if(this._is_content_editable){
+        //     return this._mapElement(this._input)
+        //                .replace(/[\u200B-\u200D\uFEFF]/g, '');
+        // }
+        //
+        // return Converters.withUnified().replace_colons(this._input.value);
     }
 
     /**

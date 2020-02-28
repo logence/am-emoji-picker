@@ -1,7 +1,7 @@
 {
   "name": "am-emoji-picker",
   "description": "A modular emoji picker written with modern front-end in mind.",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "keywords": [
     "emoji",
     "emoji-picker",
@@ -16,7 +16,7 @@
   "repository": "https://github.com/arm092/am-emoji-picker",
   "bugs": "https://github.com/arm092/am-emoji-picker/issues",
   "dependencies": {
-    "emoji-js": "^3.2.0",
+    "emoji-js": "3.2.1",
     "rm-tooltip": "2.0.2"
   },
   "peerDependencies": {
@@ -28,6 +28,7 @@
     "babel-loader": "^7.1.4",
     "babel-polyfill": "^6.22.0",
     "babel-preset-env": "1.7.0",
+    "babel-preset-es2015": "^6.24.1",
     "glob": "7.1.1",
     "jquery": "3.3.1",
     "mustache": "^2.3.0",
@@ -38,7 +39,7 @@
   },
   "scripts": {
     "start": "webpack --progress --watch",
-    "lib-prod": "webpack --progress --mode production",
+    "lib-prod": "webpack --watch --progress --mode production",
     "lib-dev": "webpack --watch --progress --mode development",
     "example-prod": "webpack --config example.webpack.config.js --watch --progress --mode production",
     "example-dev": "webpack --config example.webpack.config.js --watch --progress --mode development",

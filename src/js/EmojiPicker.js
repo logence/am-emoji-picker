@@ -265,8 +265,20 @@ export default class EmojiPicker {
      */
     getText () {
         if(this.editor){
-            // ToDo: add getHtml method
             return this.editor.getText();
+        }
+
+        throw new Error("Did you call this listenOn method first? The listenOn method constructs an instance of EmojiEditor and it appears to be undefined.");
+    }
+
+    /**
+     * Getter for the input's text.
+     *
+     * @returns {*}
+     */
+    getHtml () {
+        if(this.editor){
+            return this.editor.getHtml();
         }
 
         throw new Error("Did you call this listenOn method first? The listenOn method constructs an instance of EmojiEditor and it appears to be undefined.");
@@ -364,7 +376,7 @@ export default class EmojiPicker {
                 this.defaults[key] = options[key];
             }
         });
-
+        console.log('d',this.defaults);
         if(this.defaults.use_sheets){
             Converters.setSheets(this.defaults.sheets);
         }
