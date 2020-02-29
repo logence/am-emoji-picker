@@ -17,7 +17,7 @@ export default class EmojiPicker {
      *
      * @param {undefined|Object} options
      */
-    constructor(options = undefined){
+    constructor(options = undefined) {
 
         this._callback = undefined;
 
@@ -27,13 +27,13 @@ export default class EmojiPicker {
          *
          * @type {*}
          */
-        this.defaults   = Object.assign({}, defaults);
+        this.defaults = Object.assign({}, defaults);
 
-        if(typeof options === "object"){
+        if (typeof options === "object") {
             this._setDefaults(options);
         }
 
-        if(typeof options === "function"){
+        if (typeof options === "function") {
             this._callback = options;
         }
 
@@ -47,7 +47,7 @@ export default class EmojiPicker {
         /**
          * @type {jQuery}
          */
-        this.$picker    = this._getPicker();
+        this.$picker = this._getPicker();
 
         /**
          * @type {jQuery}
@@ -62,7 +62,7 @@ export default class EmojiPicker {
         /**
          * @type {jQuery}
          */
-        this.$preview_name  = this.$picker.find('#emoji-name');
+        this.$preview_name = this.$picker.find('#emoji-name');
 
         /**
          * @type {jQuery}
@@ -72,7 +72,7 @@ export default class EmojiPicker {
         /**
          * @type {jQuery}
          */
-        this.$content      = this.$picker.find('.emoji-content');
+        this.$content = this.$picker.find('.emoji-content');
 
         /**
          * @type {jQuery}
@@ -82,19 +82,19 @@ export default class EmojiPicker {
         /**
          * @type {jQuery}
          */
-        this.$preview        = this.$picker.find('.emoji-preview');
+        this.$preview = this.$picker.find('.emoji-preview');
 
         /**
          * @type {jQuery}
          */
-        this.$search         = this.$picker.find('.search-emojis');
+        this.$search = this.$picker.find('.search-emojis');
 
         /**
          *
          * @type {HTMLElement|undefined}
          * @private
          */
-        this._icon      = undefined;
+        this._icon = undefined;
 
         /**
          *
@@ -108,7 +108,7 @@ export default class EmojiPicker {
          * @type {HTMLInputElement|HTMLTextAreaElement|HTMLElement|undefined}
          * @private
          */
-        this._input     = undefined;
+        this._input = undefined;
 
         /**
          * Keeps track of placing the emoji in the input, getting
@@ -116,20 +116,20 @@ export default class EmojiPicker {
          *
          * @type {EmojiEditor|undefined}
          */
-        this.editor    = undefined;
+        this.editor = undefined;
 
 
         let _open = false;
         Object.defineProperty(this, 'picker_open', {
-            get : () => _open,
-            set : value => {
-                if(value !== _open){
+            get: () => _open,
+            set: value => {
+                if (value !== _open) {
                     _open = value;
                     //Used to call this.openPicker() when _open was true, but there was a reference error bug in
                     //this issue https://github.com/RobertMenke/rm-emoji-picker/issues/27
                     //I need to pass the click event to this.openPicker so for now we'll only handle
                     //Closing the picker in this setter
-                    if(!_open){
+                    if (!_open) {
                         this.$picker.detach();
                     }
                 }
@@ -138,9 +138,9 @@ export default class EmojiPicker {
 
         let _active_cat;
         Object.defineProperty(this, 'active_category', {
-            get : () => _active_cat,
-            set : value => {
-                if(!_active_cat || (value instanceof EmojiCategory && value.title !== _active_cat.title)){
+            get: () => _active_cat,
+            set: value => {
+                if (!_active_cat || (value instanceof EmojiCategory && value.title !== _active_cat.title)) {
                     _active_cat = value;
                     this.setActiveCategory();
                 }
@@ -149,12 +149,12 @@ export default class EmojiPicker {
 
         let _emoji;
         Object.defineProperty(this, 'active_emoji', {
-           get : () => _emoji,
-            set : value => {
-               if(!_emoji || !value || (value.full_name !== _emoji.full_name)){
-                   _emoji = value;
-                   this._updatePreview();
-               }
+            get: () => _emoji,
+            set: value => {
+                if (!_emoji || !value || (value.full_name !== _emoji.full_name)) {
+                    _emoji = value;
+                    this._updatePreview();
+                }
             }
         });
 
@@ -166,7 +166,7 @@ export default class EmojiPicker {
             ._onSearch()
             ._setCategoryTooltips();
 
-        if(typeof this.defaults.onReady === "function") {
+        if (typeof this.defaults.onReady === "function") {
             this.defaults.onReady(this.categories);
         }
     }
@@ -181,24 +181,26 @@ export default class EmojiPicker {
 
         const converter = Converters.withEnvironment();
         //If the code is running on a mobile device, don't run replace_unified
-        if(Converters.is_mobile){
+        if (Converters.is_mobile) {
             return converter.replace_colons(str);
         }
         //Otherwise, make an attempt to replace both colons and unified code.
         return converter.replace_unified(
-               converter.replace_colons(
-                    str
-                )
-            );
+            converter.replace_colons(
+                str
+            )
+        );
     }
 
     /**
      *
      * @param {object} sheets
+     * @param defaultSheet
      */
-    static setSheets (sheets = undefined){
-        sheets          = sheets || defaults.sheets;
-        Converters.setSheets(sheets);
+    static setSheets(sheets = undefined, defaultSheet = undefined) {
+        sheets = sheets || defaults.sheets;
+        defaultSheet = defaultSheet || defaults.defaultSheet;
+        Converters.setSheets(sheets, defaultSheet);
     }
 
     /**
@@ -207,12 +209,12 @@ export default class EmojiPicker {
      * @param {HTMLElement} container
      * @param {HTMLTextAreaElement|HTMLElement} input
      */
-    listenOn(icon, container, input){
+    listenOn(icon, container, input) {
         this._removeOldEvents();
-        this._icon      = icon
-        this._container = container
-        this._input     = input
-        this.editor     = new EmojiEditor(input, this.defaults.prevent_new_line)
+        this._icon = icon;
+        this._container = container;
+        this._input = input;
+        this.editor = new EmojiEditor(input, this.defaults.prevent_new_line);
 
         this._onIconClick();
     }
@@ -227,10 +229,9 @@ export default class EmojiPicker {
         const tooltip = new Tooltip(this._icon, this._container, this.$picker.get(0));
         tooltip.center();
         //If the developer supplied a function to position the tooltip
-        if(typeof this.defaults.positioning === "function"){
+        if (typeof this.defaults.positioning === "function") {
             this.defaults.positioning(tooltip);
-        }
-        else {
+        } else {
 
             switch (this.defaults.positioning) {
                 case "autoplace":
@@ -251,7 +252,7 @@ export default class EmojiPicker {
         this._onTooltipClick(tooltip, event);
         this.$content.get(0).scrollTop = this.active_category.offset_top;
 
-        if(typeof this.defaults.onOpen === "function") {
+        if (typeof this.defaults.onOpen === "function") {
             this.defaults.onOpen()
         }
 
@@ -263,8 +264,8 @@ export default class EmojiPicker {
      *
      * @returns {*}
      */
-    getText () {
-        if(this.editor){
+    getText() {
+        if (this.editor) {
             return this.editor.getText();
         }
 
@@ -276,8 +277,8 @@ export default class EmojiPicker {
      *
      * @returns {*}
      */
-    getHtml () {
-        if(this.editor){
+    getHtml() {
+        if (this.editor) {
             return this.editor.getHtml();
         }
 
@@ -287,11 +288,10 @@ export default class EmojiPicker {
     /**
      * Empties out the input from the editor.
      */
-    emptyInput () {
-        if(this.editor){
+    emptyInput() {
+        if (this.editor) {
             this.editor.empty();
-        }
-        else{
+        } else {
             console.log("Did you call the listenOn method first? The EmojiEditor instance is undefined.");
         }
     }
@@ -301,16 +301,15 @@ export default class EmojiPicker {
      *
      * @returns {EmojiPicker}
      */
-    setActiveCategory () {
+    setActiveCategory() {
 
         const picker = this;
-        this.$picker.find('.select-category').each(/**@this {HTMLElement}*/function(){
+        this.$picker.find('.select-category').each(/**@this {HTMLElement}*/function () {
             const title = this.getAttribute('data-name');
-            if(title === picker.active_category.title){
+            if (title === picker.active_category.title) {
                 this.classList.add('active');
                 picker.$active_title.text(picker.active_category.title);
-            }
-            else{
+            } else {
                 this.classList.remove('active');
             }
         });
@@ -324,9 +323,9 @@ export default class EmojiPicker {
      * @param name
      */
     setActiveCategoryByName(name) {
-        const cat                      = this.getCategory(name)
-        console.log(cat)
-        if(!cat) {
+        const cat = this.getCategory(name);
+        // console.log(cat);
+        if (!cat) {
             throw new ReferenceError("Your call to setActiveCategoryByName in rm-emoji-picker was not supplied a valid name. Valid names are: " + this.categories.map((cat) => cat.title).join(", ").slice(0, -2))
         }
         this.active_category = cat
@@ -341,7 +340,7 @@ export default class EmojiPicker {
      * @param name
      * @returns {EmojiCategory}
      */
-    getCategory(name){
+    getCategory(name) {
         return this.categories.find(cat => cat.title === name);
     }
 
@@ -353,8 +352,8 @@ export default class EmojiPicker {
      * @param {EmojiCategory} category
      * @returns {*}
      */
-    getEmoji(name, category = undefined){
-        if(category){
+    getEmoji(name, category = undefined) {
+        if (category) {
             return category.emojis.find(emote => emote.full_name === name);
         }
 
@@ -369,16 +368,16 @@ export default class EmojiPicker {
      * @param options
      * @private
      */
-    _setDefaults(options){
+    _setDefaults(options) {
         const keys = Object.keys(options);
         keys.forEach(key => {
-            if(this.defaults.hasOwnProperty(key)){
+            if (this.defaults.hasOwnProperty(key)) {
                 this.defaults[key] = options[key];
             }
         });
-        console.log('d',this.defaults);
-        if(this.defaults.use_sheets){
-            Converters.setSheets(this.defaults.sheets);
+
+        if (this.defaults.use_sheets) {
+            Converters.setSheets(this.defaults.sheets, this.defaults.defaultSheet);
         }
     }
 
@@ -390,10 +389,10 @@ export default class EmojiPicker {
      * @param category
      * @private
      */
-    _dispatchBubble(action, emoji, category){
+    _dispatchBubble(action, emoji, category) {
 
         const events = defaults.events;
-        switch(action){
+        switch (action) {
             case events.SELECTED:
                 this._handleSelection(emoji, category);
                 break;
@@ -418,20 +417,20 @@ export default class EmojiPicker {
      * @param {EmojiCategory} category
      * @private
      */
-    _handleSelection(emoji, category){
+    _handleSelection(emoji, category) {
 
         const node = this.editor.placeEmoji(emoji);
 
-        if(typeof this._callback === "function"){
+        if (typeof this._callback === "function") {
             this._callback(emoji, category, node);
         }
 
-        if(typeof this.defaults.callback === "function"){
+        if (typeof this.defaults.callback === "function") {
             this.defaults.callback(emoji, category, node);
         }
 
         //Close the picker
-        this.picker_open  = false;
+        this.picker_open = false;
         this.active_emoji = undefined;
     }
 
@@ -459,8 +458,8 @@ export default class EmojiPicker {
     _getPicker() {
         const $picker = $(picker({
             default_content: defaults.default_footer_message,
-            categories     : this.categories.map(cat => cat.exportContents()),
-            search_icon    : this.defaults.search_icon
+            categories: this.categories.map(cat => cat.exportContents()),
+            search_icon: this.defaults.search_icon
         }));
 
         const $contents = $picker.find('.emoji-content');
@@ -478,18 +477,18 @@ export default class EmojiPicker {
      * @returns {EmojiPicker}
      * @private
      */
-    _setCategoryTooltips(){
+    _setCategoryTooltips() {
         //Only proceed if the picker has been initialized and the developer opted to show tooltips
-        if(this.$picker && this.defaults.show_icon_tooltips){
+        if (this.$picker && this.defaults.show_icon_tooltips) {
             //cache an array of category icon wrappers
-            const $cats  = this.$picker.find('.select-category');
+            const $cats = this.$picker.find('.select-category');
             //Set up a reference to the class instance
             const picker = this;
             let tooltip;
-            $cats.off('mouseenter.emoji').on('mouseenter.emoji', /**@this {HTMLElement}*/function(event){
+            $cats.off('mouseenter.emoji').on('mouseenter.emoji', /**@this {HTMLElement}*/function (event) {
                 //On mouseenter, get the name of the category, then create the tooltip
                 const title = this.getAttribute('data-name');
-                tooltip     = new Tooltip(this, picker.$picker.get(0), icon_tooltip({
+                tooltip = new Tooltip(this, picker.$picker.get(0), icon_tooltip({
                     text: title
                 }));
 
@@ -508,8 +507,8 @@ export default class EmojiPicker {
      * @returns {EmojiPicker}
      * @private
      */
-    _removeOldEvents (){
-        if(this._icon){
+    _removeOldEvents() {
+        if (this._icon) {
             $(this._icon).off('click.emoji-picker');
         }
 
@@ -526,7 +525,7 @@ export default class EmojiPicker {
     _onIconClick() {
 
         $(this._icon).off('click.emoji').on('click.emoji', event => {
-            if(!this.picker_open) {
+            if (!this.picker_open) {
                 this.openPicker(event);
             }
             this.picker_open = !this.picker_open;
@@ -541,13 +540,13 @@ export default class EmojiPicker {
      * @param {Event} event
      * @private
      */
-    _onTooltipClick(tooltip, event){
+    _onTooltipClick(tooltip, event) {
         tooltip.setClickCallback(event, (target, $tooltip) => {
             const $picker = $(target).closest('#emoji-picker');
             const is_icon = $(target).is(this._icon);
 
             //If the click occurred outside of the tooltip
-            if(!$picker.length && !is_icon){
+            if (!$picker.length && !is_icon) {
                 this.picker_open = false;
             }
         });
@@ -558,7 +557,7 @@ export default class EmojiPicker {
      * @returns {EmojiPicker}
      * @private
      */
-    _onScroll(){
+    _onScroll() {
         this.$content.off('scroll.emoji').on('scroll.emoji', event => {
             this.active_category = this._getActiveCategory();
         });
@@ -569,10 +568,10 @@ export default class EmojiPicker {
     _onCatClick() {
 
         const picker = this;
-        this.$picker.find('.select-category').off('click.emoji').on('click.emoji', /**@this {HTMLElement}*/function(){
-            const cat                        = picker.getCategory(this.getAttribute('data-name'));
+        this.$picker.find('.select-category').off('click.emoji').on('click.emoji', /**@this {HTMLElement}*/function () {
+            const cat = picker.getCategory(this.getAttribute('data-name'));
             picker.$content.get(0).scrollTop = cat.offset_top;
-            picker.active_category           = picker._getActiveCategory();
+            picker.active_category = picker._getActiveCategory();
         });
 
         return this;
@@ -589,7 +588,7 @@ export default class EmojiPicker {
             const search = this.$search.val().trim();
             this.categories.forEach(cat => cat.search_term = search);
             this.$active_title.text(`Results for: ${search}`);
-            if(search.length === 0){
+            if (search.length === 0) {
                 this.active_category = this._getActiveCategory();
                 //Manually call this in case the category hadn't changed since the search started
                 this.setActiveCategory();
@@ -608,10 +607,10 @@ export default class EmojiPicker {
     _getActiveCategory() {
 
         const scroll_top = this.$content.get(0).scrollTop;
-        let cat          = this.categories[0];
+        let cat = this.categories[0];
 
-        for(let i = 0; i < this.categories.length; i++){
-            if(this.categories[i].offset_top > scroll_top){
+        for (let i = 0; i < this.categories.length; i++) {
+            if (this.categories[i].offset_top > scroll_top) {
                 return cat;
             }
             cat = this.categories[i];
@@ -636,13 +635,11 @@ export default class EmojiPicker {
             if (this.defaults.show_colon_preview) {
                 this.$preview_colon.text(emoji.getColons());
                 this.$preview_name.removeClass('name-only');
-            }
-            else {
+            } else {
                 this.$preview_name.addClass('name-only');
             }
             this.$preview.show();
-        }
-        else {
+        } else {
             this.$preview.hide();
             this.$default_footer.show();
         }

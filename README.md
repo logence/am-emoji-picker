@@ -174,7 +174,12 @@ const picker = new EmojiPicker({
                 title: "Flags",
                 icon : '<i class="fa fa-flag-checkered" aria-hidden="true"></i>'
             }
-        ]
+    ],
+    
+    //Set the default sheet
+    //Default value is 'apple'
+    //Possible values are 'apple','google','twitter','emojione'
+    defaultSheet: 'apple',
 });
 ```
 
@@ -182,6 +187,7 @@ const picker = new EmojiPicker({
 
 This library would not be possible without the help of iamcal/js-emoji https://github.com/iamcal/js-emoji and Tim Down, who provided many wonderful Range and Selection answers on stackoverflow http://stackoverflow.com/users/96100/tim-down.
 
+Thanks to [Robert Menke](https://github.com/RobertMenke) for starting this project.
 # Architecture
 
 
@@ -195,14 +201,24 @@ There are 5 objects that work together to create and manage the emoji picker:
 
 # Future
 
-1. Add frequently used category by logging emoji selections into `localStorage`.
-2. Add an options inside of the picker to choose which emoji palette (apple, google, twitter, emojione) to use.
-3. Add an option for skin tones.
-4. Update the dataset to unicode 9 (pending OS support).
-5. Update code with flow types and typescript definitions.
+* Add getHtml functionality
+
+# Changelog
+
+0.5.3
+* Added option inside of the picker to choose which emoji palette (apple, google, twitter, emojione) to use.
+* Fixed broken emojies positions on the emojies' sprite
+
+0.5.2
+* Updated some libraries used in package
+* Fixed undefined sheet error
+
+0.5.1
+* Fixed all known bugs
+
+0.5.0
+* Updated font awesome icons (categories and search) to FA version 5.12.1
 
 # Contributing
-
-To get the project up and running locally, follow the instructions here https://github.com/arm092/am-emoji-picker/wiki/Build-Instructions.
 
 Pull requests are welcome! The best way to get in touch with me is through a github issue.

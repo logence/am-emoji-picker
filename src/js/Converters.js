@@ -31,11 +31,10 @@ class Converters {
      * Sets the image sheets used by class
      *
      * @param sheets
+     * @param defaultSheet
      */
-    setSheets(sheets) {
+    setSheets(sheets, defaultSheet = 'apple') {
         sheets = sheets || defaults.sheets;
-        let defaultSheet = defaults.defaultSheet || 'apple';
-        console.log(defaultSheet);
 
         [this.withEnvironment(), this.withImage()].forEach(/**EmojiConvertor*/converter => {
             converter.img_sets.apple.sheet = sheets.apple;
