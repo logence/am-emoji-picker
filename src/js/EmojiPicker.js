@@ -250,6 +250,11 @@ export default class EmojiPicker {
         this._onTooltipClick(tooltip, event);
         this.$content.get(0).scrollTop = this.active_category.offset_top;
 
+
+        $(this._input).off().on('focus', event=> {
+            this.picker_open = !this.picker_open;
+        });
+
         if (typeof this.defaults.onOpen === "function") {
             this.defaults.onOpen()
         }
