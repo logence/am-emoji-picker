@@ -210,6 +210,8 @@ There are 5 objects that work together to create and manage the emoji picker:
 
 # Future
 
+* Render text emoji like ':)' to emoji
+* Prevent close after click on emoji
 * Add latest emoji saving
 * Remove "emojione" sheet and add "facebook" and "messenger"
 
