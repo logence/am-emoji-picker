@@ -1,7 +1,7 @@
 {
   "name": "am-emoji-picker",
   "description": "A modular emoji picker written with modern front-end in mind.",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "keywords": [
     "emoji",
     "emoji-picker",
@@ -16,7 +16,7 @@
   "repository": "https://github.com/arm092/am-emoji-picker",
   "bugs": "https://github.com/arm092/am-emoji-picker/issues",
   "dependencies": {
-    "emoji-js": "3.2.1",
+    "emoji-js": "3.2.0",
     "rm-tooltip": "2.0.2"
   },
   "peerDependencies": {
