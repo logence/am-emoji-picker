@@ -195,12 +195,10 @@ export default class EmojiPicker {
     /**
      *
      * @param {object} sheets
-     * @param defaultSheet
      */
-    static setSheets(sheets = undefined, defaultSheet = undefined) {
+    static setSheets(sheets = undefined) {
         sheets = sheets || defaults.sheets;
-        defaultSheet = defaultSheet || defaults.defaultSheet;
-        Converters.setSheets(sheets, defaultSheet);
+        Converters.setSheets(sheets);
     }
 
     /**
@@ -214,7 +212,7 @@ export default class EmojiPicker {
         this._icon = icon;
         this._container = container;
         this._input = input;
-        this.editor = new EmojiEditor(input, this.defaults.prevent_new_line);
+        this.editor = new EmojiEditor(input, this.defaults.prevent_new_line,this.defaults.save_html_as);
 
         this._onIconClick();
     }
@@ -377,7 +375,10 @@ export default class EmojiPicker {
         });
 
         if (this.defaults.use_sheets) {
-            Converters.setSheets(this.defaults.sheets, this.defaults.defaultSheet);
+            Converters.setSheets(this.defaults.sheets);
+        }
+        if (this.defaults.palette) {
+            Converters.setDefaultPalette(this.defaults.palette)
         }
     }
 

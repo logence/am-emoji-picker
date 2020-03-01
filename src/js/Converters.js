@@ -25,15 +25,17 @@ class Converters {
         if (defaults.use_sheets) {
             this.setSheets(defaults.sheets);
         }
+        if (defaults.palette) {
+            this.setDefaultPalette(defaults.palette);
+        }
     }
 
     /**
      * Sets the image sheets used by class
      *
      * @param sheets
-     * @param defaultSheet
      */
-    setSheets(sheets, defaultSheet = 'apple') {
+    setSheets(sheets) {
         sheets = sheets || defaults.sheets;
 
         [this.withEnvironment(), this.withImage()].forEach(/**EmojiConvertor*/converter => {
@@ -42,7 +44,19 @@ class Converters {
             converter.img_sets.twitter.sheet = sheets.twitter;
             converter.img_sets.emojione.sheet = sheets.emojione;
             converter.use_sheet = true;
-            converter.img_set = defaultSheet;
+        });
+    }
+
+    /**
+     * Sets the default image sheet palette used by class
+     *
+     * @param palette
+     */
+    setDefaultPalette(palette = 'apple') {
+        palette = ['apple', 'twitter', 'google', 'emojione'].includes(palette) ? palette : 'apple';
+
+        [this.withEnvironment(), this.withImage()].forEach(/**EmojiConvertor*/converter => {
+            converter.img_set = palette;
         });
     }
 

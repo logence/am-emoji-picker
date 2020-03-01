@@ -84,9 +84,16 @@ export default {
         apple: './sheets/sheet_apple_64_indexed_128.png',
         google: './sheets/sheet_google_64_indexed_128.png',
         twitter: './sheets/sheet_twitter_64_indexed_128.png',
-        facebook: './sheets/sheet_facebook_32_indexed_128.png',
-        messenger: './sheets/sheet_messenger_32_indexed_128.png',
+        emojione: './sheets/sheet_emojione_64_indexed_128.png'
     },
 
-    defaultSheet: 'apple',
+    //Set the default sheet
+    //Default value is 'apple'
+    //Possible values are 'apple','google','twitter','emojione'
+    palette: 'apple',
+
+    //Set the default saving method in getHtml method
+    //default value is 'utf8'
+    //possible values are 'html','img','utf8'
+    save_html_as: 'utf8'
 }

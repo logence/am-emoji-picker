@@ -14,12 +14,15 @@ $(document).ready(() => {
             twitter : './../sheets/sheet_twitter_64_indexed_128.png',
             emojione: './../sheets/sheet_emojione_64_indexed_128.png'
         },
-        // defaultSheet: 'google',
-        positioning: "vertical"
+        palette: 'twitter',
+        positioning: "vertical",
+        save_html_as: 'img',
+        use_sheets: true,
     });
     picker.listenOn(icon, container, input);
 
     setInterval(() => {
-        console.log(picker.getText());
-    }, 3000);
+        console.log('text', picker.getText());
+        console.log('html', picker.getHtml());
+    }, 4000);
 });
