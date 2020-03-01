@@ -408,7 +408,7 @@ export default class EmojiEditor {
         }
         if (!gettingHtml || saveHtmlAs == 'utf8') return emojiUtf8;
         if (saveHtmlAs == 'img') {
-            return `<img class="emoji-img" src="http://emojistatic.github.io/images/64/${codepoints}.png" style="width:1.1em;height:1.1em;margin-bottom:-2px;display:inline-block;" alt="${emojiUtf8}">`
+            return `<img class="emoji-img" src="http://emojistatic.github.io/images/64/${codepoints}.png" style="width:1.2em;height:1.2em;font-size:1.2em;vertical-align:text-bottom;" alt="${emojiUtf8}">`
         }
     }
 
