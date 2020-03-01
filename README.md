@@ -211,8 +211,13 @@ There are 5 objects that work together to create and manage the emoji picker:
 # Future
 
 * Add latest emoji saving
+* Remove "emojione" sheet and add "facebook" and "messenger"
 
 # Changelog
+0.5.5
+* Fixed images size in getHtml returned code
+* Picker now closed when editor get focused
+
 0.5.4
 * Added new getHtml method what return html of editor and emojis as you want in save_html_as default
 
