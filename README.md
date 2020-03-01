@@ -214,6 +214,9 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Remove "emojione" sheet and add "facebook" and "messenger"
 
 # Changelog
+0.5.6
+* Fixed emoji-js dependency
+
 0.5.5
 * Fixed images size in getHtml returned code
 * Picker now closed when editor get focused
