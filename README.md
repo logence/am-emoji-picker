@@ -179,7 +179,16 @@ const picker = new EmojiPicker({
     //Set the default sheet
     //Default value is 'apple'
     //Possible values are 'apple','google','twitter','emojione'
-    defaultSheet: 'apple',
+    palette: 'apple',
+    
+    //Set the default emojis saving method in getHtml method
+    //default value is 'utf8'
+    //possible values are
+    // 'html': html code as it is,
+    // 'img': img tag with utf8 alt and src from http://emojistatic.github.io,
+    // 'utf8': utf8 codepoint of emoji (same as in getText() method)
+    save_html_as: 'utf8',
+
 });
 ```
 
@@ -201,9 +210,11 @@ There are 5 objects that work together to create and manage the emoji picker:
 
 # Future
 
-* Add getHtml functionality
+* Add latest emoji saving
 
 # Changelog
+0.5.4
+* Added new getHtml method what return html of editor and emojis as you want in save_html_as default
 
 0.5.3
 * Added option inside of the picker to choose which emoji palette (apple, google, twitter, emojione) to use.
