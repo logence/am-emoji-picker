@@ -216,6 +216,9 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Remove "emojione" sheet and add "facebook" and "messenger"
 
 # Changelog
+0.6.0
+* Fixed all event listeners removing after picking an emoji
+
 0.5.6
 * Fixed emoji-js dependency
 
@@ -227,8 +230,8 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Added new getHtml method what return html of editor and emojis as you want in save_html_as default
 
 0.5.3
-* Added option inside of the picker to choose which emoji palette (apple, google, twitter, emojione) to use.
-* Fixed broken emojies positions on the emojies' sprite
+* Added option inside the picker to choose which emoji palette (apple, google, twitter, emojione) to use.
+* Fixed broken emojis positions on the emojis' sprite
 
 0.5.2
 * Updated some libraries used in package
