@@ -216,6 +216,9 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Remove "emojione" sheet and add "facebook" and "messenger"
 
 # Changelog
+0.6.1
+* Added new saveEditorCaretPosition() method
+
 0.6.0
 * Fixed all event listeners removing after picking an emoji
 

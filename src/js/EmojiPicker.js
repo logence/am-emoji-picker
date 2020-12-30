@@ -218,6 +218,13 @@ export default class EmojiPicker {
     }
 
     /**
+     * Save caret position of the editor (content editable div)
+     */
+    saveEditorCaretPosition() {
+        this.editor.cursor_position = this.editor.constructor.saveSelection();
+    }
+
+    /**
      * Appends the emoji picker to the DOM
      *
      * @returns {EmojiPicker}
