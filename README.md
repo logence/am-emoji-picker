@@ -64,8 +64,7 @@ const picker = new EmojiPicker({
     sheets: {
         apple   : '/sheets/sheet_apple_64_indexed_128.png',
         google  : '/sheets/sheet_google_64_indexed_128.png',
-        twitter : '/sheets/sheet_twitter_64_indexed_128.png',
-        emojione: '/sheets/sheet_emojione_64_indexed_128.png'
+        twitter : '/sheets/sheet_twitter_64_indexed_128.png'
     }
 });
 ```
@@ -81,13 +80,12 @@ Next I'll show you how to construct an EmojiPicker with all of the bells and whi
 const picker = new EmojiPicker({
     //This tells the EmojiPicker that you want to use sprite sheets for operating
     //systems that don't support emoji (sprite sheets are your fastest option).
-    //I've included sprite sheets for apple, google, twitter, and emojione emojis in the repo.
+    //I've included sprite sheets for apple, google and twitter emojis in the repo.
     //Feel free to copy those into your web root and provide a path to the files in this option.
     sheets: {
         apple   : '/sheets/sheet_apple_64_indexed_128.png',
         google  : '/sheets/sheet_google_64_indexed_128.png',
-        twitter : '/sheets/sheet_twitter_64_indexed_128.png',
-        emojione: '/sheets/sheet_emojione_64_indexed_128.png'
+        twitter : '/sheets/sheet_twitter_64_indexed_128.png'
     },
     
     //Show the colon syntax in the preview or don't. It may not make sense if you're
@@ -178,7 +176,7 @@ const picker = new EmojiPicker({
     
     //Set the default sheet
     //Default value is 'apple'
-    //Possible values are 'apple','google','twitter','emojione'
+    //Possible values are 'apple','google','twitter'
     palette: 'apple',
     
     //Set the default emojis saving method in getHtml method
@@ -213,9 +211,14 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Render text emoji like ':)' to emoji
 * Prevent close after click on emoji
 * Add latest emoji saving
-* Remove "emojione" sheet and add "facebook" and "messenger"
+* Add "facebook" sheet
 
 # Changelog
+0.7.0
+* Fixed `default_footer_message` option ignored
+* Fixed webpack configs for correct environment handling and for UMD modules building
+* Removed `emojione` sheet
+
 0.6.1
 * Added new saveEditorCaretPosition() method
 

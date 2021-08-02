@@ -470,7 +470,7 @@ export default class EmojiPicker {
      */
     _getPicker() {
         const $picker = $(picker({
-            default_content: defaults.default_footer_message,
+            default_content: this.defaults.default_footer_message,
             categories: this.categories.map(cat => cat.exportContents()),
             search_icon: this.defaults.search_icon
         }));

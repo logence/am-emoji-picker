@@ -1,5 +1,5 @@
 const path = require('path');
-const is_production = process.env.NODE_ENV === "production";
+const is_production = require('yargs').argv.mode === "production";
 
 module.exports = {
     entry    : {
@@ -7,9 +7,13 @@ module.exports = {
     },
     cache    : true,
     output   : {
-        path         : path.join(__dirname, './dist/'),
-        filename     : '[name].js',
-        libraryTarget: "umd"
+        path          : path.join(__dirname, './dist/'),
+        filename      : '[name].js',
+        libraryTarget : "umd",
+        libraryExport : 'default',
+        library       : 'EmojiPicker',
+        globalObject  : "this",
+        umdNamedDefine: true
     },
     //uncomment the devtool key for development so that webpack will provide a map to your source
     devtool  : is_production ? false : 'inline-source-map',
@@ -35,8 +39,7 @@ module.exports = {
             }
         ]
     },
-    //Since jQuery is a peer-dependency, we leave it here as an external
     externals: {
-        "jquery": "jquery"
+        jquery: 'jQuery'
     }
 };

@@ -4,7 +4,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : false,
-      "has_img_emojione": true,
       "name"            : "COPYRIGHT SIGN",
       "short_name"      : "copyright",
       "short_names"     : [
@@ -16,7 +15,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : false,
-      "has_img_emojione": true,
       "name"            : "REGISTERED SIGN",
       "short_name"      : "registered",
       "short_names"     : [
@@ -28,7 +26,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOUBLE EXCLAMATION MARK",
       "short_name"      : "bangbang",
       "short_names"     : [
@@ -40,7 +37,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EXCLAMATION QUESTION MARK",
       "short_name"      : "interrobang",
       "short_names"     : [
@@ -52,7 +48,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : false,
-      "has_img_emojione": true,
       "name"            : "TRADE MARK SIGN",
       "short_name"      : "tm",
       "short_names"     : [
@@ -64,7 +59,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INFORMATION SOURCE",
       "short_name"      : "information_source",
       "short_names"     : [
@@ -76,7 +70,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEFT RIGHT ARROW",
       "short_name"      : "left_right_arrow",
       "short_names"     : [
@@ -88,7 +81,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UP DOWN ARROW",
       "short_name"      : "arrow_up_down",
       "short_names"     : [
@@ -100,7 +92,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NORTH WEST ARROW",
       "short_name"      : "arrow_upper_left",
       "short_names"     : [
@@ -112,7 +103,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NORTH EAST ARROW",
       "short_name"      : "arrow_upper_right",
       "short_names"     : [
@@ -124,7 +114,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SOUTH EAST ARROW",
       "short_name"      : "arrow_lower_right",
       "short_names"     : [
@@ -136,7 +125,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SOUTH WEST ARROW",
       "short_name"      : "arrow_lower_left",
       "short_names"     : [
@@ -148,7 +136,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEFTWARDS ARROW WITH HOOK",
       "short_name"      : "leftwards_arrow_with_hook",
       "short_names"     : [
@@ -160,7 +147,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RIGHTWARDS ARROW WITH HOOK",
       "short_name"      : "arrow_right_hook",
       "short_names"     : [
@@ -172,7 +158,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
       "short_name"      : "fast_forward",
       "short_names"     : [
@@ -184,7 +169,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK LEFT-POINTING DOUBLE TRIANGLE",
       "short_name"      : "rewind",
       "short_names"     : [
@@ -196,7 +180,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK UP-POINTING DOUBLE TRIANGLE",
       "short_name"      : "arrow_double_up",
       "short_names"     : [
@@ -208,7 +191,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK DOWN-POINTING DOUBLE TRIANGLE",
       "short_name"      : "arrow_double_down",
       "short_names"     : [
@@ -220,7 +202,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
       "short_name"      : "black_right_pointing_double_triangle_with_vertical_bar",
       "short_names"     : [
@@ -232,7 +213,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
       "short_name"      : "black_left_pointing_double_triangle_with_vertical_bar",
       "short_names"     : [
@@ -244,7 +224,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR",
       "short_name"      : "black_right_pointing_triangle_with_double_vertical_bar",
       "short_names"     : [
@@ -256,7 +235,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "DOUBLE VERTICAL BAR",
       "short_name"      : "double_vertical_bar",
       "short_names"     : [
@@ -268,7 +246,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BLACK SQUARE FOR STOP",
       "short_name"      : "black_square_for_stop",
       "short_names"     : [
@@ -280,7 +257,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BLACK CIRCLE FOR RECORD",
       "short_name"      : "black_circle_for_record",
       "short_names"     : [
@@ -292,7 +268,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCLED LATIN CAPITAL LETTER M",
       "short_name"      : "m",
       "short_names"     : [
@@ -304,7 +279,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK SMALL SQUARE",
       "short_name"      : "black_small_square",
       "short_names"     : [
@@ -316,7 +290,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE SMALL SQUARE",
       "short_name"      : "white_small_square",
       "short_names"     : [
@@ -328,7 +301,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK RIGHT-POINTING TRIANGLE",
       "short_name"      : "arrow_forward",
       "short_names"     : [
@@ -340,7 +312,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK LEFT-POINTING TRIANGLE",
       "short_name"      : "arrow_backward",
       "short_names"     : [
@@ -352,7 +323,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE MEDIUM SQUARE",
       "short_name"      : "white_medium_square",
       "short_names"     : [
@@ -364,7 +334,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK MEDIUM SQUARE",
       "short_name"      : "black_medium_square",
       "short_names"     : [
@@ -376,7 +345,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE MEDIUM SMALL SQUARE",
       "short_name"      : "white_medium_small_square",
       "short_names"     : [
@@ -388,7 +356,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK MEDIUM SMALL SQUARE",
       "short_name"      : "black_medium_small_square",
       "short_names"     : [
@@ -400,7 +367,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BALLOT BOX WITH CHECK",
       "short_name"      : "ballot_box_with_check",
       "short_names"     : [
@@ -412,7 +378,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "RADIOACTIVE SIGN",
       "short_name"      : "radioactive_sign",
       "short_names"     : [
@@ -424,7 +389,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BIOHAZARD SIGN",
       "short_name"      : "biohazard_sign",
       "short_names"     : [
@@ -436,7 +400,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ORTHODOX CROSS",
       "short_name"      : "orthodox_cross",
       "short_names"     : [
@@ -448,7 +411,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "STAR AND CRESCENT",
       "short_name"      : "star_and_crescent",
       "short_names"     : [
@@ -460,7 +422,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "PEACE SYMBOL",
       "short_name"      : "peace_symbol",
       "short_names"     : [
@@ -472,7 +433,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "YIN YANG",
       "short_name"      : "yin_yang",
       "short_names"     : [
@@ -484,7 +444,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WHEEL OF DHARMA",
       "short_name"      : "wheel_of_dharma",
       "short_names"     : [
@@ -496,7 +455,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ARIES",
       "short_name"      : "aries",
       "short_names"     : [
@@ -508,7 +466,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TAURUS",
       "short_name"      : "taurus",
       "short_names"     : [
@@ -520,7 +477,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GEMINI",
       "short_name"      : "gemini",
       "short_names"     : [
@@ -532,7 +488,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CANCER",
       "short_name"      : "cancer",
       "short_names"     : [
@@ -544,7 +499,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEO",
       "short_name"      : "leo",
       "short_names"     : [
@@ -556,7 +510,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIRGO",
       "short_name"      : "virgo",
       "short_names"     : [
@@ -568,7 +521,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LIBRA",
       "short_name"      : "libra",
       "short_names"     : [
@@ -580,7 +532,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SCORPIUS",
       "short_name"      : "scorpius",
       "short_names"     : [
@@ -592,7 +543,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SAGITTARIUS",
       "short_name"      : "sagittarius",
       "short_names"     : [
@@ -604,7 +554,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAPRICORN",
       "short_name"      : "capricorn",
       "short_names"     : [
@@ -616,7 +565,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AQUARIUS",
       "short_name"      : "aquarius",
       "short_names"     : [
@@ -628,7 +576,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PISCES",
       "short_name"      : "pisces",
       "short_names"     : [
@@ -640,7 +587,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK SPADE SUIT",
       "short_name"      : "spades",
       "short_names"     : [
@@ -652,7 +598,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK CLUB SUIT",
       "short_name"      : "clubs",
       "short_names"     : [
@@ -664,7 +609,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK HEART SUIT",
       "short_name"      : "hearts",
       "short_names"     : [
@@ -676,7 +620,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK DIAMOND SUIT",
       "short_name"      : "diamonds",
       "short_names"     : [
@@ -688,7 +631,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOT SPRINGS",
       "short_name"      : "hotsprings",
       "short_names"     : [
@@ -700,7 +642,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK UNIVERSAL RECYCLING SYMBOL",
       "short_name"      : "recycle",
       "short_names"     : [
@@ -712,7 +653,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHEELCHAIR SYMBOL",
       "short_name"      : "wheelchair",
       "short_names"     : [
@@ -724,7 +664,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ATOM SYMBOL",
       "short_name"      : "atom_symbol",
       "short_names"     : [
@@ -736,7 +675,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FLEUR-DE-LIS",
       "short_name"      : "fleur_de_lis",
       "short_names"     : [
@@ -748,7 +686,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WARNING SIGN",
       "short_name"      : "warning",
       "short_names"     : [
@@ -760,7 +697,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MEDIUM WHITE CIRCLE",
       "short_name"      : "white_circle",
       "short_names"     : [
@@ -772,7 +708,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MEDIUM BLACK CIRCLE",
       "short_name"      : "black_circle",
       "short_names"     : [
@@ -784,7 +719,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPHIUCHUS",
       "short_name"      : "ophiuchus",
       "short_names"     : [
@@ -796,7 +730,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO ENTRY",
       "short_name"      : "no_entry",
       "short_names"     : [
@@ -808,7 +741,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE HEAVY CHECK MARK",
       "short_name"      : "white_check_mark",
       "short_names"     : [
@@ -820,7 +752,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY CHECK MARK",
       "short_name"      : "heavy_check_mark",
       "short_names"     : [
@@ -832,7 +763,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY MULTIPLICATION X",
       "short_name"      : "heavy_multiplication_x",
       "short_names"     : [
@@ -844,7 +774,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "LATIN CROSS",
       "short_name"      : "latin_cross",
       "short_names"     : [
@@ -856,7 +785,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "STAR OF DAVID",
       "short_name"      : "star_of_david",
       "short_names"     : [
@@ -868,7 +796,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EIGHT SPOKED ASTERISK",
       "short_name"      : "eight_spoked_asterisk",
       "short_names"     : [
@@ -880,7 +807,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EIGHT POINTED BLACK STAR",
       "short_name"      : "eight_pointed_black_star",
       "short_names"     : [
@@ -892,7 +818,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPARKLE",
       "short_name"      : "sparkle",
       "short_names"     : [
@@ -904,7 +829,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CROSS MARK",
       "short_name"      : "x",
       "short_names"     : [
@@ -916,7 +840,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED CROSS MARK",
       "short_name"      : "negative_squared_cross_mark",
       "short_names"     : [
@@ -928,7 +851,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK QUESTION MARK ORNAMENT",
       "short_name"      : "question",
       "short_names"     : [
@@ -940,7 +862,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE QUESTION MARK ORNAMENT",
       "short_name"      : "grey_question",
       "short_names"     : [
@@ -952,7 +873,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE EXCLAMATION MARK ORNAMENT",
       "short_name"      : "grey_exclamation",
       "short_names"     : [
@@ -964,7 +884,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY EXCLAMATION MARK SYMBOL",
       "short_name"      : "exclamation",
       "short_names"     : [
@@ -977,7 +896,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "HEAVY HEART EXCLAMATION MARK ORNAMENT",
       "short_name"      : "heavy_heart_exclamation_mark_ornament",
       "short_names"     : [
@@ -989,7 +907,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY BLACK HEART",
       "short_name"      : "heart",
       "short_names"     : [
@@ -1001,7 +918,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY PLUS SIGN",
       "short_name"      : "heavy_plus_sign",
       "short_names"     : [
@@ -1013,7 +929,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY MINUS SIGN",
       "short_name"      : "heavy_minus_sign",
       "short_names"     : [
@@ -1025,7 +940,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY DIVISION SIGN",
       "short_name"      : "heavy_division_sign",
       "short_names"     : [
@@ -1037,7 +951,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK RIGHTWARDS ARROW",
       "short_name"      : "arrow_right",
       "short_names"     : [
@@ -1049,7 +962,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CURLY LOOP",
       "short_name"      : "curly_loop",
       "short_names"     : [
@@ -1061,7 +973,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOUBLE CURLY LOOP",
       "short_name"      : "loop",
       "short_names"     : [
@@ -1073,7 +984,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
       "short_name"      : "arrow_heading_up",
       "short_names"     : [
@@ -1085,7 +995,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
       "short_name"      : "arrow_heading_down",
       "short_names"     : [
@@ -1097,7 +1006,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEFTWARDS BLACK ARROW",
       "short_name"      : "arrow_left",
       "short_names"     : [
@@ -1109,7 +1017,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UPWARDS BLACK ARROW",
       "short_name"      : "arrow_up",
       "short_names"     : [
@@ -1121,7 +1028,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOWNWARDS BLACK ARROW",
       "short_name"      : "arrow_down",
       "short_names"     : [
@@ -1133,7 +1039,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK LARGE SQUARE",
       "short_name"      : "black_large_square",
       "short_names"     : [
@@ -1145,7 +1050,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE LARGE SQUARE",
       "short_name"      : "white_large_square",
       "short_names"     : [
@@ -1157,7 +1061,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY LARGE CIRCLE",
       "short_name"      : "o",
       "short_names"     : [
@@ -1169,7 +1072,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAVY DASH",
       "short_name"      : "wavy_dash",
       "short_names"     : [
@@ -1181,7 +1083,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PART ALTERNATION MARK",
       "short_name"      : "part_alternation_mark",
       "short_names"     : [
@@ -1193,7 +1094,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCLED IDEOGRAPH CONGRATULATION",
       "short_name"      : "congratulations",
       "short_names"     : [
@@ -1205,7 +1105,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCLED IDEOGRAPH SECRET",
       "short_name"      : "secret",
       "short_names"     : [
@@ -1217,7 +1116,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAHJONG TILE RED DRAGON",
       "short_name"      : "mahjong",
       "short_names"     : [
@@ -1229,7 +1127,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PLAYING CARD BLACK JOKER",
       "short_name"      : "black_joker",
       "short_names"     : [
@@ -1241,7 +1138,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
       "short_name"      : "a",
       "short_names"     : [
@@ -1253,7 +1149,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
       "short_name"      : "b",
       "short_names"     : [
@@ -1265,7 +1160,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
       "short_name"      : "o2",
       "short_names"     : [
@@ -1277,7 +1171,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
       "short_name"      : "parking",
       "short_names"     : [
@@ -1289,7 +1182,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEGATIVE SQUARED AB",
       "short_name"      : "ab",
       "short_names"     : [
@@ -1301,7 +1193,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CL",
       "short_name"      : "cl",
       "short_names"     : [
@@ -1313,7 +1204,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED COOL",
       "short_name"      : "cool",
       "short_names"     : [
@@ -1325,7 +1215,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED FREE",
       "short_name"      : "free",
       "short_names"     : [
@@ -1337,7 +1226,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED ID",
       "short_name"      : "id",
       "short_names"     : [
@@ -1349,7 +1237,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED NEW",
       "short_name"      : "new",
       "short_names"     : [
@@ -1361,7 +1248,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED NG",
       "short_name"      : "ng",
       "short_names"     : [
@@ -1373,7 +1259,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED OK",
       "short_name"      : "ok",
       "short_names"     : [
@@ -1385,7 +1270,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED SOS",
       "short_name"      : "sos",
       "short_names"     : [
@@ -1397,7 +1281,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED UP WITH EXCLAMATION MARK",
       "short_name"      : "up",
       "short_names"     : [
@@ -1409,7 +1292,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED VS",
       "short_name"      : "vs",
       "short_names"     : [
@@ -1421,7 +1303,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED KATAKANA KOKO",
       "short_name"      : "koko",
       "short_names"     : [
@@ -1433,7 +1314,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED KATAKANA SA",
       "short_name"      : "sa",
       "short_names"     : [
@@ -1445,7 +1325,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-7121",
       "short_name"      : "u7121",
       "short_names"     : [
@@ -1457,7 +1336,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-6307",
       "short_name"      : "u6307",
       "short_names"     : [
@@ -1469,7 +1347,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-7981",
       "short_name"      : "u7981",
       "short_names"     : [
@@ -1481,7 +1358,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
       "short_name"      : "u7a7a",
       "short_names"     : [
@@ -1493,7 +1369,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-5408",
       "short_name"      : "u5408",
       "short_names"     : [
@@ -1505,7 +1380,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
       "short_name"      : "u6e80",
       "short_names"     : [
@@ -1517,7 +1391,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-6709",
       "short_name"      : "u6709",
       "short_names"     : [
@@ -1529,7 +1402,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-6708",
       "short_name"      : "u6708",
       "short_names"     : [
@@ -1541,7 +1413,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-7533",
       "short_name"      : "u7533",
       "short_names"     : [
@@ -1553,7 +1424,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-5272",
       "short_name"      : "u5272",
       "short_names"     : [
@@ -1565,7 +1435,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
       "short_name"      : "u55b6",
       "short_names"     : [
@@ -1577,7 +1446,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCLED IDEOGRAPH ADVANTAGE",
       "short_name"      : "ideograph_advantage",
       "short_names"     : [
@@ -1589,7 +1457,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCLED IDEOGRAPH ACCEPT",
       "short_name"      : "accept",
       "short_names"     : [
@@ -1601,7 +1468,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CYCLONE",
       "short_name"      : "cyclone",
       "short_names"     : [
@@ -1613,7 +1479,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GLOBE WITH MERIDIANS",
       "short_name"      : "globe_with_meridians",
       "short_names"     : [
@@ -1625,7 +1490,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CINEMA",
       "short_name"      : "cinema",
       "short_names"     : [
@@ -1637,7 +1501,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FLOWER PLAYING CARDS",
       "short_name"      : "flower_playing_cards",
       "short_names"     : [
@@ -1649,7 +1512,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MUSICAL NOTE",
       "short_name"      : "musical_note",
       "short_names"     : [
@@ -1661,7 +1523,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MULTIPLE MUSICAL NOTES",
       "short_name"      : "notes",
       "short_names"     : [
@@ -1673,7 +1534,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AUTOMATED TELLER MACHINE",
       "short_name"      : "atm",
       "short_names"     : [
@@ -1685,7 +1545,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BEATING HEART",
       "short_name"      : "heartbeat",
       "short_names"     : [
@@ -1697,7 +1556,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BROKEN HEART",
       "short_name"      : "broken_heart",
       "short_names"     : [
@@ -1709,7 +1567,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TWO HEARTS",
       "short_name"      : "two_hearts",
       "short_names"     : [
@@ -1721,7 +1578,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPARKLING HEART",
       "short_name"      : "sparkling_heart",
       "short_names"     : [
@@ -1733,7 +1589,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GROWING HEART",
       "short_name"      : "heartpulse",
       "short_names"     : [
@@ -1745,7 +1600,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEART WITH ARROW",
       "short_name"      : "cupid",
       "short_names"     : [
@@ -1757,7 +1611,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLUE HEART",
       "short_name"      : "blue_heart",
       "short_names"     : [
@@ -1769,7 +1622,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GREEN HEART",
       "short_name"      : "green_heart",
       "short_names"     : [
@@ -1781,7 +1633,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "YELLOW HEART",
       "short_name"      : "yellow_heart",
       "short_names"     : [
@@ -1793,7 +1644,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PURPLE HEART",
       "short_name"      : "purple_heart",
       "short_names"     : [
@@ -1805,7 +1655,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEART WITH RIBBON",
       "short_name"      : "gift_heart",
       "short_names"     : [
@@ -1817,7 +1666,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REVOLVING HEARTS",
       "short_name"      : "revolving_hearts",
       "short_names"     : [
@@ -1829,7 +1677,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEART DECORATION",
       "short_name"      : "heart_decoration",
       "short_names"     : [
@@ -1841,7 +1688,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DIAMOND SHAPE WITH A DOT INSIDE",
       "short_name"      : "diamond_shape_with_a_dot_inside",
       "short_names"     : [
@@ -1853,7 +1699,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANGER SYMBOL",
       "short_name"      : "anger",
       "short_names"     : [
@@ -1865,7 +1710,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEECH BALLOON",
       "short_name"      : "speech_balloon",
       "short_names"     : [
@@ -1877,7 +1721,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "THOUGHT BALLOON",
       "short_name"      : "thought_balloon",
       "short_names"     : [
@@ -1889,7 +1732,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE FLOWER",
       "short_name"      : "white_flower",
       "short_names"     : [
@@ -1901,7 +1743,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HUNDRED POINTS SYMBOL",
       "short_name"      : "100",
       "short_names"     : [
@@ -1913,7 +1754,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CURRENCY EXCHANGE",
       "short_name"      : "currency_exchange",
       "short_names"     : [
@@ -1925,7 +1765,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAVY DOLLAR SIGN",
       "short_name"      : "heavy_dollar_sign",
       "short_names"     : [
@@ -1937,7 +1776,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHART WITH UPWARDS TREND AND YEN SIGN",
       "short_name"      : "chart",
       "short_names"     : [
@@ -1949,7 +1787,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NAME BADGE",
       "short_name"      : "name_badge",
       "short_names"     : [
@@ -1961,7 +1798,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PUBLIC ADDRESS LOUDSPEAKER",
       "short_name"      : "loudspeaker",
       "short_names"     : [
@@ -1973,7 +1809,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHEERING MEGAPHONE",
       "short_name"      : "mega",
       "short_names"     : [
@@ -1985,7 +1820,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIBRATION MODE",
       "short_name"      : "vibration_mode",
       "short_names"     : [
@@ -1997,7 +1831,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOBILE PHONE OFF",
       "short_name"      : "mobile_phone_off",
       "short_names"     : [
@@ -2009,7 +1842,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO MOBILE PHONES",
       "short_name"      : "no_mobile_phones",
       "short_names"     : [
@@ -2021,7 +1853,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANTENNA WITH BARS",
       "short_name"      : "signal_strength",
       "short_names"     : [
@@ -2033,7 +1864,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TWISTED RIGHTWARDS ARROWS",
       "short_name"      : "twisted_rightwards_arrows",
       "short_names"     : [
@@ -2045,7 +1875,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
       "short_name"      : "repeat",
       "short_names"     : [
@@ -2057,7 +1886,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
       "short_name"      : "repeat_one",
       "short_names"     : [
@@ -2069,7 +1897,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
       "short_name"      : "arrows_clockwise",
       "short_names"     : [
@@ -2081,7 +1908,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
       "short_name"      : "arrows_counterclockwise",
       "short_names"     : [
@@ -2093,7 +1919,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOW BRIGHTNESS SYMBOL",
       "short_name"      : "low_brightness",
       "short_names"     : [
@@ -2105,7 +1930,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIGH BRIGHTNESS SYMBOL",
       "short_name"      : "high_brightness",
       "short_names"     : [
@@ -2117,7 +1941,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAKER WITH CANCELLATION STROKE",
       "short_name"      : "mute",
       "short_names"     : [
@@ -2129,7 +1952,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAKER",
       "short_name"      : "speaker",
       "short_names"     : [
@@ -2141,7 +1963,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAKER WITH ONE SOUND WAVE",
       "short_name"      : "sound",
       "short_names"     : [
@@ -2153,7 +1974,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAKER WITH THREE SOUND WAVES",
       "short_name"      : "loud_sound",
       "short_names"     : [
@@ -2165,7 +1985,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BELL",
       "short_name"      : "bell",
       "short_names"     : [
@@ -2177,7 +1996,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BELL WITH CANCELLATION STROKE",
       "short_name"      : "no_bell",
       "short_names"     : [
@@ -2189,7 +2007,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RADIO BUTTON",
       "short_name"      : "radio_button",
       "short_names"     : [
@@ -2201,7 +2018,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BACK WITH LEFTWARDS ARROW ABOVE",
       "short_name"      : "back",
       "short_names"     : [
@@ -2213,7 +2029,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "END WITH LEFTWARDS ARROW ABOVE",
       "short_name"      : "end",
       "short_names"     : [
@@ -2225,7 +2040,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
       "short_name"      : "on",
       "short_names"     : [
@@ -2237,7 +2051,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SOON WITH RIGHTWARDS ARROW ABOVE",
       "short_name"      : "soon",
       "short_names"     : [
@@ -2249,7 +2062,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TOP WITH UPWARDS ARROW ABOVE",
       "short_name"      : "top",
       "short_names"     : [
@@ -2261,7 +2073,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO ONE UNDER EIGHTEEN SYMBOL",
       "short_name"      : "underage",
       "short_names"     : [
@@ -2273,7 +2084,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KEYCAP TEN",
       "short_name"      : "keycap_ten",
       "short_names"     : [
@@ -2285,7 +2095,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
       "short_name"      : "capital_abcd",
       "short_names"     : [
@@ -2297,7 +2106,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INPUT SYMBOL FOR LATIN SMALL LETTERS",
       "short_name"      : "abcd",
       "short_names"     : [
@@ -2309,7 +2117,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INPUT SYMBOL FOR NUMBERS",
       "short_name"      : "1234",
       "short_names"     : [
@@ -2321,7 +2128,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INPUT SYMBOL FOR SYMBOLS",
       "short_name"      : "symbols",
       "short_names"     : [
@@ -2333,7 +2139,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INPUT SYMBOL FOR LATIN LETTERS",
       "short_name"      : "abc",
       "short_names"     : [
@@ -2345,7 +2150,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SIX POINTED STAR WITH MIDDLE DOT",
       "short_name"      : "six_pointed_star",
       "short_names"     : [
@@ -2357,7 +2161,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE SYMBOL FOR BEGINNER",
       "short_name"      : "beginner",
       "short_names"     : [
@@ -2369,7 +2172,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRIDENT EMBLEM",
       "short_name"      : "trident",
       "short_names"     : [
@@ -2381,7 +2183,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK SQUARE BUTTON",
       "short_name"      : "black_square_button",
       "short_names"     : [
@@ -2393,7 +2194,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE SQUARE BUTTON",
       "short_name"      : "white_square_button",
       "short_names"     : [
@@ -2405,7 +2205,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LARGE RED CIRCLE",
       "short_name"      : "red_circle",
       "short_names"     : [
@@ -2417,7 +2216,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LARGE BLUE CIRCLE",
       "short_name"      : "large_blue_circle",
       "short_names"     : [
@@ -2429,7 +2227,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LARGE ORANGE DIAMOND",
       "short_name"      : "large_orange_diamond",
       "short_names"     : [
@@ -2441,7 +2238,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LARGE BLUE DIAMOND",
       "short_name"      : "large_blue_diamond",
       "short_names"     : [
@@ -2453,7 +2249,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMALL ORANGE DIAMOND",
       "short_name"      : "small_orange_diamond",
       "short_names"     : [
@@ -2465,7 +2260,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMALL BLUE DIAMOND",
       "short_name"      : "small_blue_diamond",
       "short_names"     : [
@@ -2477,7 +2271,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UP-POINTING RED TRIANGLE",
       "short_name"      : "small_red_triangle",
       "short_names"     : [
@@ -2489,7 +2282,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOWN-POINTING RED TRIANGLE",
       "short_name"      : "small_red_triangle_down",
       "short_names"     : [
@@ -2501,7 +2293,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UP-POINTING SMALL RED TRIANGLE",
       "short_name"      : "arrow_up_small",
       "short_names"     : [
@@ -2513,7 +2304,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOWN-POINTING SMALL RED TRIANGLE",
       "short_name"      : "arrow_down_small",
       "short_names"     : [
@@ -2525,7 +2315,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OM SYMBOL",
       "short_name"      : "om_symbol",
       "short_names"     : [
@@ -2537,7 +2326,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "MENORAH WITH NINE BRANCHES",
       "short_name"      : "menorah_with_nine_branches",
       "short_names"     : [
@@ -2549,7 +2337,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE ONE OCLOCK",
       "short_name"      : "clock1",
       "short_names"     : [
@@ -2561,7 +2348,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TWO OCLOCK",
       "short_name"      : "clock2",
       "short_names"     : [
@@ -2573,7 +2359,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE THREE OCLOCK",
       "short_name"      : "clock3",
       "short_names"     : [
@@ -2585,7 +2370,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE FOUR OCLOCK",
       "short_name"      : "clock4",
       "short_names"     : [
@@ -2597,7 +2381,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE FIVE OCLOCK",
       "short_name"      : "clock5",
       "short_names"     : [
@@ -2609,7 +2392,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE SIX OCLOCK",
       "short_name"      : "clock6",
       "short_names"     : [
@@ -2621,7 +2403,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE SEVEN OCLOCK",
       "short_name"      : "clock7",
       "short_names"     : [
@@ -2633,7 +2414,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE EIGHT OCLOCK",
       "short_name"      : "clock8",
       "short_names"     : [
@@ -2645,7 +2425,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE NINE OCLOCK",
       "short_name"      : "clock9",
       "short_names"     : [
@@ -2657,7 +2436,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TEN OCLOCK",
       "short_name"      : "clock10",
       "short_names"     : [
@@ -2669,7 +2447,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE ELEVEN OCLOCK",
       "short_name"      : "clock11",
       "short_names"     : [
@@ -2681,7 +2458,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TWELVE OCLOCK",
       "short_name"      : "clock12",
       "short_names"     : [
@@ -2693,7 +2469,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE ONE-THIRTY",
       "short_name"      : "clock130",
       "short_names"     : [
@@ -2705,7 +2480,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TWO-THIRTY",
       "short_name"      : "clock230",
       "short_names"     : [
@@ -2717,7 +2491,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE THREE-THIRTY",
       "short_name"      : "clock330",
       "short_names"     : [
@@ -2729,7 +2502,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE FOUR-THIRTY",
       "short_name"      : "clock430",
       "short_names"     : [
@@ -2741,7 +2513,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE FIVE-THIRTY",
       "short_name"      : "clock530",
       "short_names"     : [
@@ -2753,7 +2524,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE SIX-THIRTY",
       "short_name"      : "clock630",
       "short_names"     : [
@@ -2765,7 +2535,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE SEVEN-THIRTY",
       "short_name"      : "clock730",
       "short_names"     : [
@@ -2777,7 +2546,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE EIGHT-THIRTY",
       "short_name"      : "clock830",
       "short_names"     : [
@@ -2789,7 +2557,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE NINE-THIRTY",
       "short_name"      : "clock930",
       "short_names"     : [
@@ -2801,7 +2568,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TEN-THIRTY",
       "short_name"      : "clock1030",
       "short_names"     : [
@@ -2813,7 +2579,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE ELEVEN-THIRTY",
       "short_name"      : "clock1130",
       "short_names"     : [
@@ -2825,7 +2590,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOCK FACE TWELVE-THIRTY",
       "short_name"      : "clock1230",
       "short_names"     : [
@@ -2837,7 +2601,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RIGHT ANGER BUBBLE",
       "short_name"      : "right_anger_bubble",
       "short_names"     : [
@@ -2849,7 +2612,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO ENTRY SIGN",
       "short_name"      : "no_entry_sign",
       "short_names"     : [
@@ -2861,7 +2623,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO SMOKING SYMBOL",
       "short_name"      : "no_smoking",
       "short_names"     : [
@@ -2873,7 +2634,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PUT LITTER IN ITS PLACE SYMBOL",
       "short_name"      : "put_litter_in_its_place",
       "short_names"     : [
@@ -2885,7 +2645,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DO NOT LITTER SYMBOL",
       "short_name"      : "do_not_litter",
       "short_names"     : [
@@ -2897,7 +2656,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POTABLE WATER SYMBOL",
       "short_name"      : "potable_water",
       "short_names"     : [
@@ -2909,7 +2667,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NON-POTABLE WATER SYMBOL",
       "short_name"      : "non-potable_water",
       "short_names"     : [
@@ -2921,7 +2678,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO BICYCLES",
       "short_name"      : "no_bicycles",
       "short_names"     : [
@@ -2933,7 +2689,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NO PEDESTRIANS",
       "short_name"      : "no_pedestrians",
       "short_names"     : [
@@ -2945,7 +2700,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHILDREN CROSSING",
       "short_name"      : "children_crossing",
       "short_names"     : [
@@ -2957,7 +2711,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MENS SYMBOL",
       "short_name"      : "mens",
       "short_names"     : [
@@ -2969,7 +2722,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMENS SYMBOL",
       "short_name"      : "womens",
       "short_names"     : [
@@ -2981,7 +2733,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RESTROOM",
       "short_name"      : "restroom",
       "short_names"     : [
@@ -2993,7 +2744,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BABY SYMBOL",
       "short_name"      : "baby_symbol",
       "short_names"     : [
@@ -3005,7 +2755,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WATER CLOSET",
       "short_name"      : "wc",
       "short_names"     : [
@@ -3017,7 +2766,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PASSPORT CONTROL",
       "short_name"      : "passport_control",
       "short_names"     : [
@@ -3029,7 +2777,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CUSTOMS",
       "short_name"      : "customs",
       "short_names"     : [
@@ -3041,7 +2788,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BAGGAGE CLAIM",
       "short_name"      : "baggage_claim",
       "short_names"     : [
@@ -3053,7 +2799,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEFT LUGGAGE",
       "short_name"      : "left_luggage",
       "short_names"     : [
@@ -3065,7 +2810,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "PLACE OF WORSHIP",
       "short_name"      : "place_of_worship",
       "short_names"     : [
@@ -3077,7 +2821,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "HASH KEY",
     //   "short_name"      : "hash",
     //   "short_names"     : [
@@ -3089,7 +2832,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 0",
     //   "short_name"      : "zero",
     //   "short_names"     : [
@@ -3101,7 +2843,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 1",
     //   "short_name"      : "one",
     //   "short_names"     : [
@@ -3113,7 +2854,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 2",
     //   "short_name"      : "two",
     //   "short_names"     : [
@@ -3125,7 +2865,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 3",
     //   "short_name"      : "three",
     //   "short_names"     : [
@@ -3137,7 +2876,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 4",
     //   "short_name"      : "four",
     //   "short_names"     : [
@@ -3149,7 +2887,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 5",
     //   "short_name"      : "five",
     //   "short_names"     : [
@@ -3161,7 +2898,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 6",
     //   "short_name"      : "six",
     //   "short_names"     : [
@@ -3173,7 +2909,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 7",
     //   "short_name"      : "seven",
     //   "short_names"     : [
@@ -3185,7 +2920,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 8",
     //   "short_name"      : "eight",
     //   "short_names"     : [
@@ -3197,7 +2931,6 @@ export default {
     //   "has_img_apple"   : true,
     //   "has_img_google"  : true,
     //   "has_img_twitter" : true,
-    //   "has_img_emojione": true,
     //   "name"            : "KEYCAP 9",
     //   "short_name"      : "nine",
     //   "short_names"     : [
@@ -3211,7 +2944,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WATCH",
       "short_name"      : "watch",
       "short_names"     : [
@@ -3223,7 +2955,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOURGLASS",
       "short_name"      : "hourglass",
       "short_names"     : [
@@ -3235,7 +2966,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "KEYBOARD",
       "short_name"      : "keyboard",
       "short_names"     : [
@@ -3247,7 +2977,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ALARM CLOCK",
       "short_name"      : "alarm_clock",
       "short_names"     : [
@@ -3259,7 +2988,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "STOPWATCH",
       "short_name"      : "stopwatch",
       "short_names"     : [
@@ -3271,7 +2999,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "TIMER CLOCK",
       "short_name"      : "timer_clock",
       "short_names"     : [
@@ -3283,7 +3010,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOURGLASS WITH FLOWING SAND",
       "short_name"      : "hourglass_flowing_sand",
       "short_names"     : [
@@ -3295,7 +3021,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK TELEPHONE",
       "short_name"      : "phone",
       "short_names"     : [
@@ -3308,7 +3033,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SKULL AND CROSSBONES",
       "short_name"      : "skull_and_crossbones",
       "short_names"     : [
@@ -3320,7 +3044,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "HAMMER AND PICK",
       "short_name"      : "hammer_and_pick",
       "short_names"     : [
@@ -3332,7 +3055,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "CROSSED SWORDS",
       "short_name"      : "crossed_swords",
       "short_names"     : [
@@ -3344,7 +3066,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SCALES",
       "short_name"      : "scales",
       "short_names"     : [
@@ -3356,7 +3077,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ALEMBIC",
       "short_name"      : "alembic",
       "short_names"     : [
@@ -3368,7 +3088,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "GEAR",
       "short_name"      : "gear",
       "short_names"     : [
@@ -3380,7 +3099,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "COFFIN",
       "short_name"      : "coffin",
       "short_names"     : [
@@ -3392,7 +3110,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FUNERAL URN",
       "short_name"      : "funeral_urn",
       "short_names"     : [
@@ -3404,7 +3121,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "PICK",
       "short_name"      : "pick",
       "short_names"     : [
@@ -3416,7 +3132,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "CHAINS",
       "short_name"      : "chains",
       "short_names"     : [
@@ -3428,7 +3143,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "UMBRELLA ON GROUND",
       "short_name"      : "umbrella_on_ground",
       "short_names"     : [
@@ -3440,7 +3154,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK SCISSORS",
       "short_name"      : "scissors",
       "short_names"     : [
@@ -3452,7 +3165,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ENVELOPE",
       "short_name"      : "email",
       "short_names"     : [
@@ -3465,7 +3177,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PENCIL",
       "short_name"      : "pencil2",
       "short_names"     : [
@@ -3477,7 +3188,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK NIB",
       "short_name"      : "black_nib",
       "short_names"     : [
@@ -3489,7 +3199,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "THERMOMETER",
       "short_name"      : "thermometer",
       "short_names"     : [
@@ -3501,7 +3210,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RIBBON",
       "short_name"      : "ribbon",
       "short_names"     : [
@@ -3513,7 +3221,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WRAPPED PRESENT",
       "short_name"      : "gift",
       "short_names"     : [
@@ -3525,7 +3232,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BALLOON",
       "short_name"      : "balloon",
       "short_names"     : [
@@ -3537,7 +3243,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PARTY POPPER",
       "short_name"      : "tada",
       "short_names"     : [
@@ -3549,7 +3254,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONFETTI BALL",
       "short_name"      : "confetti_ball",
       "short_names"     : [
@@ -3561,7 +3265,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CROSSED FLAGS",
       "short_name"      : "crossed_flags",
       "short_names"     : [
@@ -3573,7 +3276,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE DOLLS",
       "short_name"      : "dolls",
       "short_names"     : [
@@ -3585,7 +3287,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CARP STREAMER",
       "short_name"      : "flags",
       "short_names"     : [
@@ -3597,7 +3298,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WIND CHIME",
       "short_name"      : "wind_chime",
       "short_names"     : [
@@ -3609,7 +3309,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STUDIO MICROPHONE",
       "short_name"      : "studio_microphone",
       "short_names"     : [
@@ -3621,7 +3320,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEVEL SLIDER",
       "short_name"      : "level_slider",
       "short_names"     : [
@@ -3633,7 +3331,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONTROL KNOBS",
       "short_name"      : "control_knobs",
       "short_names"     : [
@@ -3645,7 +3342,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FILM FRAMES",
       "short_name"      : "film_frames",
       "short_names"     : [
@@ -3657,7 +3353,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOVIE CAMERA",
       "short_name"      : "movie_camera",
       "short_names"     : [
@@ -3669,7 +3364,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "IZAKAYA LANTERN",
       "short_name"      : "izakaya_lantern",
       "short_names"     : [
@@ -3682,7 +3376,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAVING WHITE FLAG",
       "short_name"      : "waving_white_flag",
       "short_names"     : [
@@ -3694,7 +3387,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAVING BLACK FLAG",
       "short_name"      : "waving_black_flag",
       "short_names"     : [
@@ -3706,7 +3398,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LABEL",
       "short_name"      : "label",
       "short_names"     : [
@@ -3718,7 +3409,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "AMPHORA",
       "short_name"      : "amphora",
       "short_names"     : [
@@ -3730,7 +3420,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BARBER POLE",
       "short_name"      : "barber",
       "short_names"     : [
@@ -3742,7 +3431,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SYRINGE",
       "short_name"      : "syringe",
       "short_names"     : [
@@ -3754,7 +3442,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PILL",
       "short_name"      : "pill",
       "short_names"     : [
@@ -3766,7 +3453,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOVE LETTER",
       "short_name"      : "love_letter",
       "short_names"     : [
@@ -3778,7 +3464,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GEM STONE",
       "short_name"      : "gem",
       "short_names"     : [
@@ -3790,7 +3475,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ELECTRIC LIGHT BULB",
       "short_name"      : "bulb",
       "short_names"     : [
@@ -3802,7 +3486,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOMB",
       "short_name"      : "bomb",
       "short_names"     : [
@@ -3814,7 +3497,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MONEY BAG",
       "short_name"      : "moneybag",
       "short_names"     : [
@@ -3826,7 +3508,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CREDIT CARD",
       "short_name"      : "credit_card",
       "short_names"     : [
@@ -3838,7 +3519,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANKNOTE WITH YEN SIGN",
       "short_name"      : "yen",
       "short_names"     : [
@@ -3850,7 +3530,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANKNOTE WITH DOLLAR SIGN",
       "short_name"      : "dollar",
       "short_names"     : [
@@ -3862,7 +3541,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANKNOTE WITH EURO SIGN",
       "short_name"      : "euro",
       "short_names"     : [
@@ -3874,7 +3552,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANKNOTE WITH POUND SIGN",
       "short_name"      : "pound",
       "short_names"     : [
@@ -3886,7 +3563,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MONEY WITH WINGS",
       "short_name"      : "money_with_wings",
       "short_names"     : [
@@ -3898,7 +3574,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSONAL COMPUTER",
       "short_name"      : "computer",
       "short_names"     : [
@@ -3910,7 +3585,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MINIDISC",
       "short_name"      : "minidisc",
       "short_names"     : [
@@ -3922,7 +3596,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FLOPPY DISK",
       "short_name"      : "floppy_disk",
       "short_names"     : [
@@ -3934,7 +3607,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPTICAL DISC",
       "short_name"      : "cd",
       "short_names"     : [
@@ -3946,7 +3618,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DVD",
       "short_name"      : "dvd",
       "short_names"     : [
@@ -3958,7 +3629,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FILE FOLDER",
       "short_name"      : "file_folder",
       "short_names"     : [
@@ -3970,7 +3640,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN FILE FOLDER",
       "short_name"      : "open_file_folder",
       "short_names"     : [
@@ -3982,7 +3651,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PAGE WITH CURL",
       "short_name"      : "page_with_curl",
       "short_names"     : [
@@ -3994,7 +3662,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PAGE FACING UP",
       "short_name"      : "page_facing_up",
       "short_names"     : [
@@ -4006,7 +3673,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CALENDAR",
       "short_name"      : "date",
       "short_names"     : [
@@ -4018,7 +3684,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TEAR-OFF CALENDAR",
       "short_name"      : "calendar",
       "short_names"     : [
@@ -4030,7 +3695,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CARD INDEX",
       "short_name"      : "card_index",
       "short_names"     : [
@@ -4042,7 +3706,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHART WITH UPWARDS TREND",
       "short_name"      : "chart_with_upwards_trend",
       "short_names"     : [
@@ -4054,7 +3717,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHART WITH DOWNWARDS TREND",
       "short_name"      : "chart_with_downwards_trend",
       "short_names"     : [
@@ -4066,7 +3728,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BAR CHART",
       "short_name"      : "bar_chart",
       "short_names"     : [
@@ -4078,7 +3739,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLIPBOARD",
       "short_name"      : "clipboard",
       "short_names"     : [
@@ -4090,7 +3750,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PUSHPIN",
       "short_name"      : "pushpin",
       "short_names"     : [
@@ -4102,7 +3761,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROUND PUSHPIN",
       "short_name"      : "round_pushpin",
       "short_names"     : [
@@ -4114,7 +3772,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PAPERCLIP",
       "short_name"      : "paperclip",
       "short_names"     : [
@@ -4126,7 +3783,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STRAIGHT RULER",
       "short_name"      : "straight_ruler",
       "short_names"     : [
@@ -4138,7 +3794,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRIANGULAR RULER",
       "short_name"      : "triangular_ruler",
       "short_names"     : [
@@ -4150,7 +3805,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOOKMARK TABS",
       "short_name"      : "bookmark_tabs",
       "short_names"     : [
@@ -4162,7 +3816,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEDGER",
       "short_name"      : "ledger",
       "short_names"     : [
@@ -4174,7 +3827,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NOTEBOOK",
       "short_name"      : "notebook",
       "short_names"     : [
@@ -4186,7 +3838,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NOTEBOOK WITH DECORATIVE COVER",
       "short_name"      : "notebook_with_decorative_cover",
       "short_names"     : [
@@ -4198,7 +3849,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOSED BOOK",
       "short_name"      : "closed_book",
       "short_names"     : [
@@ -4210,7 +3860,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN BOOK",
       "short_name"      : "book",
       "short_names"     : [
@@ -4223,7 +3872,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GREEN BOOK",
       "short_name"      : "green_book",
       "short_names"     : [
@@ -4235,7 +3883,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLUE BOOK",
       "short_name"      : "blue_book",
       "short_names"     : [
@@ -4247,7 +3894,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ORANGE BOOK",
       "short_name"      : "orange_book",
       "short_names"     : [
@@ -4259,7 +3905,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOOKS",
       "short_name"      : "books",
       "short_names"     : [
@@ -4271,7 +3916,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SCROLL",
       "short_name"      : "scroll",
       "short_names"     : [
@@ -4283,7 +3927,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MEMO",
       "short_name"      : "memo",
       "short_names"     : [
@@ -4296,7 +3939,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TELEPHONE RECEIVER",
       "short_name"      : "telephone_receiver",
       "short_names"     : [
@@ -4308,7 +3950,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PAGER",
       "short_name"      : "pager",
       "short_names"     : [
@@ -4320,7 +3961,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FAX MACHINE",
       "short_name"      : "fax",
       "short_names"     : [
@@ -4332,7 +3972,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SATELLITE ANTENNA",
       "short_name"      : "satellite",
       "short_names"     : [
@@ -4344,7 +3983,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OUTBOX TRAY",
       "short_name"      : "outbox_tray",
       "short_names"     : [
@@ -4356,7 +3994,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INBOX TRAY",
       "short_name"      : "inbox_tray",
       "short_names"     : [
@@ -4368,7 +4005,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PACKAGE",
       "short_name"      : "package",
       "short_names"     : [
@@ -4380,7 +4016,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "E-MAIL SYMBOL",
       "short_name"      : "e-mail",
       "short_names"     : [
@@ -4392,7 +4027,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INCOMING ENVELOPE",
       "short_name"      : "incoming_envelope",
       "short_names"     : [
@@ -4404,7 +4038,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
       "short_name"      : "envelope_with_arrow",
       "short_names"     : [
@@ -4416,7 +4049,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOSED MAILBOX WITH LOWERED FLAG",
       "short_name"      : "mailbox_closed",
       "short_names"     : [
@@ -4428,7 +4060,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOSED MAILBOX WITH RAISED FLAG",
       "short_name"      : "mailbox",
       "short_names"     : [
@@ -4440,7 +4071,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN MAILBOX WITH RAISED FLAG",
       "short_name"      : "mailbox_with_mail",
       "short_names"     : [
@@ -4452,7 +4082,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN MAILBOX WITH LOWERED FLAG",
       "short_name"      : "mailbox_with_no_mail",
       "short_names"     : [
@@ -4464,7 +4093,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POSTBOX",
       "short_name"      : "postbox",
       "short_names"     : [
@@ -4476,7 +4104,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POSTAL HORN",
       "short_name"      : "postal_horn",
       "short_names"     : [
@@ -4488,7 +4115,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEWSPAPER",
       "short_name"      : "newspaper",
       "short_names"     : [
@@ -4500,7 +4126,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOBILE PHONE",
       "short_name"      : "iphone",
       "short_names"     : [
@@ -4512,7 +4137,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
       "short_name"      : "calling",
       "short_names"     : [
@@ -4524,7 +4148,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAMERA",
       "short_name"      : "camera",
       "short_names"     : [
@@ -4536,7 +4159,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAMERA WITH FLASH",
       "short_name"      : "camera_with_flash",
       "short_names"     : [
@@ -4548,7 +4170,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIDEO CAMERA",
       "short_name"      : "video_camera",
       "short_names"     : [
@@ -4560,7 +4181,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TELEVISION",
       "short_name"      : "tv",
       "short_names"     : [
@@ -4572,7 +4192,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RADIO",
       "short_name"      : "radio",
       "short_names"     : [
@@ -4584,7 +4203,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIDEOCASSETTE",
       "short_name"      : "vhs",
       "short_names"     : [
@@ -4596,7 +4214,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FILM PROJECTOR",
       "short_name"      : "film_projector",
       "short_names"     : [
@@ -4608,7 +4225,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "PRAYER BEADS",
       "short_name"      : "prayer_beads",
       "short_names"     : [
@@ -4620,7 +4236,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BATTERY",
       "short_name"      : "battery",
       "short_names"     : [
@@ -4632,7 +4247,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ELECTRIC PLUG",
       "short_name"      : "electric_plug",
       "short_names"     : [
@@ -4644,7 +4258,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEFT-POINTING MAGNIFYING GLASS",
       "short_name"      : "mag",
       "short_names"     : [
@@ -4656,7 +4269,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RIGHT-POINTING MAGNIFYING GLASS",
       "short_name"      : "mag_right",
       "short_names"     : [
@@ -4668,7 +4280,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOCK WITH INK PEN",
       "short_name"      : "lock_with_ink_pen",
       "short_names"     : [
@@ -4680,7 +4291,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOSED LOCK WITH KEY",
       "short_name"      : "closed_lock_with_key",
       "short_names"     : [
@@ -4692,7 +4302,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KEY",
       "short_name"      : "key",
       "short_names"     : [
@@ -4704,7 +4313,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOCK",
       "short_name"      : "lock",
       "short_names"     : [
@@ -4716,7 +4324,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN LOCK",
       "short_name"      : "unlock",
       "short_names"     : [
@@ -4728,7 +4335,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOOKMARK",
       "short_name"      : "bookmark",
       "short_names"     : [
@@ -4740,7 +4346,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LINK SYMBOL",
       "short_name"      : "link",
       "short_names"     : [
@@ -4752,7 +4357,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ELECTRIC TORCH",
       "short_name"      : "flashlight",
       "short_names"     : [
@@ -4764,7 +4368,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WRENCH",
       "short_name"      : "wrench",
       "short_names"     : [
@@ -4776,7 +4379,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAMMER",
       "short_name"      : "hammer",
       "short_names"     : [
@@ -4788,7 +4390,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NUT AND BOLT",
       "short_name"      : "nut_and_bolt",
       "short_names"     : [
@@ -4800,7 +4401,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOCHO",
       "short_name"      : "hocho",
       "short_names"     : [
@@ -4813,7 +4413,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PISTOL",
       "short_name"      : "gun",
       "short_names"     : [
@@ -4825,7 +4424,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MICROSCOPE",
       "short_name"      : "microscope",
       "short_names"     : [
@@ -4837,7 +4435,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TELESCOPE",
       "short_name"      : "telescope",
       "short_names"     : [
@@ -4849,7 +4446,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CRYSTAL BALL",
       "short_name"      : "crystal_ball",
       "short_names"     : [
@@ -4861,7 +4457,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CANDLE",
       "short_name"      : "candle",
       "short_names"     : [
@@ -4873,7 +4468,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MANTELPIECE CLOCK",
       "short_name"      : "mantelpiece_clock",
       "short_names"     : [
@@ -4885,7 +4479,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOLE",
       "short_name"      : "hole",
       "short_names"     : [
@@ -4897,7 +4490,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JOYSTICK",
       "short_name"      : "joystick",
       "short_names"     : [
@@ -4909,7 +4501,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LINKED PAPERCLIPS",
       "short_name"      : "linked_paperclips",
       "short_names"     : [
@@ -4921,7 +4512,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOWER LEFT BALLPOINT PEN",
       "short_name"      : "lower_left_ballpoint_pen",
       "short_names"     : [
@@ -4933,7 +4523,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOWER LEFT FOUNTAIN PEN",
       "short_name"      : "lower_left_fountain_pen",
       "short_names"     : [
@@ -4945,7 +4534,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOWER LEFT PAINTBRUSH",
       "short_name"      : "lower_left_paintbrush",
       "short_names"     : [
@@ -4957,7 +4545,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOWER LEFT CRAYON",
       "short_name"      : "lower_left_crayon",
       "short_names"     : [
@@ -4969,7 +4556,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DESKTOP COMPUTER",
       "short_name"      : "desktop_computer",
       "short_names"     : [
@@ -4981,7 +4567,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PRINTER",
       "short_name"      : "printer",
       "short_names"     : [
@@ -4993,7 +4578,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "THREE BUTTON MOUSE",
       "short_name"      : "three_button_mouse",
       "short_names"     : [
@@ -5005,7 +4589,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRACKBALL",
       "short_name"      : "trackball",
       "short_names"     : [
@@ -5017,7 +4600,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FRAME WITH PICTURE",
       "short_name"      : "frame_with_picture",
       "short_names"     : [
@@ -5029,7 +4611,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CARD INDEX DIVIDERS",
       "short_name"      : "card_index_dividers",
       "short_names"     : [
@@ -5041,7 +4622,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CARD FILE BOX",
       "short_name"      : "card_file_box",
       "short_names"     : [
@@ -5053,7 +4633,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FILE CABINET",
       "short_name"      : "file_cabinet",
       "short_names"     : [
@@ -5065,7 +4644,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WASTEBASKET",
       "short_name"      : "wastebasket",
       "short_names"     : [
@@ -5077,7 +4655,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPIRAL NOTE PAD",
       "short_name"      : "spiral_note_pad",
       "short_names"     : [
@@ -5089,7 +4666,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPIRAL CALENDAR PAD",
       "short_name"      : "spiral_calendar_pad",
       "short_names"     : [
@@ -5101,7 +4677,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COMPRESSION",
       "short_name"      : "compression",
       "short_names"     : [
@@ -5113,7 +4688,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OLD KEY",
       "short_name"      : "old_key",
       "short_names"     : [
@@ -5125,7 +4699,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROLLED-UP NEWSPAPER",
       "short_name"      : "rolled_up_newspaper",
       "short_names"     : [
@@ -5137,7 +4710,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DAGGER KNIFE",
       "short_name"      : "dagger_knife",
       "short_names"     : [
@@ -5149,7 +4721,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BALLOT BOX WITH BALLOT",
       "short_name"      : "ballot_box_with_ballot",
       "short_names"     : [
@@ -5161,7 +4732,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WORLD MAP",
       "short_name"      : "world_map",
       "short_names"     : [
@@ -5173,7 +4743,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOYAI",
       "short_name"      : "moyai",
       "short_names"     : [
@@ -5185,7 +4754,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRIANGULAR FLAG ON POST",
       "short_name"      : "triangular_flag_on_post",
       "short_names"     : [
@@ -5197,7 +4765,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOOR",
       "short_name"      : "door",
       "short_names"     : [
@@ -5209,7 +4776,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMOKING SYMBOL",
       "short_name"      : "smoking",
       "short_names"     : [
@@ -5221,7 +4787,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TOILET",
       "short_name"      : "toilet",
       "short_names"     : [
@@ -5233,7 +4798,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHOWER",
       "short_name"      : "shower",
       "short_names"     : [
@@ -5245,7 +4809,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BATHTUB",
       "short_name"      : "bathtub",
       "short_names"     : [
@@ -5257,7 +4820,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COUCH AND LAMP",
       "short_name"      : "couch_and_lamp",
       "short_names"     : [
@@ -5269,7 +4831,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLEEPING ACCOMMODATION",
       "short_name"      : "sleeping_accommodation",
       "short_names"     : [
@@ -5281,7 +4842,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHOPPING BAGS",
       "short_name"      : "shopping_bags",
       "short_names"     : [
@@ -5293,7 +4853,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BELLHOP BELL",
       "short_name"      : "bellhop_bell",
       "short_names"     : [
@@ -5305,7 +4864,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BED",
       "short_name"      : "bed",
       "short_names"     : [
@@ -5317,7 +4875,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAMMER AND WRENCH",
       "short_name"      : "hammer_and_wrench",
       "short_names"     : [
@@ -5329,7 +4886,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHIELD",
       "short_name"      : "shield",
       "short_names"     : [
@@ -5341,7 +4897,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OIL DRUM",
       "short_name"      : "oil_drum",
       "short_names"     : [
@@ -5355,7 +4910,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLACK SUN WITH RAYS",
       "short_name"      : "sunny",
       "short_names"     : [
@@ -5367,7 +4921,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOUD",
       "short_name"      : "cloud",
       "short_names"     : [
@@ -5379,7 +4932,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "UMBRELLA",
       "short_name"      : "umbrella",
       "short_names"     : [
@@ -5391,7 +4943,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SNOWMAN",
       "short_name"      : "snowman",
       "short_names"     : [
@@ -5403,7 +4954,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "COMET",
       "short_name"      : "comet",
       "short_names"     : [
@@ -5415,7 +4965,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UMBRELLA WITH RAIN DROPS",
       "short_name"      : "umbrella",
       "short_names"     : [
@@ -5427,7 +4976,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SHAMROCK",
       "short_name"      : "shamrock",
       "short_names"     : [
@@ -5439,7 +4987,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIGH VOLTAGE SIGN",
       "short_name"      : "zap",
       "short_names"     : [
@@ -5451,7 +4998,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNOWMAN WITHOUT SNOW",
       "short_name"      : "snowman",
       "short_names"     : [
@@ -5463,7 +5009,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUN BEHIND CLOUD",
       "short_name"      : "partly_sunny",
       "short_names"     : [
@@ -5475,7 +5020,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "THUNDER CLOUD AND RAIN",
       "short_name"      : "thunder_cloud_and_rain",
       "short_names"     : [
@@ -5487,7 +5031,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPARKLES",
       "short_name"      : "sparkles",
       "short_names"     : [
@@ -5499,7 +5042,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNOWFLAKE",
       "short_name"      : "snowflake",
       "short_names"     : [
@@ -5511,7 +5053,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE MEDIUM STAR",
       "short_name"      : "star",
       "short_names"     : [
@@ -5523,7 +5064,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WATER WAVE",
       "short_name"      : "ocean",
       "short_names"     : [
@@ -5535,7 +5075,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EARTH GLOBE EUROPE-AFRICA",
       "short_name"      : "earth_africa",
       "short_names"     : [
@@ -5547,7 +5086,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EARTH GLOBE AMERICAS",
       "short_name"      : "earth_americas",
       "short_names"     : [
@@ -5559,7 +5097,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EARTH GLOBE ASIA-AUSTRALIA",
       "short_name"      : "earth_asia",
       "short_names"     : [
@@ -5571,7 +5108,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEW MOON SYMBOL",
       "short_name"      : "new_moon",
       "short_names"     : [
@@ -5583,7 +5119,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAXING CRESCENT MOON SYMBOL",
       "short_name"      : "waxing_crescent_moon",
       "short_names"     : [
@@ -5595,7 +5130,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIRST QUARTER MOON SYMBOL",
       "short_name"      : "first_quarter_moon",
       "short_names"     : [
@@ -5607,7 +5141,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAXING GIBBOUS MOON SYMBOL",
       "short_name"      : "moon",
       "short_names"     : [
@@ -5620,7 +5153,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FULL MOON SYMBOL",
       "short_name"      : "full_moon",
       "short_names"     : [
@@ -5632,7 +5164,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WANING GIBBOUS MOON SYMBOL",
       "short_name"      : "waning_gibbous_moon",
       "short_names"     : [
@@ -5644,7 +5175,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LAST QUARTER MOON SYMBOL",
       "short_name"      : "last_quarter_moon",
       "short_names"     : [
@@ -5656,7 +5186,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WANING CRESCENT MOON SYMBOL",
       "short_name"      : "waning_crescent_moon",
       "short_names"     : [
@@ -5668,7 +5197,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CRESCENT MOON",
       "short_name"      : "crescent_moon",
       "short_names"     : [
@@ -5680,7 +5208,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEW MOON WITH FACE",
       "short_name"      : "new_moon_with_face",
       "short_names"     : [
@@ -5692,7 +5219,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIRST QUARTER MOON WITH FACE",
       "short_name"      : "first_quarter_moon_with_face",
       "short_names"     : [
@@ -5704,7 +5230,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LAST QUARTER MOON WITH FACE",
       "short_name"      : "last_quarter_moon_with_face",
       "short_names"     : [
@@ -5716,7 +5241,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FULL MOON WITH FACE",
       "short_name"      : "full_moon_with_face",
       "short_names"     : [
@@ -5728,7 +5252,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUN WITH FACE",
       "short_name"      : "sun_with_face",
       "short_names"     : [
@@ -5740,7 +5263,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GLOWING STAR",
       "short_name"      : "star2",
       "short_names"     : [
@@ -5752,7 +5274,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WHITE SUN WITH SMALL CLOUD",
       "short_name"      : "mostly_sunny",
       "short_names"     : [
@@ -5765,7 +5286,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WHITE SUN BEHIND CLOUD",
       "short_name"      : "barely_sunny",
       "short_names"     : [
@@ -5778,7 +5298,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WHITE SUN BEHIND CLOUD WITH RAIN",
       "short_name"      : "partly_sunny_rain",
       "short_names"     : [
@@ -5791,7 +5310,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOUD WITH RAIN",
       "short_name"      : "rain_cloud",
       "short_names"     : [
@@ -5803,7 +5321,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOUD WITH SNOW",
       "short_name"      : "snow_cloud",
       "short_names"     : [
@@ -5815,7 +5332,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOUD WITH LIGHTNING",
       "short_name"      : "lightning",
       "short_names"     : [
@@ -5828,7 +5344,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOUD WITH TORNADO",
       "short_name"      : "tornado",
       "short_names"     : [
@@ -5841,7 +5356,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FOG",
       "short_name"      : "fog",
       "short_names"     : [
@@ -5853,7 +5367,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WIND BLOWING FACE",
       "short_name"      : "wind_blowing_face",
       "short_names"     : [
@@ -5865,7 +5378,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHESTNUT",
       "short_name"      : "chestnut",
       "short_names"     : [
@@ -5877,7 +5389,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SEEDLING",
       "short_name"      : "seedling",
       "short_names"     : [
@@ -5889,7 +5400,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EVERGREEN TREE",
       "short_name"      : "evergreen_tree",
       "short_names"     : [
@@ -5901,7 +5411,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DECIDUOUS TREE",
       "short_name"      : "deciduous_tree",
       "short_names"     : [
@@ -5913,7 +5422,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PALM TREE",
       "short_name"      : "palm_tree",
       "short_names"     : [
@@ -5925,7 +5433,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CACTUS",
       "short_name"      : "cactus",
       "short_names"     : [
@@ -5937,7 +5444,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TULIP",
       "short_name"      : "tulip",
       "short_names"     : [
@@ -5949,7 +5455,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHERRY BLOSSOM",
       "short_name"      : "cherry_blossom",
       "short_names"     : [
@@ -5961,7 +5466,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROSE",
       "short_name"      : "rose",
       "short_names"     : [
@@ -5973,7 +5477,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIBISCUS",
       "short_name"      : "hibiscus",
       "short_names"     : [
@@ -5985,7 +5488,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUNFLOWER",
       "short_name"      : "sunflower",
       "short_names"     : [
@@ -5997,7 +5499,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLOSSOM",
       "short_name"      : "blossom",
       "short_names"     : [
@@ -6009,7 +5510,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EAR OF RICE",
       "short_name"      : "ear_of_rice",
       "short_names"     : [
@@ -6021,7 +5521,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HERB",
       "short_name"      : "herb",
       "short_names"     : [
@@ -6033,7 +5532,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FOUR LEAF CLOVER",
       "short_name"      : "four_leaf_clover",
       "short_names"     : [
@@ -6045,7 +5543,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAPLE LEAF",
       "short_name"      : "maple_leaf",
       "short_names"     : [
@@ -6057,7 +5554,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FALLEN LEAF",
       "short_name"      : "fallen_leaf",
       "short_names"     : [
@@ -6069,7 +5565,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEAF FLUTTERING IN WIND",
       "short_name"      : "leaves",
       "short_names"     : [
@@ -6081,7 +5576,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MUSHROOM",
       "short_name"      : "mushroom",
       "short_names"     : [
@@ -6093,7 +5587,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JACK-O-LANTERN",
       "short_name"      : "jack_o_lantern",
       "short_names"     : [
@@ -6105,7 +5598,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHRISTMAS TREE",
       "short_name"      : "christmas_tree",
       "short_names"     : [
@@ -6117,7 +5609,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TANABATA TREE",
       "short_name"      : "tanabata_tree",
       "short_names"     : [
@@ -6129,7 +5620,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PINE DECORATION",
       "short_name"      : "bamboo",
       "short_names"     : [
@@ -6141,7 +5631,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAT",
       "short_name"      : "rat",
       "short_names"     : [
@@ -6153,7 +5642,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUSE",
       "short_name"      : "mouse2",
       "short_names"     : [
@@ -6165,7 +5653,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OX",
       "short_name"      : "ox",
       "short_names"     : [
@@ -6177,7 +5664,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WATER BUFFALO",
       "short_name"      : "water_buffalo",
       "short_names"     : [
@@ -6189,7 +5675,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COW",
       "short_name"      : "cow2",
       "short_names"     : [
@@ -6201,7 +5686,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TIGER",
       "short_name"      : "tiger2",
       "short_names"     : [
@@ -6213,7 +5697,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEOPARD",
       "short_name"      : "leopard",
       "short_names"     : [
@@ -6225,7 +5708,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RABBIT",
       "short_name"      : "rabbit2",
       "short_names"     : [
@@ -6237,7 +5719,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAT",
       "short_name"      : "cat2",
       "short_names"     : [
@@ -6249,7 +5730,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DRAGON",
       "short_name"      : "dragon",
       "short_names"     : [
@@ -6261,7 +5741,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CROCODILE",
       "short_name"      : "crocodile",
       "short_names"     : [
@@ -6273,7 +5752,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHALE",
       "short_name"      : "whale2",
       "short_names"     : [
@@ -6285,7 +5763,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNAIL",
       "short_name"      : "snail",
       "short_names"     : [
@@ -6297,7 +5774,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNAKE",
       "short_name"      : "snake",
       "short_names"     : [
@@ -6309,7 +5785,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HORSE",
       "short_name"      : "racehorse",
       "short_names"     : [
@@ -6321,7 +5796,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAM",
       "short_name"      : "ram",
       "short_names"     : [
@@ -6333,7 +5807,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GOAT",
       "short_name"      : "goat",
       "short_names"     : [
@@ -6345,7 +5818,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHEEP",
       "short_name"      : "sheep",
       "short_names"     : [
@@ -6357,7 +5829,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MONKEY",
       "short_name"      : "monkey",
       "short_names"     : [
@@ -6369,7 +5840,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROOSTER",
       "short_name"      : "rooster",
       "short_names"     : [
@@ -6381,7 +5851,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHICKEN",
       "short_name"      : "chicken",
       "short_names"     : [
@@ -6393,7 +5862,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOG",
       "short_name"      : "dog2",
       "short_names"     : [
@@ -6405,7 +5873,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PIG",
       "short_name"      : "pig2",
       "short_names"     : [
@@ -6417,7 +5884,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOAR",
       "short_name"      : "boar",
       "short_names"     : [
@@ -6429,7 +5895,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ELEPHANT",
       "short_name"      : "elephant",
       "short_names"     : [
@@ -6441,7 +5906,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OCTOPUS",
       "short_name"      : "octopus",
       "short_names"     : [
@@ -6453,7 +5917,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPIRAL SHELL",
       "short_name"      : "shell",
       "short_names"     : [
@@ -6465,7 +5928,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUG",
       "short_name"      : "bug",
       "short_names"     : [
@@ -6477,7 +5939,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANT",
       "short_name"      : "ant",
       "short_names"     : [
@@ -6489,7 +5950,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HONEYBEE",
       "short_name"      : "bee",
       "short_names"     : [
@@ -6502,7 +5962,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LADY BEETLE",
       "short_name"      : "beetle",
       "short_names"     : [
@@ -6514,7 +5973,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FISH",
       "short_name"      : "fish",
       "short_names"     : [
@@ -6526,7 +5984,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TROPICAL FISH",
       "short_name"      : "tropical_fish",
       "short_names"     : [
@@ -6538,7 +5995,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BLOWFISH",
       "short_name"      : "blowfish",
       "short_names"     : [
@@ -6550,7 +6006,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TURTLE",
       "short_name"      : "turtle",
       "short_names"     : [
@@ -6562,7 +6017,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HATCHING CHICK",
       "short_name"      : "hatching_chick",
       "short_names"     : [
@@ -6574,7 +6028,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BABY CHICK",
       "short_name"      : "baby_chick",
       "short_names"     : [
@@ -6586,7 +6039,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FRONT-FACING BABY CHICK",
       "short_name"      : "hatched_chick",
       "short_names"     : [
@@ -6598,7 +6050,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BIRD",
       "short_name"      : "bird",
       "short_names"     : [
@@ -6610,7 +6061,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PENGUIN",
       "short_name"      : "penguin",
       "short_names"     : [
@@ -6622,7 +6072,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KOALA",
       "short_name"      : "koala",
       "short_names"     : [
@@ -6634,7 +6083,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POODLE",
       "short_name"      : "poodle",
       "short_names"     : [
@@ -6646,7 +6094,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DROMEDARY CAMEL",
       "short_name"      : "dromedary_camel",
       "short_names"     : [
@@ -6658,7 +6105,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BACTRIAN CAMEL",
       "short_name"      : "camel",
       "short_names"     : [
@@ -6670,7 +6116,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOLPHIN",
       "short_name"      : "dolphin",
       "short_names"     : [
@@ -6683,7 +6128,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUSE FACE",
       "short_name"      : "mouse",
       "short_names"     : [
@@ -6695,7 +6139,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COW FACE",
       "short_name"      : "cow",
       "short_names"     : [
@@ -6707,7 +6150,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TIGER FACE",
       "short_name"      : "tiger",
       "short_names"     : [
@@ -6719,7 +6161,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RABBIT FACE",
       "short_name"      : "rabbit",
       "short_names"     : [
@@ -6731,7 +6172,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAT FACE",
       "short_name"      : "cat",
       "short_names"     : [
@@ -6743,7 +6183,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DRAGON FACE",
       "short_name"      : "dragon_face",
       "short_names"     : [
@@ -6755,7 +6194,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPOUTING WHALE",
       "short_name"      : "whale",
       "short_names"     : [
@@ -6767,7 +6205,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HORSE FACE",
       "short_name"      : "horse",
       "short_names"     : [
@@ -6779,7 +6216,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MONKEY FACE",
       "short_name"      : "monkey_face",
       "short_names"     : [
@@ -6791,7 +6227,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOG FACE",
       "short_name"      : "dog",
       "short_names"     : [
@@ -6803,7 +6238,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PIG FACE",
       "short_name"      : "pig",
       "short_names"     : [
@@ -6815,7 +6249,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FROG FACE",
       "short_name"      : "frog",
       "short_names"     : [
@@ -6827,7 +6260,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAMSTER FACE",
       "short_name"      : "hamster",
       "short_names"     : [
@@ -6839,7 +6271,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOLF FACE",
       "short_name"      : "wolf",
       "short_names"     : [
@@ -6851,7 +6282,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BEAR FACE",
       "short_name"      : "bear",
       "short_names"     : [
@@ -6863,7 +6293,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PANDA FACE",
       "short_name"      : "panda_face",
       "short_names"     : [
@@ -6875,7 +6304,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PIG NOSE",
       "short_name"      : "pig_nose",
       "short_names"     : [
@@ -6887,7 +6315,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PAW PRINTS",
       "short_name"      : "feet",
       "short_names"     : [
@@ -6900,7 +6327,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHIPMUNK",
       "short_name"      : "chipmunk",
       "short_names"     : [
@@ -6912,7 +6338,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOUQUET",
       "short_name"      : "bouquet",
       "short_names"     : [
@@ -6924,7 +6349,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COLLISION SYMBOL",
       "short_name"      : "boom",
       "short_names"     : [
@@ -6937,7 +6361,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPLASHING SWEAT SYMBOL",
       "short_name"      : "sweat_drops",
       "short_names"     : [
@@ -6949,7 +6372,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DROPLET",
       "short_name"      : "droplet",
       "short_names"     : [
@@ -6961,7 +6383,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DASH SYMBOL",
       "short_name"      : "dash",
       "short_names"     : [
@@ -6973,7 +6394,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DIZZY SYMBOL",
       "short_name"      : "dizzy",
       "short_names"     : [
@@ -6985,7 +6405,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIRE",
       "short_name"      : "fire",
       "short_names"     : [
@@ -6997,7 +6416,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOVE OF PEACE",
       "short_name"      : "dove_of_peace",
       "short_names"     : [
@@ -7009,7 +6427,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPIDER",
       "short_name"      : "spider",
       "short_names"     : [
@@ -7021,7 +6438,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPIDER WEB",
       "short_name"      : "spider_web",
       "short_names"     : [
@@ -7033,7 +6449,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SEE-NO-EVIL MONKEY",
       "short_name"      : "see_no_evil",
       "short_names"     : [
@@ -7045,7 +6460,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEAR-NO-EVIL MONKEY",
       "short_name"      : "hear_no_evil",
       "short_names"     : [
@@ -7057,7 +6471,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAK-NO-EVIL MONKEY",
       "short_name"      : "speak_no_evil",
       "short_names"     : [
@@ -7069,7 +6482,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "CRAB",
       "short_name"      : "crab",
       "short_names"     : [
@@ -7081,7 +6493,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "LION FACE",
       "short_name"      : "lion_face",
       "short_names"     : [
@@ -7093,7 +6504,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SCORPION",
       "short_name"      : "scorpion",
       "short_names"     : [
@@ -7105,7 +6515,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "TURKEY",
       "short_name"      : "turkey",
       "short_names"     : [
@@ -7117,7 +6526,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "UNICORN FACE",
       "short_name"      : "unicorn_face",
       "short_names"     : [
@@ -7131,7 +6539,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOT BEVERAGE",
       "short_name"      : "coffee",
       "short_names"     : [
@@ -7143,7 +6550,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "HOT DOG",
       "short_name"      : "hotdog",
       "short_names"     : [
@@ -7155,7 +6561,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "TACO",
       "short_name"      : "taco",
       "short_names"     : [
@@ -7167,7 +6572,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BURRITO",
       "short_name"      : "burrito",
       "short_names"     : [
@@ -7179,7 +6583,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOT PEPPER",
       "short_name"      : "hot_pepper",
       "short_names"     : [
@@ -7191,7 +6594,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EAR OF MAIZE",
       "short_name"      : "corn",
       "short_names"     : [
@@ -7203,7 +6605,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TOMATO",
       "short_name"      : "tomato",
       "short_names"     : [
@@ -7215,7 +6616,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AUBERGINE",
       "short_name"      : "eggplant",
       "short_names"     : [
@@ -7227,7 +6627,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRAPES",
       "short_name"      : "grapes",
       "short_names"     : [
@@ -7239,7 +6638,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MELON",
       "short_name"      : "melon",
       "short_names"     : [
@@ -7251,7 +6649,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WATERMELON",
       "short_name"      : "watermelon",
       "short_names"     : [
@@ -7263,7 +6660,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TANGERINE",
       "short_name"      : "tangerine",
       "short_names"     : [
@@ -7275,7 +6671,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LEMON",
       "short_name"      : "lemon",
       "short_names"     : [
@@ -7287,7 +6682,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANANA",
       "short_name"      : "banana",
       "short_names"     : [
@@ -7299,7 +6693,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PINEAPPLE",
       "short_name"      : "pineapple",
       "short_names"     : [
@@ -7311,7 +6704,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RED APPLE",
       "short_name"      : "apple",
       "short_names"     : [
@@ -7323,7 +6715,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GREEN APPLE",
       "short_name"      : "green_apple",
       "short_names"     : [
@@ -7335,7 +6726,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PEAR",
       "short_name"      : "pear",
       "short_names"     : [
@@ -7347,7 +6737,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PEACH",
       "short_name"      : "peach",
       "short_names"     : [
@@ -7359,7 +6748,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHERRIES",
       "short_name"      : "cherries",
       "short_names"     : [
@@ -7371,7 +6759,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STRAWBERRY",
       "short_name"      : "strawberry",
       "short_names"     : [
@@ -7383,7 +6770,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAMBURGER",
       "short_name"      : "hamburger",
       "short_names"     : [
@@ -7395,7 +6781,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLICE OF PIZZA",
       "short_name"      : "pizza",
       "short_names"     : [
@@ -7407,7 +6792,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MEAT ON BONE",
       "short_name"      : "meat_on_bone",
       "short_names"     : [
@@ -7419,7 +6803,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POULTRY LEG",
       "short_name"      : "poultry_leg",
       "short_names"     : [
@@ -7431,7 +6814,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RICE CRACKER",
       "short_name"      : "rice_cracker",
       "short_names"     : [
@@ -7443,7 +6825,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RICE BALL",
       "short_name"      : "rice_ball",
       "short_names"     : [
@@ -7455,7 +6836,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COOKED RICE",
       "short_name"      : "rice",
       "short_names"     : [
@@ -7467,7 +6847,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CURRY AND RICE",
       "short_name"      : "curry",
       "short_names"     : [
@@ -7479,7 +6858,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STEAMING BOWL",
       "short_name"      : "ramen",
       "short_names"     : [
@@ -7491,7 +6869,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPAGHETTI",
       "short_name"      : "spaghetti",
       "short_names"     : [
@@ -7503,7 +6880,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BREAD",
       "short_name"      : "bread",
       "short_names"     : [
@@ -7515,7 +6891,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FRENCH FRIES",
       "short_name"      : "fries",
       "short_names"     : [
@@ -7527,7 +6902,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROASTED SWEET POTATO",
       "short_name"      : "sweet_potato",
       "short_names"     : [
@@ -7539,7 +6913,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DANGO",
       "short_name"      : "dango",
       "short_names"     : [
@@ -7551,7 +6924,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ODEN",
       "short_name"      : "oden",
       "short_names"     : [
@@ -7563,7 +6935,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUSHI",
       "short_name"      : "sushi",
       "short_names"     : [
@@ -7575,7 +6946,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FRIED SHRIMP",
       "short_name"      : "fried_shrimp",
       "short_names"     : [
@@ -7587,7 +6957,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FISH CAKE WITH SWIRL DESIGN",
       "short_name"      : "fish_cake",
       "short_names"     : [
@@ -7599,7 +6968,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SOFT ICE CREAM",
       "short_name"      : "icecream",
       "short_names"     : [
@@ -7611,7 +6979,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHAVED ICE",
       "short_name"      : "shaved_ice",
       "short_names"     : [
@@ -7623,7 +6990,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ICE CREAM",
       "short_name"      : "ice_cream",
       "short_names"     : [
@@ -7635,7 +7001,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DOUGHNUT",
       "short_name"      : "doughnut",
       "short_names"     : [
@@ -7647,7 +7012,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COOKIE",
       "short_name"      : "cookie",
       "short_names"     : [
@@ -7659,7 +7023,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHOCOLATE BAR",
       "short_name"      : "chocolate_bar",
       "short_names"     : [
@@ -7671,7 +7034,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CANDY",
       "short_name"      : "candy",
       "short_names"     : [
@@ -7683,7 +7045,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOLLIPOP",
       "short_name"      : "lollipop",
       "short_names"     : [
@@ -7695,7 +7056,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CUSTARD",
       "short_name"      : "custard",
       "short_names"     : [
@@ -7707,7 +7067,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HONEY POT",
       "short_name"      : "honey_pot",
       "short_names"     : [
@@ -7719,7 +7078,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHORTCAKE",
       "short_name"      : "cake",
       "short_names"     : [
@@ -7731,7 +7089,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BENTO BOX",
       "short_name"      : "bento",
       "short_names"     : [
@@ -7743,7 +7100,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POT OF FOOD",
       "short_name"      : "stew",
       "short_names"     : [
@@ -7755,7 +7111,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COOKING",
       "short_name"      : "egg",
       "short_names"     : [
@@ -7767,7 +7122,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FORK AND KNIFE",
       "short_name"      : "fork_and_knife",
       "short_names"     : [
@@ -7779,7 +7133,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TEACUP WITHOUT HANDLE",
       "short_name"      : "tea",
       "short_names"     : [
@@ -7791,7 +7144,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SAKE BOTTLE AND CUP",
       "short_name"      : "sake",
       "short_names"     : [
@@ -7803,7 +7155,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WINE GLASS",
       "short_name"      : "wine_glass",
       "short_names"     : [
@@ -7815,7 +7166,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COCKTAIL GLASS",
       "short_name"      : "cocktail",
       "short_names"     : [
@@ -7827,7 +7177,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TROPICAL DRINK",
       "short_name"      : "tropical_drink",
       "short_names"     : [
@@ -7839,7 +7188,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BEER MUG",
       "short_name"      : "beer",
       "short_names"     : [
@@ -7851,7 +7199,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLINKING BEER MUGS",
       "short_name"      : "beers",
       "short_names"     : [
@@ -7863,7 +7210,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BABY BOTTLE",
       "short_name"      : "baby_bottle",
       "short_names"     : [
@@ -7875,7 +7221,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FORK AND KNIFE WITH PLATE",
       "short_name"      : "knife_fork_plate",
       "short_names"     : [
@@ -7887,7 +7232,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BOTTLE WITH POPPING CORK",
       "short_name"      : "champagne",
       "short_names"     : [
@@ -7899,7 +7243,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "POPCORN",
       "short_name"      : "popcorn",
       "short_names"     : [
@@ -7911,7 +7254,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BIRTHDAY CAKE",
       "short_name"      : "birthday",
       "short_names"     : [
@@ -7923,7 +7265,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "CHEESE WEDGE",
       "short_name"      : "cheese_wedge",
       "short_names"     : [
@@ -7937,7 +7278,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE UP POINTING INDEX",
       "short_name"      : "point_up",
       "short_names"     : [
@@ -7949,7 +7289,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WHITE FROWNING FACE",
       "short_name"      : "white_frowning_face",
       "short_names"     : [
@@ -7961,7 +7300,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE SMILING FACE",
       "short_name"      : "relaxed",
       "short_names"     : [
@@ -7973,7 +7311,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "HELMET WITH WHITE CROSS",
       "short_name"      : "helmet_with_white_cross",
       "short_names"     : [
@@ -7985,7 +7322,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAISED FIST",
       "short_name"      : "fist",
       "short_names"     : [
@@ -7997,7 +7333,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAISED HAND",
       "short_name"      : "hand",
       "short_names"     : [
@@ -8010,7 +7345,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VICTORY HAND",
       "short_name"      : "v",
       "short_names"     : [
@@ -8022,7 +7356,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "WRITING HAND",
       "short_name"      : "writing_hand",
       "short_names"     : [
@@ -8034,7 +7367,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLOSED UMBRELLA",
       "short_name"      : "closed_umbrella",
       "short_names"     : [
@@ -8046,7 +7378,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FATHER CHRISTMAS",
       "short_name"      : "santa",
       "short_names"     : [
@@ -8058,7 +7389,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SCHOOL SATCHEL",
       "short_name"      : "school_satchel",
       "short_names"     : [
@@ -8070,7 +7400,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRADUATION CAP",
       "short_name"      : "mortar_board",
       "short_names"     : [
@@ -8082,7 +7411,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TOP HAT",
       "short_name"      : "tophat",
       "short_names"     : [
@@ -8094,7 +7422,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RUNNER",
       "short_name"      : "runner",
       "short_names"     : [
@@ -8107,7 +7434,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EYES",
       "short_name"      : "eyes",
       "short_names"     : [
@@ -8119,7 +7445,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EYE",
       "short_name"      : "eye",
       "short_names"     : [
@@ -8131,7 +7456,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EAR",
       "short_name"      : "ear",
       "short_names"     : [
@@ -8143,7 +7467,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NOSE",
       "short_name"      : "nose",
       "short_names"     : [
@@ -8155,7 +7478,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUTH",
       "short_name"      : "lips",
       "short_names"     : [
@@ -8167,7 +7489,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TONGUE",
       "short_name"      : "tongue",
       "short_names"     : [
@@ -8179,7 +7500,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE UP POINTING BACKHAND INDEX",
       "short_name"      : "point_up_2",
       "short_names"     : [
@@ -8191,7 +7511,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE DOWN POINTING BACKHAND INDEX",
       "short_name"      : "point_down",
       "short_names"     : [
@@ -8203,7 +7522,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE LEFT POINTING BACKHAND INDEX",
       "short_name"      : "point_left",
       "short_names"     : [
@@ -8215,7 +7533,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WHITE RIGHT POINTING BACKHAND INDEX",
       "short_name"      : "point_right",
       "short_names"     : [
@@ -8227,7 +7544,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FISTED HAND SIGN",
       "short_name"      : "facepunch",
       "short_names"     : [
@@ -8240,7 +7556,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WAVING HAND SIGN",
       "short_name"      : "wave",
       "short_names"     : [
@@ -8252,7 +7567,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OK HAND SIGN",
       "short_name"      : "ok_hand",
       "short_names"     : [
@@ -8264,7 +7578,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "THUMBS UP SIGN",
       "short_name"      : "+1",
       "short_names"     : [
@@ -8277,7 +7590,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "THUMBS DOWN SIGN",
       "short_name"      : "-1",
       "short_names"     : [
@@ -8290,7 +7602,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLAPPING HANDS SIGN",
       "short_name"      : "clap",
       "short_names"     : [
@@ -8302,7 +7613,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OPEN HANDS SIGN",
       "short_name"      : "open_hands",
       "short_names"     : [
@@ -8314,7 +7624,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CROWN",
       "short_name"      : "crown",
       "short_names"     : [
@@ -8326,7 +7635,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMANS HAT",
       "short_name"      : "womans_hat",
       "short_names"     : [
@@ -8338,7 +7646,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EYEGLASSES",
       "short_name"      : "eyeglasses",
       "short_names"     : [
@@ -8350,7 +7657,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NECKTIE",
       "short_name"      : "necktie",
       "short_names"     : [
@@ -8362,7 +7668,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "T-SHIRT",
       "short_name"      : "shirt",
       "short_names"     : [
@@ -8375,7 +7680,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JEANS",
       "short_name"      : "jeans",
       "short_names"     : [
@@ -8387,7 +7691,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DRESS",
       "short_name"      : "dress",
       "short_names"     : [
@@ -8399,7 +7702,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KIMONO",
       "short_name"      : "kimono",
       "short_names"     : [
@@ -8411,7 +7713,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BIKINI",
       "short_name"      : "bikini",
       "short_names"     : [
@@ -8423,7 +7724,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMANS CLOTHES",
       "short_name"      : "womans_clothes",
       "short_names"     : [
@@ -8435,7 +7735,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PURSE",
       "short_name"      : "purse",
       "short_names"     : [
@@ -8447,7 +7746,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HANDBAG",
       "short_name"      : "handbag",
       "short_names"     : [
@@ -8459,7 +7757,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POUCH",
       "short_name"      : "pouch",
       "short_names"     : [
@@ -8471,7 +7768,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MANS SHOE",
       "short_name"      : "mans_shoe",
       "short_names"     : [
@@ -8484,7 +7780,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ATHLETIC SHOE",
       "short_name"      : "athletic_shoe",
       "short_names"     : [
@@ -8496,7 +7791,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIGH-HEELED SHOE",
       "short_name"      : "high_heel",
       "short_names"     : [
@@ -8508,7 +7802,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMANS SANDAL",
       "short_name"      : "sandal",
       "short_names"     : [
@@ -8520,7 +7813,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMANS BOOTS",
       "short_name"      : "boot",
       "short_names"     : [
@@ -8532,7 +7824,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FOOTPRINTS",
       "short_name"      : "footprints",
       "short_names"     : [
@@ -8544,7 +7835,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUST IN SILHOUETTE",
       "short_name"      : "bust_in_silhouette",
       "short_names"     : [
@@ -8556,7 +7846,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUSTS IN SILHOUETTE",
       "short_name"      : "busts_in_silhouette",
       "short_names"     : [
@@ -8568,7 +7857,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOY",
       "short_name"      : "boy",
       "short_names"     : [
@@ -8580,7 +7868,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GIRL",
       "short_name"      : "girl",
       "short_names"     : [
@@ -8592,7 +7879,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAN",
       "short_name"      : "man",
       "short_names"     : [
@@ -8604,7 +7890,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMAN",
       "short_name"      : "woman",
       "short_names"     : [
@@ -8616,7 +7901,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FAMILY",
       "short_name"      : "family",
       "short_names"     : [
@@ -8629,7 +7913,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAN AND WOMAN HOLDING HANDS",
       "short_name"      : "couple",
       "short_names"     : [
@@ -8642,7 +7925,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TWO MEN HOLDING HANDS",
       "short_name"      : "two_men_holding_hands",
       "short_names"     : [
@@ -8654,7 +7936,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TWO WOMEN HOLDING HANDS",
       "short_name"      : "two_women_holding_hands",
       "short_names"     : [
@@ -8666,7 +7947,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POLICE OFFICER",
       "short_name"      : "cop",
       "short_names"     : [
@@ -8678,7 +7958,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WOMAN WITH BUNNY EARS",
       "short_name"      : "dancers",
       "short_names"     : [
@@ -8690,7 +7969,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BRIDE WITH VEIL",
       "short_name"      : "bride_with_veil",
       "short_names"     : [
@@ -8702,7 +7980,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON WITH BLOND HAIR",
       "short_name"      : "person_with_blond_hair",
       "short_names"     : [
@@ -8714,7 +7991,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAN WITH GUA PI MAO",
       "short_name"      : "man_with_gua_pi_mao",
       "short_names"     : [
@@ -8726,7 +8002,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAN WITH TURBAN",
       "short_name"      : "man_with_turban",
       "short_names"     : [
@@ -8738,7 +8013,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OLDER MAN",
       "short_name"      : "older_man",
       "short_names"     : [
@@ -8750,7 +8024,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OLDER WOMAN",
       "short_name"      : "older_woman",
       "short_names"     : [
@@ -8762,7 +8035,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BABY",
       "short_name"      : "baby",
       "short_names"     : [
@@ -8774,7 +8046,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONSTRUCTION WORKER",
       "short_name"      : "construction_worker",
       "short_names"     : [
@@ -8786,7 +8057,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PRINCESS",
       "short_name"      : "princess",
       "short_names"     : [
@@ -8798,7 +8068,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE OGRE",
       "short_name"      : "japanese_ogre",
       "short_names"     : [
@@ -8810,7 +8079,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE GOBLIN",
       "short_name"      : "japanese_goblin",
       "short_names"     : [
@@ -8822,7 +8090,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GHOST",
       "short_name"      : "ghost",
       "short_names"     : [
@@ -8834,7 +8101,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BABY ANGEL",
       "short_name"      : "angel",
       "short_names"     : [
@@ -8846,7 +8112,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EXTRATERRESTRIAL ALIEN",
       "short_name"      : "alien",
       "short_names"     : [
@@ -8858,7 +8123,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "IMP",
       "short_name"      : "imp",
       "short_names"     : [
@@ -8870,7 +8134,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SKULL",
       "short_name"      : "skull",
       "short_names"     : [
@@ -8882,7 +8145,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "INFORMATION DESK PERSON",
       "short_name"      : "information_desk_person",
       "short_names"     : [
@@ -8894,7 +8156,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GUARDSMAN",
       "short_name"      : "guardsman",
       "short_names"     : [
@@ -8906,7 +8167,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DANCER",
       "short_name"      : "dancer",
       "short_names"     : [
@@ -8918,7 +8178,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LIPSTICK",
       "short_name"      : "lipstick",
       "short_names"     : [
@@ -8930,7 +8189,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NAIL POLISH",
       "short_name"      : "nail_care",
       "short_names"     : [
@@ -8942,7 +8200,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE MASSAGE",
       "short_name"      : "massage",
       "short_names"     : [
@@ -8954,7 +8211,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAIRCUT",
       "short_name"      : "haircut",
       "short_names"     : [
@@ -8966,7 +8222,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISS MARK",
       "short_name"      : "kiss",
       "short_names"     : [
@@ -8978,7 +8233,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RING",
       "short_name"      : "ring",
       "short_names"     : [
@@ -8990,7 +8244,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISS",
       "short_name"      : "couplekiss",
       "short_names"     : [
@@ -9002,7 +8255,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "COUPLE WITH HEART",
       "short_name"      : "couple_with_heart",
       "short_names"     : [
@@ -9014,7 +8266,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLEEPING SYMBOL",
       "short_name"      : "zzz",
       "short_names"     : [
@@ -9026,7 +8277,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PILE OF POO",
       "short_name"      : "hankey",
       "short_names"     : [
@@ -9040,7 +8290,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FLEXED BICEPS",
       "short_name"      : "muscle",
       "short_names"     : [
@@ -9052,7 +8301,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BRIEFCASE",
       "short_name"      : "briefcase",
       "short_names"     : [
@@ -9064,7 +8312,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLEUTH OR SPY",
       "short_name"      : "sleuth_or_spy",
       "short_names"     : [
@@ -9076,7 +8323,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DARK SUNGLASSES",
       "short_name"      : "dark_sunglasses",
       "short_names"     : [
@@ -9088,7 +8334,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAISED HAND WITH FINGERS SPLAYED",
       "short_name"      : "raised_hand_with_fingers_splayed",
       "short_names"     : [
@@ -9100,7 +8345,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REVERSED HAND WITH MIDDLE FINGER EXTENDED",
       "short_name"      : "middle_finger",
       "short_names"     : [
@@ -9113,7 +8357,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS",
       "short_name"      : "spock-hand",
       "short_names"     : [
@@ -9125,7 +8368,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEAKING HEAD IN SILHOUETTE",
       "short_name"      : "speaking_head_in_silhouette",
       "short_names"     : [
@@ -9137,7 +8379,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRINNING FACE",
       "short_name"      : "grinning",
       "short_names"     : [
@@ -9149,7 +8390,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRINNING FACE WITH SMILING EYES",
       "short_name"      : "grin",
       "short_names"     : [
@@ -9161,7 +8401,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH TEARS OF JOY",
       "short_name"      : "joy",
       "short_names"     : [
@@ -9173,7 +8412,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH OPEN MOUTH",
       "short_name"      : "smiley",
       "short_names"     : [
@@ -9185,7 +8423,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
       "short_name"      : "smile",
       "short_names"     : [
@@ -9197,7 +8434,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
       "short_name"      : "sweat_smile",
       "short_names"     : [
@@ -9209,7 +8445,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
       "short_name"      : "laughing",
       "short_names"     : [
@@ -9222,7 +8457,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH HALO",
       "short_name"      : "innocent",
       "short_names"     : [
@@ -9234,7 +8468,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH HORNS",
       "short_name"      : "smiling_imp",
       "short_names"     : [
@@ -9246,7 +8479,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WINKING FACE",
       "short_name"      : "wink",
       "short_names"     : [
@@ -9258,7 +8490,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH SMILING EYES",
       "short_name"      : "blush",
       "short_names"     : [
@@ -9270,7 +8501,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE SAVOURING DELICIOUS FOOD",
       "short_name"      : "yum",
       "short_names"     : [
@@ -9282,7 +8512,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RELIEVED FACE",
       "short_name"      : "relieved",
       "short_names"     : [
@@ -9294,7 +8523,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH HEART-SHAPED EYES",
       "short_name"      : "heart_eyes",
       "short_names"     : [
@@ -9306,7 +8534,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING FACE WITH SUNGLASSES",
       "short_name"      : "sunglasses",
       "short_names"     : [
@@ -9318,7 +8545,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMIRKING FACE",
       "short_name"      : "smirk",
       "short_names"     : [
@@ -9330,7 +8556,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NEUTRAL FACE",
       "short_name"      : "neutral_face",
       "short_names"     : [
@@ -9342,7 +8567,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EXPRESSIONLESS FACE",
       "short_name"      : "expressionless",
       "short_names"     : [
@@ -9354,7 +8578,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "UNAMUSED FACE",
       "short_name"      : "unamused",
       "short_names"     : [
@@ -9366,7 +8589,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH COLD SWEAT",
       "short_name"      : "sweat",
       "short_names"     : [
@@ -9378,7 +8600,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PENSIVE FACE",
       "short_name"      : "pensive",
       "short_names"     : [
@@ -9390,7 +8611,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONFUSED FACE",
       "short_name"      : "confused",
       "short_names"     : [
@@ -9402,7 +8622,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONFOUNDED FACE",
       "short_name"      : "confounded",
       "short_names"     : [
@@ -9414,7 +8633,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISSING FACE",
       "short_name"      : "kissing",
       "short_names"     : [
@@ -9426,7 +8644,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE THROWING A KISS",
       "short_name"      : "kissing_heart",
       "short_names"     : [
@@ -9438,7 +8655,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISSING FACE WITH SMILING EYES",
       "short_name"      : "kissing_smiling_eyes",
       "short_names"     : [
@@ -9450,7 +8666,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISSING FACE WITH CLOSED EYES",
       "short_name"      : "kissing_closed_eyes",
       "short_names"     : [
@@ -9462,7 +8677,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH STUCK-OUT TONGUE",
       "short_name"      : "stuck_out_tongue",
       "short_names"     : [
@@ -9474,7 +8688,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
       "short_name"      : "stuck_out_tongue_winking_eye",
       "short_names"     : [
@@ -9486,7 +8699,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
       "short_name"      : "stuck_out_tongue_closed_eyes",
       "short_names"     : [
@@ -9498,7 +8710,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DISAPPOINTED FACE",
       "short_name"      : "disappointed",
       "short_names"     : [
@@ -9510,7 +8721,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WORRIED FACE",
       "short_name"      : "worried",
       "short_names"     : [
@@ -9522,7 +8732,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANGRY FACE",
       "short_name"      : "angry",
       "short_names"     : [
@@ -9534,7 +8743,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POUTING FACE",
       "short_name"      : "rage",
       "short_names"     : [
@@ -9546,7 +8754,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CRYING FACE",
       "short_name"      : "cry",
       "short_names"     : [
@@ -9558,7 +8765,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSEVERING FACE",
       "short_name"      : "persevere",
       "short_names"     : [
@@ -9570,7 +8776,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH LOOK OF TRIUMPH",
       "short_name"      : "triumph",
       "short_names"     : [
@@ -9582,7 +8787,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DISAPPOINTED BUT RELIEVED FACE",
       "short_name"      : "disappointed_relieved",
       "short_names"     : [
@@ -9594,7 +8798,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FROWNING FACE WITH OPEN MOUTH",
       "short_name"      : "frowning",
       "short_names"     : [
@@ -9606,7 +8809,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANGUISHED FACE",
       "short_name"      : "anguished",
       "short_names"     : [
@@ -9618,7 +8820,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FEARFUL FACE",
       "short_name"      : "fearful",
       "short_names"     : [
@@ -9630,7 +8831,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WEARY FACE",
       "short_name"      : "weary",
       "short_names"     : [
@@ -9642,7 +8842,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLEEPY FACE",
       "short_name"      : "sleepy",
       "short_names"     : [
@@ -9654,7 +8853,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TIRED FACE",
       "short_name"      : "tired_face",
       "short_names"     : [
@@ -9666,7 +8864,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRIMACING FACE",
       "short_name"      : "grimacing",
       "short_names"     : [
@@ -9678,7 +8875,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOUDLY CRYING FACE",
       "short_name"      : "sob",
       "short_names"     : [
@@ -9690,7 +8886,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH OPEN MOUTH",
       "short_name"      : "open_mouth",
       "short_names"     : [
@@ -9702,7 +8897,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HUSHED FACE",
       "short_name"      : "hushed",
       "short_names"     : [
@@ -9714,7 +8908,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH OPEN MOUTH AND COLD SWEAT",
       "short_name"      : "cold_sweat",
       "short_names"     : [
@@ -9726,7 +8919,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE SCREAMING IN FEAR",
       "short_name"      : "scream",
       "short_names"     : [
@@ -9738,7 +8930,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ASTONISHED FACE",
       "short_name"      : "astonished",
       "short_names"     : [
@@ -9750,7 +8941,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FLUSHED FACE",
       "short_name"      : "flushed",
       "short_names"     : [
@@ -9762,7 +8952,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLEEPING FACE",
       "short_name"      : "sleeping",
       "short_names"     : [
@@ -9774,7 +8963,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DIZZY FACE",
       "short_name"      : "dizzy_face",
       "short_names"     : [
@@ -9786,7 +8974,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITHOUT MOUTH",
       "short_name"      : "no_mouth",
       "short_names"     : [
@@ -9798,7 +8985,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH MEDICAL MASK",
       "short_name"      : "mask",
       "short_names"     : [
@@ -9810,7 +8996,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GRINNING CAT FACE WITH SMILING EYES",
       "short_name"      : "smile_cat",
       "short_names"     : [
@@ -9822,7 +9007,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAT FACE WITH TEARS OF JOY",
       "short_name"      : "joy_cat",
       "short_names"     : [
@@ -9834,7 +9018,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING CAT FACE WITH OPEN MOUTH",
       "short_name"      : "smiley_cat",
       "short_names"     : [
@@ -9846,7 +9029,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMILING CAT FACE WITH HEART-SHAPED EYES",
       "short_name"      : "heart_eyes_cat",
       "short_names"     : [
@@ -9858,7 +9040,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAT FACE WITH WRY SMILE",
       "short_name"      : "smirk_cat",
       "short_names"     : [
@@ -9870,7 +9051,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "KISSING CAT FACE WITH CLOSED EYES",
       "short_name"      : "kissing_cat",
       "short_names"     : [
@@ -9882,7 +9062,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POUTING CAT FACE",
       "short_name"      : "pouting_cat",
       "short_names"     : [
@@ -9894,7 +9073,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CRYING CAT FACE",
       "short_name"      : "crying_cat_face",
       "short_names"     : [
@@ -9906,7 +9084,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WEARY CAT FACE",
       "short_name"      : "scream_cat",
       "short_names"     : [
@@ -9918,7 +9095,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLIGHTLY FROWNING FACE",
       "short_name"      : "slightly_frowning_face",
       "short_names"     : [
@@ -9930,7 +9106,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLIGHTLY SMILING FACE",
       "short_name"      : "slightly_smiling_face",
       "short_names"     : [
@@ -9942,7 +9117,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "UPSIDE-DOWN FACE",
       "short_name"      : "upside_down_face",
       "short_names"     : [
@@ -9954,7 +9128,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FACE WITH ROLLING EYES",
       "short_name"      : "face_with_rolling_eyes",
       "short_names"     : [
@@ -9966,7 +9139,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH NO GOOD GESTURE",
       "short_name"      : "no_good",
       "short_names"     : [
@@ -9978,7 +9150,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACE WITH OK GESTURE",
       "short_name"      : "ok_woman",
       "short_names"     : [
@@ -9990,7 +9161,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON BOWING DEEPLY",
       "short_name"      : "bow",
       "short_names"     : [
@@ -10002,7 +9172,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HAPPY PERSON RAISING ONE HAND",
       "short_name"      : "raising_hand",
       "short_names"     : [
@@ -10014,7 +9183,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON RAISING BOTH HANDS IN CELEBRATION",
       "short_name"      : "raised_hands",
       "short_names"     : [
@@ -10026,7 +9194,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON FROWNING",
       "short_name"      : "person_frowning",
       "short_names"     : [
@@ -10038,7 +9205,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON WITH POUTING FACE",
       "short_name"      : "person_with_pouting_face",
       "short_names"     : [
@@ -10050,7 +9216,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERSON WITH FOLDED HANDS",
       "short_name"      : "pray",
       "short_names"     : [
@@ -10062,7 +9227,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PEDESTRIAN",
       "short_name"      : "walking",
       "short_names"     : [
@@ -10074,7 +9238,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ZIPPER-MOUTH FACE",
       "short_name"      : "zipper_mouth_face",
       "short_names"     : [
@@ -10086,7 +9249,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "MONEY-MOUTH FACE",
       "short_name"      : "money_mouth_face",
       "short_names"     : [
@@ -10098,7 +9260,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FACE WITH THERMOMETER",
       "short_name"      : "face_with_thermometer",
       "short_names"     : [
@@ -10110,7 +9271,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "NERD FACE",
       "short_name"      : "nerd_face",
       "short_names"     : [
@@ -10122,7 +9282,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "THINKING FACE",
       "short_name"      : "thinking_face",
       "short_names"     : [
@@ -10134,7 +9293,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FACE WITH HEAD-BANDAGE",
       "short_name"      : "face_with_head_bandage",
       "short_names"     : [
@@ -10146,7 +9304,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ROBOT FACE",
       "short_name"      : "robot_face",
       "short_names"     : [
@@ -10158,7 +9315,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "HUGGING FACE",
       "short_name"      : "hugging_face",
       "short_names"     : [
@@ -10170,7 +9326,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SIGN OF THE HORNS",
       "short_name"      : "the_horns",
       "short_names"     : [
@@ -10183,7 +9338,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-man-boy",
       "short_names"     : [
@@ -10195,7 +9349,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-man-boy-boy",
       "short_names"     : [
@@ -10207,7 +9360,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-man-girl",
       "short_names"     : [
@@ -10219,7 +9371,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-man-girl-boy",
       "short_names"     : [
@@ -10231,7 +9382,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-man-girl-girl",
       "short_names"     : [
@@ -10243,7 +9393,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-woman-boy-boy",
       "short_names"     : [
@@ -10255,7 +9404,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-woman-girl",
       "short_names"     : [
@@ -10267,7 +9415,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-woman-girl-boy",
       "short_names"     : [
@@ -10279,7 +9426,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "man-woman-girl-girl",
       "short_names"     : [
@@ -10291,7 +9437,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : null,
       "short_name"      : "man-heart-man",
       "short_names"     : [
@@ -10303,7 +9448,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : null,
       "short_name"      : "man-kiss-man",
       "short_names"     : [
@@ -10315,7 +9459,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "woman-woman-boy",
       "short_names"     : [
@@ -10327,7 +9470,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "woman-woman-boy-boy",
       "short_names"     : [
@@ -10339,7 +9481,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "woman-woman-girl",
       "short_names"     : [
@@ -10351,7 +9492,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "woman-woman-girl-boy",
       "short_names"     : [
@@ -10363,7 +9503,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : null,
       "short_name"      : "woman-woman-girl-girl",
       "short_names"     : [
@@ -10375,7 +9514,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : null,
       "short_name"      : "woman-heart-woman",
       "short_names"     : [
@@ -10387,7 +9525,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : null,
       "short_name"      : "woman-kiss-woman",
       "short_names"     : [
@@ -10401,7 +9538,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ANCHOR",
       "short_name"      : "anchor",
       "short_names"     : [
@@ -10413,7 +9549,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SHINTO SHRINE",
       "short_name"      : "shinto_shrine",
       "short_names"     : [
@@ -10425,7 +9560,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHURCH",
       "short_name"      : "church",
       "short_names"     : [
@@ -10437,7 +9571,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "MOUNTAIN",
       "short_name"      : "mountain",
       "short_names"     : [
@@ -10449,7 +9582,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FOUNTAIN",
       "short_name"      : "fountain",
       "short_names"     : [
@@ -10461,7 +9593,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FERRY",
       "short_name"      : "ferry",
       "short_names"     : [
@@ -10473,7 +9604,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SAILBOAT",
       "short_name"      : "boat",
       "short_names"     : [
@@ -10486,7 +9616,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TENT",
       "short_name"      : "tent",
       "short_names"     : [
@@ -10498,7 +9627,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FUEL PUMP",
       "short_name"      : "fuelpump",
       "short_names"     : [
@@ -10510,7 +9638,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AIRPLANE",
       "short_name"      : "airplane",
       "short_names"     : [
@@ -10522,7 +9649,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FOGGY",
       "short_name"      : "foggy",
       "short_names"     : [
@@ -10534,7 +9660,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NIGHT WITH STARS",
       "short_name"      : "night_with_stars",
       "short_names"     : [
@@ -10546,7 +9671,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUNRISE OVER MOUNTAINS",
       "short_name"      : "sunrise_over_mountains",
       "short_names"     : [
@@ -10558,7 +9682,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUNRISE",
       "short_name"      : "sunrise",
       "short_names"     : [
@@ -10570,7 +9693,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CITYSCAPE AT DUSK",
       "short_name"      : "city_sunset",
       "short_names"     : [
@@ -10582,7 +9704,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUNSET OVER BUILDINGS",
       "short_name"      : "city_sunrise",
       "short_names"     : [
@@ -10594,7 +9715,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAINBOW",
       "short_name"      : "rainbow",
       "short_names"     : [
@@ -10606,7 +9726,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BRIDGE AT NIGHT",
       "short_name"      : "bridge_at_night",
       "short_names"     : [
@@ -10618,7 +9737,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VOLCANO",
       "short_name"      : "volcano",
       "short_names"     : [
@@ -10630,7 +9748,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MILKY WAY",
       "short_name"      : "milky_way",
       "short_names"     : [
@@ -10642,7 +9759,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHOOTING STAR",
       "short_name"      : "stars",
       "short_names"     : [
@@ -10654,7 +9770,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIREWORKS",
       "short_name"      : "fireworks",
       "short_names"     : [
@@ -10666,7 +9781,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIREWORK SPARKLER",
       "short_name"      : "sparkler",
       "short_names"     : [
@@ -10678,7 +9792,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOON VIEWING CEREMONY",
       "short_name"      : "rice_scene",
       "short_names"     : [
@@ -10690,7 +9803,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAROUSEL HORSE",
       "short_name"      : "carousel_horse",
       "short_names"     : [
@@ -10702,7 +9814,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FERRIS WHEEL",
       "short_name"      : "ferris_wheel",
       "short_names"     : [
@@ -10714,7 +9825,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROLLER COASTER",
       "short_name"      : "roller_coaster",
       "short_names"     : [
@@ -10726,7 +9836,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CHEQUERED FLAG",
       "short_name"      : "checkered_flag",
       "short_names"     : [
@@ -10738,7 +9847,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RACING MOTORCYCLE",
       "short_name"      : "racing_motorcycle",
       "short_names"     : [
@@ -10750,7 +9858,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RACING CAR",
       "short_name"      : "racing_car",
       "short_names"     : [
@@ -10762,7 +9869,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNOW CAPPED MOUNTAIN",
       "short_name"      : "snow_capped_mountain",
       "short_names"     : [
@@ -10774,7 +9880,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CAMPING",
       "short_name"      : "camping",
       "short_names"     : [
@@ -10786,7 +9891,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BEACH WITH UMBRELLA",
       "short_name"      : "beach_with_umbrella",
       "short_names"     : [
@@ -10798,7 +9902,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUILDING CONSTRUCTION",
       "short_name"      : "building_construction",
       "short_names"     : [
@@ -10810,7 +9913,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOUSE BUILDINGS",
       "short_name"      : "house_buildings",
       "short_names"     : [
@@ -10822,7 +9924,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CITYSCAPE",
       "short_name"      : "cityscape",
       "short_names"     : [
@@ -10834,7 +9935,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DERELICT HOUSE BUILDING",
       "short_name"      : "derelict_house_building",
       "short_names"     : [
@@ -10846,7 +9946,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLASSICAL BUILDING",
       "short_name"      : "classical_building",
       "short_names"     : [
@@ -10858,7 +9957,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DESERT",
       "short_name"      : "desert",
       "short_names"     : [
@@ -10870,7 +9968,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DESERT ISLAND",
       "short_name"      : "desert_island",
       "short_names"     : [
@@ -10882,7 +9979,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "NATIONAL PARK",
       "short_name"      : "national_park",
       "short_names"     : [
@@ -10894,7 +9990,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STADIUM",
       "short_name"      : "stadium",
       "short_names"     : [
@@ -10906,7 +10001,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOUSE BUILDING",
       "short_name"      : "house",
       "short_names"     : [
@@ -10918,7 +10012,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOUSE WITH GARDEN",
       "short_name"      : "house_with_garden",
       "short_names"     : [
@@ -10930,7 +10023,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "OFFICE BUILDING",
       "short_name"      : "office",
       "short_names"     : [
@@ -10942,7 +10034,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE POST OFFICE",
       "short_name"      : "post_office",
       "short_names"     : [
@@ -10954,7 +10045,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EUROPEAN POST OFFICE",
       "short_name"      : "european_post_office",
       "short_names"     : [
@@ -10966,7 +10056,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOSPITAL",
       "short_name"      : "hospital",
       "short_names"     : [
@@ -10978,7 +10067,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BANK",
       "short_name"      : "bank",
       "short_names"     : [
@@ -10990,7 +10078,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HOTEL",
       "short_name"      : "hotel",
       "short_names"     : [
@@ -11002,7 +10089,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LOVE HOTEL",
       "short_name"      : "love_hotel",
       "short_names"     : [
@@ -11014,7 +10100,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONVENIENCE STORE",
       "short_name"      : "convenience_store",
       "short_names"     : [
@@ -11026,7 +10111,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SCHOOL",
       "short_name"      : "school",
       "short_names"     : [
@@ -11038,7 +10122,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DEPARTMENT STORE",
       "short_name"      : "department_store",
       "short_names"     : [
@@ -11050,7 +10133,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FACTORY",
       "short_name"      : "factory",
       "short_names"     : [
@@ -11062,7 +10144,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "JAPANESE CASTLE",
       "short_name"      : "japanese_castle",
       "short_names"     : [
@@ -11074,7 +10155,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "EUROPEAN CASTLE",
       "short_name"      : "european_castle",
       "short_names"     : [
@@ -11086,7 +10166,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WEDDING",
       "short_name"      : "wedding",
       "short_names"     : [
@@ -11098,7 +10177,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SEAT",
       "short_name"      : "seat",
       "short_names"     : [
@@ -11110,7 +10188,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "KAABA",
       "short_name"      : "kaaba",
       "short_names"     : [
@@ -11122,7 +10199,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "MOSQUE",
       "short_name"      : "mosque",
       "short_names"     : [
@@ -11134,7 +10210,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SYNAGOGUE",
       "short_name"      : "synagogue",
       "short_names"     : [
@@ -11146,7 +10221,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUNT FUJI",
       "short_name"      : "mount_fuji",
       "short_names"     : [
@@ -11158,7 +10232,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TOKYO TOWER",
       "short_name"      : "tokyo_tower",
       "short_names"     : [
@@ -11170,7 +10243,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STATUE OF LIBERTY",
       "short_name"      : "statue_of_liberty",
       "short_names"     : [
@@ -11182,7 +10254,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SILHOUETTE OF JAPAN",
       "short_name"      : "japan",
       "short_names"     : [
@@ -11194,7 +10265,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROCKET",
       "short_name"      : "rocket",
       "short_names"     : [
@@ -11206,7 +10276,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HELICOPTER",
       "short_name"      : "helicopter",
       "short_names"     : [
@@ -11218,7 +10287,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STEAM LOCOMOTIVE",
       "short_name"      : "steam_locomotive",
       "short_names"     : [
@@ -11230,7 +10298,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAILWAY CAR",
       "short_name"      : "railway_car",
       "short_names"     : [
@@ -11242,7 +10309,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIGH-SPEED TRAIN",
       "short_name"      : "bullettrain_side",
       "short_names"     : [
@@ -11254,7 +10320,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HIGH-SPEED TRAIN WITH BULLET NOSE",
       "short_name"      : "bullettrain_front",
       "short_names"     : [
@@ -11266,7 +10331,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRAIN",
       "short_name"      : "train2",
       "short_names"     : [
@@ -11278,7 +10342,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "METRO",
       "short_name"      : "metro",
       "short_names"     : [
@@ -11290,7 +10353,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "LIGHT RAIL",
       "short_name"      : "light_rail",
       "short_names"     : [
@@ -11302,7 +10364,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "STATION",
       "short_name"      : "station",
       "short_names"     : [
@@ -11314,7 +10375,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRAM",
       "short_name"      : "tram",
       "short_names"     : [
@@ -11326,7 +10386,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRAM CAR",
       "short_name"      : "train",
       "short_names"     : [
@@ -11338,7 +10397,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUS",
       "short_name"      : "bus",
       "short_names"     : [
@@ -11350,7 +10408,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ONCOMING BUS",
       "short_name"      : "oncoming_bus",
       "short_names"     : [
@@ -11362,7 +10419,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TROLLEYBUS",
       "short_name"      : "trolleybus",
       "short_names"     : [
@@ -11374,7 +10430,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BUS STOP",
       "short_name"      : "busstop",
       "short_names"     : [
@@ -11386,7 +10441,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MINIBUS",
       "short_name"      : "minibus",
       "short_names"     : [
@@ -11398,7 +10452,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AMBULANCE",
       "short_name"      : "ambulance",
       "short_names"     : [
@@ -11410,7 +10463,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FIRE ENGINE",
       "short_name"      : "fire_engine",
       "short_names"     : [
@@ -11422,7 +10474,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POLICE CAR",
       "short_name"      : "police_car",
       "short_names"     : [
@@ -11434,7 +10485,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ONCOMING POLICE CAR",
       "short_name"      : "oncoming_police_car",
       "short_names"     : [
@@ -11446,7 +10496,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TAXI",
       "short_name"      : "taxi",
       "short_names"     : [
@@ -11458,7 +10507,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ONCOMING TAXI",
       "short_name"      : "oncoming_taxi",
       "short_names"     : [
@@ -11470,7 +10518,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AUTOMOBILE",
       "short_name"      : "car",
       "short_names"     : [
@@ -11483,7 +10530,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ONCOMING AUTOMOBILE",
       "short_name"      : "oncoming_automobile",
       "short_names"     : [
@@ -11495,7 +10541,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RECREATIONAL VEHICLE",
       "short_name"      : "blue_car",
       "short_names"     : [
@@ -11507,7 +10552,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DELIVERY TRUCK",
       "short_name"      : "truck",
       "short_names"     : [
@@ -11519,7 +10563,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ARTICULATED LORRY",
       "short_name"      : "articulated_lorry",
       "short_names"     : [
@@ -11531,7 +10574,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRACTOR",
       "short_name"      : "tractor",
       "short_names"     : [
@@ -11543,7 +10585,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MONORAIL",
       "short_name"      : "monorail",
       "short_names"     : [
@@ -11555,7 +10596,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUNTAIN RAILWAY",
       "short_name"      : "mountain_railway",
       "short_names"     : [
@@ -11567,7 +10607,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SUSPENSION RAILWAY",
       "short_name"      : "suspension_railway",
       "short_names"     : [
@@ -11579,7 +10618,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUNTAIN CABLEWAY",
       "short_name"      : "mountain_cableway",
       "short_names"     : [
@@ -11591,7 +10629,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AERIAL TRAMWAY",
       "short_name"      : "aerial_tramway",
       "short_names"     : [
@@ -11603,7 +10640,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SHIP",
       "short_name"      : "ship",
       "short_names"     : [
@@ -11615,7 +10651,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPEEDBOAT",
       "short_name"      : "speedboat",
       "short_names"     : [
@@ -11627,7 +10662,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HORIZONTAL TRAFFIC LIGHT",
       "short_name"      : "traffic_light",
       "short_names"     : [
@@ -11639,7 +10673,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VERTICAL TRAFFIC LIGHT",
       "short_name"      : "vertical_traffic_light",
       "short_names"     : [
@@ -11651,7 +10684,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CONSTRUCTION SIGN",
       "short_name"      : "construction",
       "short_names"     : [
@@ -11663,7 +10695,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "POLICE CARS REVOLVING LIGHT",
       "short_name"      : "rotating_light",
       "short_names"     : [
@@ -11675,7 +10706,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BICYCLE",
       "short_name"      : "bike",
       "short_names"     : [
@@ -11687,7 +10717,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOTORWAY",
       "short_name"      : "motorway",
       "short_names"     : [
@@ -11699,7 +10728,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RAILWAY TRACK",
       "short_name"      : "railway_track",
       "short_names"     : [
@@ -11711,7 +10739,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOTOR BOAT",
       "short_name"      : "motor_boat",
       "short_names"     : [
@@ -11723,7 +10750,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SMALL AIRPLANE",
       "short_name"      : "small_airplane",
       "short_names"     : [
@@ -11735,7 +10761,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AIRPLANE DEPARTURE",
       "short_name"      : "airplane_departure",
       "short_names"     : [
@@ -11747,7 +10772,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AIRPLANE ARRIVING",
       "short_name"      : "airplane_arriving",
       "short_names"     : [
@@ -11759,7 +10783,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SATELLITE",
       "short_name"      : "satellite",
       "short_names"     : [
@@ -11771,7 +10794,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PASSENGER SHIP",
       "short_name"      : "passenger_ship",
       "short_names"     : [
@@ -11785,7 +10807,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SOCCER BALL",
       "short_name"      : "soccer",
       "short_names"     : [
@@ -11797,7 +10818,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BASEBALL",
       "short_name"      : "baseball",
       "short_names"     : [
@@ -11809,7 +10829,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FLAG IN HOLE",
       "short_name"      : "golf",
       "short_names"     : [
@@ -11821,7 +10840,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "SKIER",
       "short_name"      : "skier",
       "short_names"     : [
@@ -11833,7 +10851,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ICE SKATE",
       "short_name"      : "ice_skate",
       "short_names"     : [
@@ -11845,7 +10862,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "PERSON WITH BALL",
       "short_name"      : "person_with_ball",
       "short_names"     : [
@@ -11857,7 +10873,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MILITARY MEDAL",
       "short_name"      : "medal",
       "short_names"     : [
@@ -11869,7 +10884,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REMINDER RIBBON",
       "short_name"      : "reminder_ribbon",
       "short_names"     : [
@@ -11881,7 +10895,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ADMISSION TICKETS",
       "short_name"      : "admission_tickets",
       "short_names"     : [
@@ -11893,7 +10906,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "FISHING POLE AND FISH",
       "short_name"      : "fishing_pole_and_fish",
       "short_names"     : [
@@ -11905,7 +10917,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MICROPHONE",
       "short_name"      : "microphone",
       "short_names"     : [
@@ -11917,7 +10928,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HEADPHONE",
       "short_name"      : "headphones",
       "short_names"     : [
@@ -11929,7 +10939,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ARTIST PALETTE",
       "short_name"      : "art",
       "short_names"     : [
@@ -11941,7 +10950,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CIRCUS TENT",
       "short_name"      : "circus_tent",
       "short_names"     : [
@@ -11953,7 +10961,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TICKET",
       "short_name"      : "ticket",
       "short_names"     : [
@@ -11965,7 +10972,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "CLAPPER BOARD",
       "short_name"      : "clapper",
       "short_names"     : [
@@ -11977,7 +10983,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "PERFORMING ARTS",
       "short_name"      : "performing_arts",
       "short_names"     : [
@@ -11989,7 +10994,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIDEO GAME",
       "short_name"      : "video_game",
       "short_names"     : [
@@ -12001,7 +11005,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "DIRECT HIT",
       "short_name"      : "dart",
       "short_names"     : [
@@ -12013,7 +11016,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SLOT MACHINE",
       "short_name"      : "slot_machine",
       "short_names"     : [
@@ -12025,7 +11027,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BILLIARDS",
       "short_name"      : "8ball",
       "short_names"     : [
@@ -12037,7 +11038,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GAME DIE",
       "short_name"      : "game_die",
       "short_names"     : [
@@ -12049,7 +11049,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BOWLING",
       "short_name"      : "bowling",
       "short_names"     : [
@@ -12061,7 +11060,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SAXOPHONE",
       "short_name"      : "saxophone",
       "short_names"     : [
@@ -12073,7 +11071,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GUITAR",
       "short_name"      : "guitar",
       "short_names"     : [
@@ -12085,7 +11082,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MUSICAL KEYBOARD",
       "short_name"      : "musical_keyboard",
       "short_names"     : [
@@ -12097,7 +11093,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TRUMPET",
       "short_name"      : "trumpet",
       "short_names"     : [
@@ -12109,7 +11104,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "VIOLIN",
       "short_name"      : "violin",
       "short_names"     : [
@@ -12121,7 +11115,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MUSICAL SCORE",
       "short_name"      : "musical_score",
       "short_names"     : [
@@ -12133,7 +11126,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RUNNING SHIRT WITH SASH",
       "short_name"      : "running_shirt_with_sash",
       "short_names"     : [
@@ -12145,7 +11137,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TENNIS RACQUET AND BALL",
       "short_name"      : "tennis",
       "short_names"     : [
@@ -12157,7 +11148,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SKI AND SKI BOOT",
       "short_name"      : "ski",
       "short_names"     : [
@@ -12169,7 +11159,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BASKETBALL AND HOOP",
       "short_name"      : "basketball",
       "short_names"     : [
@@ -12181,7 +11170,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SNOWBOARDER",
       "short_name"      : "snowboarder",
       "short_names"     : [
@@ -12193,7 +11181,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SURFER",
       "short_name"      : "surfer",
       "short_names"     : [
@@ -12205,7 +11192,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SPORTS MEDAL",
       "short_name"      : "sports_medal",
       "short_names"     : [
@@ -12217,7 +11203,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "TROPHY",
       "short_name"      : "trophy",
       "short_names"     : [
@@ -12229,7 +11214,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "HORSE RACING",
       "short_name"      : "horse_racing",
       "short_names"     : [
@@ -12241,7 +11225,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "AMERICAN FOOTBALL",
       "short_name"      : "football",
       "short_names"     : [
@@ -12253,7 +11236,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "RUGBY FOOTBALL",
       "short_name"      : "rugby_football",
       "short_names"     : [
@@ -12265,7 +11247,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "SWIMMER",
       "short_name"      : "swimmer",
       "short_names"     : [
@@ -12277,7 +11258,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "WEIGHT LIFTER",
       "short_name"      : "weight_lifter",
       "short_names"     : [
@@ -12289,7 +11269,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "GOLFER",
       "short_name"      : "golfer",
       "short_names"     : [
@@ -12301,7 +11280,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "CRICKET BAT AND BALL",
       "short_name"      : "cricket_bat_and_ball",
       "short_names"     : [
@@ -12313,7 +11291,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "VOLLEYBALL",
       "short_name"      : "volleyball",
       "short_names"     : [
@@ -12325,7 +11302,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "FIELD HOCKEY STICK AND BALL",
       "short_name"      : "field_hockey_stick_and_ball",
       "short_names"     : [
@@ -12337,7 +11313,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "ICE HOCKEY STICK AND PUCK",
       "short_name"      : "ice_hockey_stick_and_puck",
       "short_names"     : [
@@ -12349,7 +11324,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "TABLE TENNIS PADDLE AND BALL",
       "short_name"      : "table_tennis_paddle_and_ball",
       "short_names"     : [
@@ -12361,7 +11335,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROSETTE",
       "short_name"      : "rosette",
       "short_names"     : [
@@ -12373,7 +11346,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BADMINTON RACQUET AND SHUTTLECOCK",
       "short_name"      : "badminton_racquet_and_shuttlecock",
       "short_names"     : [
@@ -12385,7 +11357,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "BOW AND ARROW",
       "short_name"      : "bow_and_arrow",
       "short_names"     : [
@@ -12397,7 +11368,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ALIEN MONSTER",
       "short_name"      : "space_invader",
       "short_names"     : [
@@ -12409,7 +11379,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MAN IN BUSINESS SUIT LEVITATING",
       "short_name"      : "man_in_business_suit_levitating",
       "short_names"     : [
@@ -12421,7 +11390,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "ROWBOAT",
       "short_name"      : "rowboat",
       "short_names"     : [
@@ -12433,7 +11401,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BICYCLIST",
       "short_name"      : "bicyclist",
       "short_names"     : [
@@ -12445,7 +11412,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "MOUNTAIN BICYCLIST",
       "short_name"      : "mountain_bicyclist",
       "short_names"     : [
@@ -12457,7 +11423,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "BATH",
       "short_name"      : "bath",
       "short_names"     : [
@@ -12471,7 +11436,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AD",
       "short_name"      : "flag-ad",
       "short_names"     : [
@@ -12483,7 +11447,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AE",
       "short_name"      : "flag-ae",
       "short_names"     : [
@@ -12495,7 +11458,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AF",
       "short_name"      : "flag-af",
       "short_names"     : [
@@ -12507,7 +11469,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AG",
       "short_name"      : "flag-ag",
       "short_names"     : [
@@ -12519,7 +11480,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AI",
       "short_name"      : "flag-ai",
       "short_names"     : [
@@ -12531,7 +11491,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AL",
       "short_name"      : "flag-al",
       "short_names"     : [
@@ -12543,7 +11502,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AM",
       "short_name"      : "flag-am",
       "short_names"     : [
@@ -12555,7 +11513,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AO",
       "short_name"      : "flag-ao",
       "short_names"     : [
@@ -12567,7 +11524,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AQ",
       "short_name"      : "flag-aq",
       "short_names"     : [
@@ -12579,7 +11535,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AR",
       "short_name"      : "flag-ar",
       "short_names"     : [
@@ -12591,7 +11546,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AS",
       "short_name"      : "flag-as",
       "short_names"     : [
@@ -12603,7 +11557,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AT",
       "short_name"      : "flag-at",
       "short_names"     : [
@@ -12615,7 +11568,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AU",
       "short_name"      : "flag-au",
       "short_names"     : [
@@ -12627,7 +11579,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AW",
       "short_name"      : "flag-aw",
       "short_names"     : [
@@ -12639,7 +11590,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AX",
       "short_name"      : "flag-ax",
       "short_names"     : [
@@ -12651,7 +11601,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS AZ",
       "short_name"      : "flag-az",
       "short_names"     : [
@@ -12663,7 +11612,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BA",
       "short_name"      : "flag-ba",
       "short_names"     : [
@@ -12675,7 +11623,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BB",
       "short_name"      : "flag-bb",
       "short_names"     : [
@@ -12687,7 +11634,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BD",
       "short_name"      : "flag-bd",
       "short_names"     : [
@@ -12699,7 +11645,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BE",
       "short_name"      : "flag-be",
       "short_names"     : [
@@ -12711,7 +11656,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BF",
       "short_name"      : "flag-bf",
       "short_names"     : [
@@ -12723,7 +11667,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BG",
       "short_name"      : "flag-bg",
       "short_names"     : [
@@ -12735,7 +11678,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BH",
       "short_name"      : "flag-bh",
       "short_names"     : [
@@ -12747,7 +11689,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BI",
       "short_name"      : "flag-bi",
       "short_names"     : [
@@ -12759,7 +11700,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BJ",
       "short_name"      : "flag-bj",
       "short_names"     : [
@@ -12771,7 +11711,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BL",
       "short_name"      : "flag-bl",
       "short_names"     : [
@@ -12783,7 +11722,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BM",
       "short_name"      : "flag-bm",
       "short_names"     : [
@@ -12795,7 +11733,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BN",
       "short_name"      : "flag-bn",
       "short_names"     : [
@@ -12807,7 +11744,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BO",
       "short_name"      : "flag-bo",
       "short_names"     : [
@@ -12819,7 +11755,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BQ",
       "short_name"      : "flag-bq",
       "short_names"     : [
@@ -12831,7 +11766,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BR",
       "short_name"      : "flag-br",
       "short_names"     : [
@@ -12843,7 +11777,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BS",
       "short_name"      : "flag-bs",
       "short_names"     : [
@@ -12855,7 +11788,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BT",
       "short_name"      : "flag-bt",
       "short_names"     : [
@@ -12867,7 +11799,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BW",
       "short_name"      : "flag-bw",
       "short_names"     : [
@@ -12879,7 +11810,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BY",
       "short_name"      : "flag-by",
       "short_names"     : [
@@ -12891,7 +11821,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS BZ",
       "short_name"      : "flag-bz",
       "short_names"     : [
@@ -12903,7 +11832,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CA",
       "short_name"      : "flag-ca",
       "short_names"     : [
@@ -12915,7 +11843,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CC",
       "short_name"      : "flag-cc",
       "short_names"     : [
@@ -12927,7 +11854,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CD",
       "short_name"      : "flag-cd",
       "short_names"     : [
@@ -12939,7 +11865,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CF",
       "short_name"      : "flag-cf",
       "short_names"     : [
@@ -12951,7 +11876,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CG",
       "short_name"      : "flag-cg",
       "short_names"     : [
@@ -12963,7 +11887,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CH",
       "short_name"      : "flag-ch",
       "short_names"     : [
@@ -12975,7 +11898,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CI",
       "short_name"      : "flag-ci",
       "short_names"     : [
@@ -12987,7 +11909,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CK",
       "short_name"      : "flag-ck",
       "short_names"     : [
@@ -12999,7 +11920,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CL",
       "short_name"      : "flag-cl",
       "short_names"     : [
@@ -13011,7 +11931,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CM",
       "short_name"      : "flag-cm",
       "short_names"     : [
@@ -13023,7 +11942,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CN",
       "short_name"      : "flag-cn",
       "short_names"     : [
@@ -13036,7 +11954,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CO",
       "short_name"      : "flag-co",
       "short_names"     : [
@@ -13048,7 +11965,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CR",
       "short_name"      : "flag-cr",
       "short_names"     : [
@@ -13060,7 +11976,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CU",
       "short_name"      : "flag-cu",
       "short_names"     : [
@@ -13072,7 +11987,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CV",
       "short_name"      : "flag-cv",
       "short_names"     : [
@@ -13084,7 +11998,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CW",
       "short_name"      : "flag-cw",
       "short_names"     : [
@@ -13096,7 +12009,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CX",
       "short_name"      : "flag-cx",
       "short_names"     : [
@@ -13108,7 +12020,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CY",
       "short_name"      : "flag-cy",
       "short_names"     : [
@@ -13120,7 +12031,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS CZ",
       "short_name"      : "flag-cz",
       "short_names"     : [
@@ -13132,7 +12042,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DE",
       "short_name"      : "flag-de",
       "short_names"     : [
@@ -13145,7 +12054,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DJ",
       "short_name"      : "flag-dj",
       "short_names"     : [
@@ -13157,7 +12065,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DK",
       "short_name"      : "flag-dk",
       "short_names"     : [
@@ -13169,7 +12076,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DM",
       "short_name"      : "flag-dm",
       "short_names"     : [
@@ -13181,7 +12087,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DO",
       "short_name"      : "flag-do",
       "short_names"     : [
@@ -13193,7 +12098,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS DZ",
       "short_name"      : "flag-dz",
       "short_names"     : [
@@ -13205,7 +12109,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS EC",
       "short_name"      : "flag-ec",
       "short_names"     : [
@@ -13217,7 +12120,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS EE",
       "short_name"      : "flag-ee",
       "short_names"     : [
@@ -13229,7 +12131,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS EG",
       "short_name"      : "flag-eg",
       "short_names"     : [
@@ -13241,7 +12142,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS EH",
       "short_name"      : "flag-eh",
       "short_names"     : [
@@ -13253,7 +12153,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ER",
       "short_name"      : "flag-er",
       "short_names"     : [
@@ -13265,7 +12164,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ES",
       "short_name"      : "flag-es",
       "short_names"     : [
@@ -13278,7 +12176,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ET",
       "short_name"      : "flag-et",
       "short_names"     : [
@@ -13290,7 +12187,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS EU",
       "short_name"      : "flag-eu",
       "short_names"     : [
@@ -13302,7 +12198,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FI",
       "short_name"      : "flag-fi",
       "short_names"     : [
@@ -13314,7 +12209,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FJ",
       "short_name"      : "flag-fj",
       "short_names"     : [
@@ -13326,7 +12220,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FK",
       "short_name"      : "flag-fk",
       "short_names"     : [
@@ -13338,7 +12231,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FM",
       "short_name"      : "flag-fm",
       "short_names"     : [
@@ -13350,7 +12242,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FO",
       "short_name"      : "flag-fo",
       "short_names"     : [
@@ -13362,7 +12253,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS FR",
       "short_name"      : "flag-fr",
       "short_names"     : [
@@ -13375,7 +12265,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GA",
       "short_name"      : "flag-ga",
       "short_names"     : [
@@ -13387,7 +12276,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GB",
       "short_name"      : "flag-gb",
       "short_names"     : [
@@ -13401,7 +12289,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GD",
       "short_name"      : "flag-gd",
       "short_names"     : [
@@ -13413,7 +12300,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GE",
       "short_name"      : "flag-ge",
       "short_names"     : [
@@ -13425,7 +12311,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GF",
       "short_name"      : "flag-gf",
       "short_names"     : [
@@ -13437,7 +12322,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GG",
       "short_name"      : "flag-gg",
       "short_names"     : [
@@ -13449,7 +12333,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GH",
       "short_name"      : "flag-gh",
       "short_names"     : [
@@ -13461,7 +12344,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GI",
       "short_name"      : "flag-gi",
       "short_names"     : [
@@ -13473,7 +12355,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GL",
       "short_name"      : "flag-gl",
       "short_names"     : [
@@ -13485,7 +12366,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GM",
       "short_name"      : "flag-gm",
       "short_names"     : [
@@ -13497,7 +12377,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GN",
       "short_name"      : "flag-gn",
       "short_names"     : [
@@ -13509,7 +12388,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GP",
       "short_name"      : "flag-gp",
       "short_names"     : [
@@ -13521,7 +12399,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GQ",
       "short_name"      : "flag-gq",
       "short_names"     : [
@@ -13533,7 +12410,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GR",
       "short_name"      : "flag-gr",
       "short_names"     : [
@@ -13545,7 +12421,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GS",
       "short_name"      : "flag-gs",
       "short_names"     : [
@@ -13557,7 +12432,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GT",
       "short_name"      : "flag-gt",
       "short_names"     : [
@@ -13569,7 +12443,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GU",
       "short_name"      : "flag-gu",
       "short_names"     : [
@@ -13581,7 +12454,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GW",
       "short_name"      : "flag-gw",
       "short_names"     : [
@@ -13593,7 +12465,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS GY",
       "short_name"      : "flag-gy",
       "short_names"     : [
@@ -13605,7 +12476,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS HK",
       "short_name"      : "flag-hk",
       "short_names"     : [
@@ -13617,7 +12487,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS HN",
       "short_name"      : "flag-hn",
       "short_names"     : [
@@ -13629,7 +12498,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS HR",
       "short_name"      : "flag-hr",
       "short_names"     : [
@@ -13641,7 +12509,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS HT",
       "short_name"      : "flag-ht",
       "short_names"     : [
@@ -13653,7 +12520,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS HU",
       "short_name"      : "flag-hu",
       "short_names"     : [
@@ -13665,7 +12531,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IC",
       "short_name"      : "flag-ic",
       "short_names"     : [
@@ -13677,7 +12542,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ID",
       "short_name"      : "flag-id",
       "short_names"     : [
@@ -13689,7 +12553,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IE",
       "short_name"      : "flag-ie",
       "short_names"     : [
@@ -13701,7 +12564,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IL",
       "short_name"      : "flag-il",
       "short_names"     : [
@@ -13713,7 +12575,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IM",
       "short_name"      : "flag-im",
       "short_names"     : [
@@ -13725,7 +12586,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IN",
       "short_name"      : "flag-in",
       "short_names"     : [
@@ -13737,7 +12597,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IO",
       "short_name"      : "flag-io",
       "short_names"     : [
@@ -13749,7 +12608,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IQ",
       "short_name"      : "flag-iq",
       "short_names"     : [
@@ -13761,7 +12619,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IR",
       "short_name"      : "flag-ir",
       "short_names"     : [
@@ -13773,7 +12630,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IS",
       "short_name"      : "flag-is",
       "short_names"     : [
@@ -13785,7 +12641,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS IT",
       "short_name"      : "flag-it",
       "short_names"     : [
@@ -13798,7 +12653,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS JE",
       "short_name"      : "flag-je",
       "short_names"     : [
@@ -13810,7 +12664,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS JM",
       "short_name"      : "flag-jm",
       "short_names"     : [
@@ -13822,7 +12675,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS JO",
       "short_name"      : "flag-jo",
       "short_names"     : [
@@ -13834,7 +12686,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS JP",
       "short_name"      : "flag-jp",
       "short_names"     : [
@@ -13847,7 +12698,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KE",
       "short_name"      : "flag-ke",
       "short_names"     : [
@@ -13859,7 +12709,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KG",
       "short_name"      : "flag-kg",
       "short_names"     : [
@@ -13871,7 +12720,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KH",
       "short_name"      : "flag-kh",
       "short_names"     : [
@@ -13883,7 +12731,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KI",
       "short_name"      : "flag-ki",
       "short_names"     : [
@@ -13895,7 +12742,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KM",
       "short_name"      : "flag-km",
       "short_names"     : [
@@ -13907,7 +12753,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KN",
       "short_name"      : "flag-kn",
       "short_names"     : [
@@ -13919,7 +12764,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KP",
       "short_name"      : "flag-kp",
       "short_names"     : [
@@ -13931,7 +12775,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KR",
       "short_name"      : "flag-kr",
       "short_names"     : [
@@ -13944,7 +12787,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KW",
       "short_name"      : "flag-kw",
       "short_names"     : [
@@ -13956,7 +12798,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KY",
       "short_name"      : "flag-ky",
       "short_names"     : [
@@ -13968,7 +12809,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS KZ",
       "short_name"      : "flag-kz",
       "short_names"     : [
@@ -13980,7 +12820,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LA",
       "short_name"      : "flag-la",
       "short_names"     : [
@@ -13992,7 +12831,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LB",
       "short_name"      : "flag-lb",
       "short_names"     : [
@@ -14004,7 +12842,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LC",
       "short_name"      : "flag-lc",
       "short_names"     : [
@@ -14016,7 +12853,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LI",
       "short_name"      : "flag-li",
       "short_names"     : [
@@ -14028,7 +12864,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LK",
       "short_name"      : "flag-lk",
       "short_names"     : [
@@ -14040,7 +12875,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LR",
       "short_name"      : "flag-lr",
       "short_names"     : [
@@ -14052,7 +12886,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LS",
       "short_name"      : "flag-ls",
       "short_names"     : [
@@ -14064,7 +12897,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LT",
       "short_name"      : "flag-lt",
       "short_names"     : [
@@ -14076,7 +12908,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LU",
       "short_name"      : "flag-lu",
       "short_names"     : [
@@ -14088,7 +12919,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LV",
       "short_name"      : "flag-lv",
       "short_names"     : [
@@ -14100,7 +12930,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS LY",
       "short_name"      : "flag-ly",
       "short_names"     : [
@@ -14112,7 +12941,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MA",
       "short_name"      : "flag-ma",
       "short_names"     : [
@@ -14124,7 +12952,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MC",
       "short_name"      : "flag-mc",
       "short_names"     : [
@@ -14136,7 +12963,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MD",
       "short_name"      : "flag-md",
       "short_names"     : [
@@ -14148,7 +12974,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ME",
       "short_name"      : "flag-me",
       "short_names"     : [
@@ -14160,7 +12985,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MG",
       "short_name"      : "flag-mg",
       "short_names"     : [
@@ -14172,7 +12996,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MH",
       "short_name"      : "flag-mh",
       "short_names"     : [
@@ -14184,7 +13007,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MK",
       "short_name"      : "flag-mk",
       "short_names"     : [
@@ -14196,7 +13018,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ML",
       "short_name"      : "flag-ml",
       "short_names"     : [
@@ -14208,7 +13029,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MM",
       "short_name"      : "flag-mm",
       "short_names"     : [
@@ -14220,7 +13040,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MN",
       "short_name"      : "flag-mn",
       "short_names"     : [
@@ -14232,7 +13051,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MO",
       "short_name"      : "flag-mo",
       "short_names"     : [
@@ -14244,7 +13062,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MP",
       "short_name"      : "flag-mp",
       "short_names"     : [
@@ -14256,7 +13073,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MQ",
       "short_name"      : "flag-mq",
       "short_names"     : [
@@ -14268,7 +13084,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MR",
       "short_name"      : "flag-mr",
       "short_names"     : [
@@ -14280,7 +13095,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MS",
       "short_name"      : "flag-ms",
       "short_names"     : [
@@ -14292,7 +13106,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MT",
       "short_name"      : "flag-mt",
       "short_names"     : [
@@ -14304,7 +13117,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MU",
       "short_name"      : "flag-mu",
       "short_names"     : [
@@ -14316,7 +13128,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MV",
       "short_name"      : "flag-mv",
       "short_names"     : [
@@ -14328,7 +13139,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MW",
       "short_name"      : "flag-mw",
       "short_names"     : [
@@ -14340,7 +13150,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MX",
       "short_name"      : "flag-mx",
       "short_names"     : [
@@ -14352,7 +13161,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MY",
       "short_name"      : "flag-my",
       "short_names"     : [
@@ -14364,7 +13172,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS MZ",
       "short_name"      : "flag-mz",
       "short_names"     : [
@@ -14376,7 +13183,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NA",
       "short_name"      : "flag-na",
       "short_names"     : [
@@ -14388,7 +13194,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NC",
       "short_name"      : "flag-nc",
       "short_names"     : [
@@ -14400,7 +13205,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NE",
       "short_name"      : "flag-ne",
       "short_names"     : [
@@ -14412,7 +13216,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NF",
       "short_name"      : "flag-nf",
       "short_names"     : [
@@ -14424,7 +13227,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NG",
       "short_name"      : "flag-ng",
       "short_names"     : [
@@ -14436,7 +13238,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NI",
       "short_name"      : "flag-ni",
       "short_names"     : [
@@ -14448,7 +13249,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NL",
       "short_name"      : "flag-nl",
       "short_names"     : [
@@ -14460,7 +13260,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NO",
       "short_name"      : "flag-no",
       "short_names"     : [
@@ -14472,7 +13271,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NP",
       "short_name"      : "flag-np",
       "short_names"     : [
@@ -14484,7 +13282,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NR",
       "short_name"      : "flag-nr",
       "short_names"     : [
@@ -14496,7 +13293,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NU",
       "short_name"      : "flag-nu",
       "short_names"     : [
@@ -14508,7 +13304,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS NZ",
       "short_name"      : "flag-nz",
       "short_names"     : [
@@ -14520,7 +13315,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS OM",
       "short_name"      : "flag-om",
       "short_names"     : [
@@ -14532,7 +13326,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PA",
       "short_name"      : "flag-pa",
       "short_names"     : [
@@ -14544,7 +13337,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PE",
       "short_name"      : "flag-pe",
       "short_names"     : [
@@ -14556,7 +13348,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PF",
       "short_name"      : "flag-pf",
       "short_names"     : [
@@ -14568,7 +13359,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PG",
       "short_name"      : "flag-pg",
       "short_names"     : [
@@ -14580,7 +13370,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PH",
       "short_name"      : "flag-ph",
       "short_names"     : [
@@ -14592,7 +13381,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PK",
       "short_name"      : "flag-pk",
       "short_names"     : [
@@ -14604,7 +13392,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PL",
       "short_name"      : "flag-pl",
       "short_names"     : [
@@ -14616,7 +13403,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PM",
       "short_name"      : "flag-pm",
       "short_names"     : [
@@ -14628,7 +13414,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PN",
       "short_name"      : "flag-pn",
       "short_names"     : [
@@ -14640,7 +13425,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PR",
       "short_name"      : "flag-pr",
       "short_names"     : [
@@ -14652,7 +13436,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PS",
       "short_name"      : "flag-ps",
       "short_names"     : [
@@ -14664,7 +13447,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PT",
       "short_name"      : "flag-pt",
       "short_names"     : [
@@ -14676,7 +13458,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PW",
       "short_name"      : "flag-pw",
       "short_names"     : [
@@ -14688,7 +13469,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS PY",
       "short_name"      : "flag-py",
       "short_names"     : [
@@ -14700,7 +13480,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS QA",
       "short_name"      : "flag-qa",
       "short_names"     : [
@@ -14712,7 +13491,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS RE",
       "short_name"      : "flag-re",
       "short_names"     : [
@@ -14724,7 +13502,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS RO",
       "short_name"      : "flag-ro",
       "short_names"     : [
@@ -14736,7 +13513,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS RS",
       "short_name"      : "flag-rs",
       "short_names"     : [
@@ -14748,7 +13524,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS RU",
       "short_name"      : "flag-ru",
       "short_names"     : [
@@ -14761,7 +13536,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS RW",
       "short_name"      : "flag-rw",
       "short_names"     : [
@@ -14773,7 +13547,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SA",
       "short_name"      : "flag-sa",
       "short_names"     : [
@@ -14785,7 +13558,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SB",
       "short_name"      : "flag-sb",
       "short_names"     : [
@@ -14797,7 +13569,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SC",
       "short_name"      : "flag-sc",
       "short_names"     : [
@@ -14809,7 +13580,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SD",
       "short_name"      : "flag-sd",
       "short_names"     : [
@@ -14821,7 +13591,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SE",
       "short_name"      : "flag-se",
       "short_names"     : [
@@ -14833,7 +13602,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SG",
       "short_name"      : "flag-sg",
       "short_names"     : [
@@ -14845,7 +13613,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SH",
       "short_name"      : "flag-sh",
       "short_names"     : [
@@ -14857,7 +13624,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SI",
       "short_name"      : "flag-si",
       "short_names"     : [
@@ -14869,7 +13635,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SK",
       "short_name"      : "flag-sk",
       "short_names"     : [
@@ -14881,7 +13646,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SL",
       "short_name"      : "flag-sl",
       "short_names"     : [
@@ -14893,7 +13657,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SM",
       "short_name"      : "flag-sm",
       "short_names"     : [
@@ -14905,7 +13668,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SN",
       "short_name"      : "flag-sn",
       "short_names"     : [
@@ -14917,7 +13679,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SO",
       "short_name"      : "flag-so",
       "short_names"     : [
@@ -14929,7 +13690,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SR",
       "short_name"      : "flag-sr",
       "short_names"     : [
@@ -14941,7 +13701,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SS",
       "short_name"      : "flag-ss",
       "short_names"     : [
@@ -14953,7 +13712,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ST",
       "short_name"      : "flag-st",
       "short_names"     : [
@@ -14965,7 +13723,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SV",
       "short_name"      : "flag-sv",
       "short_names"     : [
@@ -14977,7 +13734,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SX",
       "short_name"      : "flag-sx",
       "short_names"     : [
@@ -14989,7 +13745,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SY",
       "short_name"      : "flag-sy",
       "short_names"     : [
@@ -15001,7 +13756,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS SZ",
       "short_name"      : "flag-sz",
       "short_names"     : [
@@ -15013,7 +13767,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TC",
       "short_name"      : "flag-tc",
       "short_names"     : [
@@ -15025,7 +13778,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TD",
       "short_name"      : "flag-td",
       "short_names"     : [
@@ -15037,7 +13789,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TF",
       "short_name"      : "flag-tf",
       "short_names"     : [
@@ -15049,7 +13800,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TG",
       "short_name"      : "flag-tg",
       "short_names"     : [
@@ -15061,7 +13811,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TH",
       "short_name"      : "flag-th",
       "short_names"     : [
@@ -15073,7 +13822,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TJ",
       "short_name"      : "flag-tj",
       "short_names"     : [
@@ -15085,7 +13833,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TK",
       "short_name"      : "flag-tk",
       "short_names"     : [
@@ -15097,7 +13844,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TL",
       "short_name"      : "flag-tl",
       "short_names"     : [
@@ -15109,7 +13855,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TM",
       "short_name"      : "flag-tm",
       "short_names"     : [
@@ -15121,7 +13866,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TN",
       "short_name"      : "flag-tn",
       "short_names"     : [
@@ -15133,7 +13877,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TO",
       "short_name"      : "flag-to",
       "short_names"     : [
@@ -15145,7 +13888,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TR",
       "short_name"      : "flag-tr",
       "short_names"     : [
@@ -15157,7 +13899,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TT",
       "short_name"      : "flag-tt",
       "short_names"     : [
@@ -15169,7 +13910,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TV",
       "short_name"      : "flag-tv",
       "short_names"     : [
@@ -15181,7 +13921,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TW",
       "short_name"      : "flag-tw",
       "short_names"     : [
@@ -15193,7 +13932,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS TZ",
       "short_name"      : "flag-tz",
       "short_names"     : [
@@ -15205,7 +13943,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS UA",
       "short_name"      : "flag-ua",
       "short_names"     : [
@@ -15217,7 +13954,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS UG",
       "short_name"      : "flag-ug",
       "short_names"     : [
@@ -15229,7 +13965,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS US",
       "short_name"      : "flag-us",
       "short_names"     : [
@@ -15242,7 +13977,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS UY",
       "short_name"      : "flag-uy",
       "short_names"     : [
@@ -15254,7 +13988,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS UZ",
       "short_name"      : "flag-uz",
       "short_names"     : [
@@ -15266,7 +13999,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VA",
       "short_name"      : "flag-va",
       "short_names"     : [
@@ -15278,7 +14010,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VC",
       "short_name"      : "flag-vc",
       "short_names"     : [
@@ -15290,7 +14021,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VE",
       "short_name"      : "flag-ve",
       "short_names"     : [
@@ -15302,7 +14032,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VG",
       "short_name"      : "flag-vg",
       "short_names"     : [
@@ -15314,7 +14043,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VI",
       "short_name"      : "flag-vi",
       "short_names"     : [
@@ -15326,7 +14054,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VN",
       "short_name"      : "flag-vn",
       "short_names"     : [
@@ -15338,7 +14065,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS VU",
       "short_name"      : "flag-vu",
       "short_names"     : [
@@ -15350,7 +14076,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS WF",
       "short_name"      : "flag-wf",
       "short_names"     : [
@@ -15362,7 +14087,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS WS",
       "short_name"      : "flag-ws",
       "short_names"     : [
@@ -15374,7 +14098,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS XK",
       "short_name"      : "flag-xk",
       "short_names"     : [
@@ -15386,7 +14109,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS YE",
       "short_name"      : "flag-ye",
       "short_names"     : [
@@ -15398,7 +14120,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : false,
       "has_img_twitter" : true,
-      "has_img_emojione": false,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS YT",
       "short_name"      : "flag-yt",
       "short_names"     : [
@@ -15410,7 +14131,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ZA",
       "short_name"      : "flag-za",
       "short_names"     : [
@@ -15422,7 +14142,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ZM",
       "short_name"      : "flag-zm",
       "short_names"     : [
@@ -15434,7 +14153,6 @@ export default {
       "has_img_apple"   : true,
       "has_img_google"  : true,
       "has_img_twitter" : true,
-      "has_img_emojione": true,
       "name"            : "REGIONAL INDICATOR SYMBOL LETTERS ZW",
       "short_name"      : "flag-zw",
       "short_names"     : [

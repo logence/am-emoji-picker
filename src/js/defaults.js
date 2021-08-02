@@ -83,13 +83,12 @@ export default {
     sheets: {
         apple: './sheets/sheet_apple_64_indexed_128.png',
         google: './sheets/sheet_google_64_indexed_128.png',
-        twitter: './sheets/sheet_twitter_64_indexed_128.png',
-        emojione: './sheets/sheet_emojione_64_indexed_128.png'
+        twitter: './sheets/sheet_twitter_64_indexed_128.png'
     },
 
     //Set the default sheet
     //Default value is 'apple'
-    //Possible values are 'apple','google','twitter','emojione'
+    //Possible values are 'apple','google','twitter'
     palette: 'apple',
 
     //Set the default saving method in getHtml method

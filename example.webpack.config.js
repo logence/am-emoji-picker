@@ -1,5 +1,5 @@
 const path = require('path');
-const is_production = process.env.NODE_ENV === "production";
+const is_production = require('yargs').argv.mode === "production";
 
 module.exports = {
     entry    : {

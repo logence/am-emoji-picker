@@ -1,7 +1,7 @@
 {
   "name": "am-emoji-picker",
   "description": "A modular emoji picker written with modern front-end in mind.",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "keywords": [
     "emoji",
     "emoji-picker",
@@ -12,7 +12,22 @@
     "jquery"
   ],
   "license": "MIT",
-  "author": "Arman Khachatryan",
+  "author": {
+    "name": "Arman Khachatryan",
+    "email": "a.khachatryan@programmer.net",
+    "url": "https://arm092.github.io/"
+  },
+  "contributors": [
+    {
+      "name": "Dmitry Serzhenko",
+      "email": "dmitry@serzhenko.me",
+      "url": "https://serzhenko.me/"
+    },
+    {
+      "name": "Robert Menke",
+      "email": "robert.b.menke@gmail.com"
+    }
+  ],
   "repository": "https://github.com/arm092/am-emoji-picker",
   "bugs": "https://github.com/arm092/am-emoji-picker/issues",
   "dependencies": {
@@ -30,7 +45,7 @@
     "babel-preset-env": "1.7.0",
     "babel-preset-es2015": "^6.24.1",
     "glob": "7.1.1",
-    "jquery": "3.3.1",
+    "jquery": "^3.6.0",
     "mustache": "^4.0.0",
     "mustache-loader": "^1.4.3",
     "url-loader": "^3.0.0",

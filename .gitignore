@@ -2,3 +2,5 @@
 node_modules/
 yarn.lock
 .sass-cache
+yarn-error.log
+package-lock.json
