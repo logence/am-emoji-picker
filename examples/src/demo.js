@@ -11,7 +11,8 @@ $(document).ready(() => {
         sheets: {
             apple   : './../sheets/sheet_apple_64_indexed_128.png',
             google  : './../sheets/sheet_google_64_indexed_128.png',
-            twitter : './../sheets/sheet_twitter_64_indexed_128.png'
+            twitter : './../sheets/sheet_twitter_64_indexed_128.png',
+            facebook : './../sheets/sheet_facebook_64_indexed_128.png'
         },
         palette: 'twitter',
         positioning: "vertical",

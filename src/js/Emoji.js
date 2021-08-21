@@ -44,6 +44,11 @@ export default class Emoji {
         this.has_twitter_img  = data['has_img_twitter'];
 
         /**
+         * @type {Boolean}
+         */
+        this.has_facebook_img  = data['has_img_facebook'];
+
+        /**
          * @type {String} - the name of the category
          */
         this.category         = category;

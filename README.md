@@ -211,9 +211,12 @@ There are 5 objects that work together to create and manage the emoji picker:
 * Render text emoji like ':)' to emoji
 * Prevent close after click on emoji
 * Add latest emoji saving
-* Add "facebook" sheet
 
 # Changelog
+0.8.0
+* Added `facebook` sheet
+* Updated emoji set to 13.1 (2021)
+
 0.7.0
 * Fixed `default_footer_message` option ignored
 * Fixed webpack configs for correct environment handling and for UMD modules building

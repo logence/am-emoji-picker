@@ -42,6 +42,7 @@ class Converters {
             converter.img_sets.apple.sheet = sheets.apple;
             converter.img_sets.google.sheet = sheets.google;
             converter.img_sets.twitter.sheet = sheets.twitter;
+            converter.img_sets.facebook.sheet = sheets.facebook;
             converter.use_sheet = true;
         });
     }
@@ -52,7 +53,7 @@ class Converters {
      * @param palette
      */
     setDefaultPalette(palette = 'apple') {
-        palette = ['apple', 'twitter', 'google'].includes(palette) ? palette : 'apple';
+        palette = ['apple', 'twitter', 'google', 'facebook'].includes(palette) ? palette : 'apple';
 
         [this.withEnvironment(), this.withImage()].forEach(/**EmojiConvertor*/converter => {
             converter.img_set = palette;

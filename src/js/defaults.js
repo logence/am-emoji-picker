@@ -3,28 +3,36 @@ export default {
     //to the names of categories in data.js
     categories: [
         {
-            title: "People",
+            title: "Smileys & Emotion",
             icon: '<i class="fas fa-smile" aria-hidden="true"></i>'
         },
         {
-            title: "Nature",
+            title: "People & Body",
+            icon: '<i class="fas fa-user" aria-hidden="true"></i>'
+        },
+        {
+            title: "Animals & Nature",
             icon: '<i class="fas fa-leaf" aria-hidden="true"></i>'
         },
         {
-            title: "Foods",
+            title: "Food & Drink",
             icon: '<i class="fas fa-utensils" aria-hidden="true"></i>'
         },
         {
-            title: "Activity",
+            title: "Activities",
             icon: '<i class="fas fa-futbol" aria-hidden="true"></i>'
         },
         {
-            title: "Places",
+            title: "Travel & Places",
             icon: '<i class="fas fa-globe" aria-hidden="true"></i>'
         },
         {
             title: "Symbols",
             icon: '<i class="fas fa-lightbulb" aria-hidden="true"></i>'
+        },
+        {
+            title: "Objects",
+            icon: '<i class="fas fa-pied-piper-hat" aria-hidden="true"></i>'
         },
         {
             title: "Flags",
@@ -83,12 +91,13 @@ export default {
     sheets: {
         apple: './sheets/sheet_apple_64_indexed_128.png',
         google: './sheets/sheet_google_64_indexed_128.png',
-        twitter: './sheets/sheet_twitter_64_indexed_128.png'
+        twitter: './sheets/sheet_twitter_64_indexed_128.png',
+        facebook: './sheets/sheet_facebook_64_indexed_128.png'
     },
 
     //Set the default sheet
     //Default value is 'apple'
-    //Possible values are 'apple','google','twitter'
+    //Possible values are 'apple','google','twitter','facebook'
     palette: 'apple',
 
     //Set the default saving method in getHtml method
